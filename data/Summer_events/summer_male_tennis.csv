@@ -1,0 +1,516 @@
+Age,Height,Weight,Team,Year,City,Event,Medal
+26.0,180.0,80.0,United States,1996,Atlanta,Tennis Men's Singles,Gold
+23.0,180.0,79.0,Haiti,1988,Seoul,Tennis Men's Singles,---
+31.0,180.0,79.0,Haiti,1996,Atlanta,Tennis Men's Singles,---
+19.0,185.0,85.0,Morocco,1992,Barcelona,Tennis Men's Singles,---
+27.0,185.0,85.0,Morocco,2000,Sydney,Tennis Men's Singles,---
+26.0,175.0,70.0,Moldova,2016,Rio de Janeiro,Tennis Men's Singles,---
+30.0,187.0,84.0,Bermuda,1988,Seoul,Tennis Men's Singles,---
+18.0,180.0,64.0,India,1988,Seoul,Tennis Men's Singles,---
+22.0,180.0,84.0,Spain,2008,Beijing,Tennis Men's Singles,---
+26.0,180.0,84.0,Spain,2012,London,Tennis Men's Singles,---
+24.0,175.0,66.0,Spain,1920,Antwerpen,Tennis Men's Singles,---
+28.0,175.0,66.0,Spain,1924,Paris,Tennis Men's Singles,---
+34.0,193.0,75.0,India,1988,Seoul,Tennis Men's Singles,---
+20.0,195.0,84.0,Croatia,2004,Athina,Tennis Men's Singles,---
+22.0,200.0,86.0,South Africa,2008,Beijing,Tennis Men's Singles,---
+21.0,182.0,80.0,Russia,2004,Athina,Tennis Men's Singles,---
+25.0,182.0,80.0,Russia,2008,Beijing,Tennis Men's Singles,---
+22.0,188.0,85.0,Austria,1988,Seoul,Tennis Men's Singles,---
+22.0,175.0,65.0,Morocco,1996,Atlanta,Tennis Men's Singles,---
+30.0,175.0,65.0,Morocco,2004,Athina,Tennis Men's Singles,---
+22.0,180.0,76.0,El Salvador,2008,Beijing,Tennis Men's Singles,---
+30.0,182.0,72.0,Peru,1992,Barcelona,Tennis Men's Singles,---
+27.0,175.0,74.0,Spain,1992,Barcelona,Tennis Men's Singles,Silver
+33.0,191.0,80.0,Australia,2004,Athina,Tennis Men's Singles,---
+31.0,191.0,77.0,United States,2016,Rio de Janeiro,Tennis Men's Singles,---
+25.0,188.0,87.0,Bosnia and Herzegovina,2016,Rio de Janeiro,Tennis Men's Singles,---
+24.0,185.0,80.0,Georgia,2016,Rio de Janeiro,Tennis Men's Singles,---
+26.0,180.0,72.0,Great Britain,1988,Seoul,Tennis Men's Singles,---
+28.0,183.0,76.0,Spain,2016,Rio de Janeiro,Tennis Men's Singles,---
+22.0,181.0,75.0,Slovakia,2004,Athina,Tennis Men's Singles,---
+24.0,192.0,85.0,Germany,1992,Barcelona,Tennis Men's Singles,---
+20.0,187.0,80.0,Brazil,2008,Beijing,Tennis Men's Singles,---
+24.0,187.0,80.0,Brazil,2012,London,Tennis Men's Singles,---
+28.0,187.0,80.0,Brazil,2016,Rio de Janeiro,Tennis Men's Singles,---
+30.0,185.0,79.0,France,2012,London,Tennis Men's Singles,---
+26.0,175.0,70.0,Lithuania,2016,Rio de Janeiro,Tennis Men's Singles,---
+18.0,195.0,90.0,Czech Republic,2004,Athina,Tennis Men's Singles,---
+22.0,195.0,90.0,Czech Republic,2008,Beijing,Tennis Men's Singles,---
+26.0,195.0,90.0,Czech Republic,2012,London,Tennis Men's Singles,---
+29.0,184.0,81.0,Argentina,2012,London,Tennis Men's Singles,---
+24.0,184.0,83.0,Sweden,1996,Atlanta,Tennis Men's Singles,---
+32.0,184.0,83.0,Sweden,2004,Athina,Tennis Men's Singles,---
+36.0,184.0,83.0,Sweden,2008,Beijing,Tennis Men's Singles,---
+26.0,175.0,70.0,Zimbabwe,1996,Atlanta,Tennis Men's Singles,---
+22.0,170.0,70.0,Zimbabwe,1996,Atlanta,Tennis Men's Singles,---
+26.0,170.0,70.0,Zimbabwe,2000,Sydney,Tennis Men's Singles,---
+28.0,185.0,83.0,United States,2008,Beijing,Tennis Men's Singles,---
+21.0,171.0,68.0,Israel,1988,Seoul,Tennis Men's Singles,---
+25.0,171.0,68.0,Israel,1992,Barcelona,Tennis Men's Singles,---
+27.0,183.0,76.0,France,1996,Atlanta,Tennis Men's Singles,---
+29.0,178.0,77.0,Russia,2012,London,Tennis Men's Singles,---
+22.0,185.0,84.0,Italy,2008,Beijing,Tennis Men's Singles,---
+25.0,183.0,76.0,France,1924,Paris,Tennis Men's Singles,---
+31.0,196.0,78.0,Germany,2016,Rio de Janeiro,Tennis Men's Singles,---
+24.0,168.0,64.0,France,1920,Antwerpen,Tennis Men's Singles,---
+21.0,188.0,75.0,Spain,1992,Barcelona,Tennis Men's Singles,---
+25.0,188.0,75.0,Spain,1996,Atlanta,Tennis Men's Singles,Silver
+22.0,188.0,75.0,Australia,1988,Seoul,Tennis Men's Singles,---
+27.0,182.0,86.0,Argentina,2004,Athina,Tennis Men's Singles,---
+31.0,182.0,86.0,Argentina,2008,Beijing,Tennis Men's Singles,---
+20.0,188.0,78.0,Italy,1988,Seoul,Tennis Men's Singles,---
+24.0,188.0,78.0,Italy,1992,Barcelona,Tennis Men's Singles,---
+30.0,185.0,85.0,Argentina,2008,Beijing,Tennis Men's Singles,---
+23.0,180.0,68.0,Italy,1988,Seoul,Tennis Men's Singles,---
+22.0,178.0,68.0,Italy,1992,Barcelona,Tennis Men's Singles,---
+19.0,192.0,87.0,Denmark,1992,Barcelona,Tennis Men's Singles,---
+23.0,192.0,87.0,Denmark,1996,Atlanta,Tennis Men's Singles,---
+29.0,188.0,78.0,France,2004,Athina,Tennis Men's Singles,---
+26.0,186.0,75.0,Spain,1988,Seoul,Tennis Men's Singles,---
+22.0,177.0,75.0,Ireland,1992,Barcelona,Tennis Men's Singles,---
+24.0,190.0,74.0,Great Britain,1988,Seoul,Tennis Men's Singles,---
+28.0,190.0,74.0,Great Britain,1992,Barcelona,Tennis Men's Singles,---
+20.0,175.0,72.0,United States,1992,Barcelona,Tennis Men's Singles,---
+28.0,175.0,72.0,United States,2000,Sydney,Tennis Men's Singles,---
+26.0,178.0,70.0,Paraguay,1988,Seoul,Tennis Men's Singles,---
+21.0,190.0,75.0,Argentina,2000,Sydney,Tennis Men's Singles,---
+24.0,190.0,75.0,Argentina,2004,Athina,Tennis Men's Singles,---
+18.0,180.0,73.0,Soviet Union,1988,Seoul,Tennis Men's Singles,---
+22.0,180.0,73.0,Unified Team,1992,Barcelona,Tennis Men's Singles,Bronze
+22.0,188.0,75.0,Soviet Union,1988,Seoul,Tennis Men's Singles,---
+26.0,188.0,75.0,Unified Team,1992,Barcelona,Tennis Men's Singles,---
+23.0,190.0,82.0,Denmark,1988,Seoul,Tennis Men's Singles,---
+19.0,198.0,82.0,Croatia,2008,Beijing,Tennis Men's Singles,---
+23.0,198.0,82.0,Croatia,2012,London,Tennis Men's Singles,---
+27.0,198.0,82.0,Croatia,2016,Rio de Janeiro,Tennis Men's Singles,---
+22.0,172.0,72.0,France,2000,Sydney,Tennis Men's Singles,---
+26.0,172.0,72.0,France,2004,Athina,Tennis Men's Singles,---
+22.0,187.0,79.0,Canada,1988,Seoul,Tennis Men's Singles,---
+19.0,185.0,75.0,Croatia,2016,Rio de Janeiro,Tennis Men's Singles,---
+26.0,180.0,70.0,Spain,2000,Sydney,Tennis Men's Singles,---
+21.0,180.0,78.0,Spain,1996,Atlanta,Tennis Men's Singles,---
+25.0,180.0,78.0,Spain,2000,Sydney,Tennis Men's Singles,---
+18.0,183.0,79.0,Spain,1996,Atlanta,Tennis Men's Singles,---
+21.0,185.0,82.0,United States,1992,Barcelona,Tennis Men's Singles,---
+26.0,190.0,79.0,Great Britain,2000,Sydney,Tennis Men's Singles,---
+30.0,180.0,79.0,Uruguay,2016,Rio de Janeiro,Tennis Men's Singles,---
+23.0,190.0,85.0,Canada,2008,Beijing,Tennis Men's Singles,---
+30.0,180.0,79.0,Brazil,2008,Beijing,Tennis Men's Singles,---
+23.0,191.0,76.0,Japan,2016,Rio de Janeiro,Tennis Men's Singles,---
+24.0,178.0,74.0,Belgium,2008,Beijing,Tennis Men's Singles,---
+28.0,178.0,74.0,Belgium,2012,London,Tennis Men's Singles,---
+24.0,183.0,86.0,United States,1904,St. Louis,Tennis Men's Singles,---
+23.0,178.0,70.0,Russia,2004,Athina,Tennis Men's Singles,---
+27.0,178.0,70.0,Russia,2008,Beijing,Tennis Men's Singles,---
+31.0,178.0,70.0,Russia,2012,London,Tennis Men's Singles,---
+23.0,198.0,97.0,Argentina,2012,London,Tennis Men's Singles,Bronze
+27.0,198.0,97.0,Argentina,2016,Rio de Janeiro,Tennis Men's Singles,Silver
+25.0,190.0,88.0,Argentina,2016,Rio de Janeiro,Tennis Men's Singles,---
+23.0,187.0,88.0,United States,2004,Athina,Tennis Men's Singles,---
+27.0,180.0,73.0,India,2012,London,Tennis Men's Singles,---
+21.0,185.0,80.0,France,2000,Sydney,Tennis Men's Singles,Bronze
+21.0,190.0,81.0,Bulgaria,2012,London,Tennis Men's Singles,---
+25.0,190.0,81.0,Bulgaria,2016,Rio de Janeiro,Tennis Men's Singles,---
+27.0,183.0,83.0,Croatia,2012,London,Tennis Men's Singles,---
+26.0,185.0,74.0,Russia,2016,Rio de Janeiro,Tennis Men's Singles,---
+30.0,183.0,79.0,Czech Republic,2000,Sydney,Tennis Men's Singles,---
+21.0,188.0,80.0,Serbia,2008,Beijing,Tennis Men's Singles,Bronze
+25.0,188.0,80.0,Serbia,2012,London,Tennis Men's Singles,---
+29.0,188.0,80.0,Serbia,2016,Rio de Janeiro,Tennis Men's Singles,---
+32.0,178.0,73.0,Brazil,2016,Rio de Janeiro,Tennis Men's Singles,---
+24.0,175.0,65.0,Bosnia and Herzegovina,2016,Rio de Janeiro,Tennis Men's Singles,---
+22.0,186.0,77.0,Sweden,1988,Seoul,Tennis Men's Singles,Bronze
+26.0,186.0,77.0,Sweden,1992,Barcelona,Tennis Men's Singles,---
+21.0,188.0,80.0,Great Britain,2016,Rio de Janeiro,Tennis Men's Singles,---
+20.0,190.0,75.0,Morocco,1992,Barcelona,Tennis Men's Singles,---
+32.0,190.0,75.0,Morocco,2004,Athina,Tennis Men's Singles,---
+25.0,183.0,76.0,Portugal,2016,Rio de Janeiro,Tennis Men's Singles,---
+25.0,189.0,78.0,Netherlands,1996,Atlanta,Tennis Men's Singles,---
+22.0,191.0,87.0,Sweden,1996,Atlanta,Tennis Men's Singles,---
+30.0,191.0,87.0,Sweden,2004,Athina,Tennis Men's Singles,---
+24.0,185.0,70.0,France,2000,Sydney,Tennis Men's Singles,---
+36.0,173.0,77.0,Dominican Republic,2016,Rio de Janeiro,Tennis Men's Singles,---
+21.0,185.0,81.0,Argentina,1996,Atlanta,Tennis Men's Singles,---
+26.0,175.0,70.0,New Zealand,1988,Seoul,Tennis Men's Singles,---
+27.0,173.0,70.0,Italy,2016,Rio de Janeiro,Tennis Men's Singles,---
+28.0,181.0,82.0,Colombia,2012,London,Tennis Men's Singles,---
+19.0,185.0,80.0,Switzerland,2000,Sydney,Tennis Men's Singles,---
+23.0,185.0,80.0,Switzerland,2004,Athina,Tennis Men's Singles,---
+26.0,185.0,80.0,Switzerland,2008,Beijing,Tennis Men's Singles,---
+30.0,185.0,80.0,Switzerland,2012,London,Tennis Men's Singles,Silver
+20.0,185.0,85.0,South Africa,1992,Barcelona,Tennis Men's Singles,---
+24.0,185.0,85.0,South Africa,1996,Atlanta,Tennis Men's Singles,---
+28.0,185.0,85.0,South Africa,2000,Sydney,Tennis Men's Singles,---
+26.0,175.0,73.0,Spain,2008,Beijing,Tennis Men's Singles,---
+30.0,175.0,73.0,Spain,2012,London,Tennis Men's Singles,---
+34.0,175.0,73.0,Spain,2016,Rio de Janeiro,Tennis Men's Singles,---
+20.0,185.0,75.0,Spain,2000,Sydney,Tennis Men's Singles,---
+24.0,185.0,75.0,Spain,2004,Athina,Tennis Men's Singles,---
+26.0,191.0,78.0,Denmark,1996,Atlanta,Tennis Men's Singles,---
+28.0,178.0,65.0,Uruguay,1996,Atlanta,Tennis Men's Singles,---
+22.0,187.0,81.0,United States,2004,Athina,Tennis Men's Singles,Silver
+27.0,185.0,77.0,Australia,1988,Seoul,Tennis Men's Singles,---
+25.0,179.0,77.0,Italy,2012,London,Tennis Men's Singles,---
+29.0,179.0,77.0,Italy,2016,Rio de Janeiro,Tennis Men's Singles,---
+23.0,189.0,79.0,France,1988,Seoul,Tennis Men's Singles,---
+27.0,189.0,79.0,France,1992,Barcelona,Tennis Men's Singles,---
+21.0,183.0,74.0,Argentina,1988,Seoul,Tennis Men's Singles,---
+25.0,183.0,74.0,Argentina,1992,Barcelona,Tennis Men's Singles,---
+29.0,183.0,74.0,Argentina,1996,Atlanta,Tennis Men's Singles,---
+22.0,196.0,88.0,Australia,1992,Barcelona,Tennis Men's Singles,---
+22.0,175.0,70.0,Italy,1992,Barcelona,Tennis Men's Singles,---
+26.0,175.0,70.0,Italy,1996,Atlanta,Tennis Men's Singles,---
+31.0,188.0,83.0,Russia,2016,Rio de Janeiro,Tennis Men's Singles,---
+26.0,185.0,75.0,France,2012,London,Tennis Men's Singles,---
+22.0,183.0,83.0,Italy,1996,Atlanta,Tennis Men's Singles,---
+21.0,175.0,70.0,Argentina,2000,Sydney,Tennis Men's Singles,---
+27.0,185.0,79.0,United States,1988,Seoul,Tennis Men's Singles,Bronze
+25.0,188.0,84.0,United States,2008,Beijing,Tennis Men's Singles,---
+24.0,188.0,75.0,Colombia,2012,London,Tennis Men's Singles,---
+25.0,196.0,85.0,Germany,1996,Atlanta,Tennis Men's Singles,---
+21.0,180.0,69.0,Belgium,2012,London,Tennis Men's Singles,---
+25.0,180.0,69.0,Belgium,2016,Rio de Janeiro,Tennis Men's Singles,---
+24.0,182.0,82.0,Chile,2004,Athina,Tennis Men's Singles,Bronze
+28.0,182.0,82.0,Chile,2008,Beijing,Tennis Men's Singles,Silver
+26.0,175.0,66.0,France,2004,Athina,Tennis Men's Singles,---
+28.0,193.0,100.0,Australia,2016,Rio de Janeiro,Tennis Men's Singles,---
+23.0,200.0,92.0,Australia,2008,Beijing,Tennis Men's Singles,---
+19.0,190.0,76.0,Latvia,2008,Beijing,Tennis Men's Singles,---
+24.0,188.0,90.0,Argentina,1996,Atlanta,Tennis Men's Singles,---
+22.0,185.0,70.0,Zimbabwe,1988,Seoul,Tennis Men's Singles,---
+25.0,185.0,86.0,Sweden,1992,Barcelona,Tennis Men's Singles,---
+29.0,185.0,86.0,Sweden,1996,Atlanta,Tennis Men's Singles,---
+26.0,188.0,80.0,Netherlands,1992,Barcelona,Tennis Men's Singles,---
+30.0,188.0,80.0,Netherlands,1996,Atlanta,Tennis Men's Singles,---
+22.0,188.0,78.0,Germany,2000,Sydney,Tennis Men's Singles,Silver
+26.0,188.0,78.0,Germany,2004,Athina,Tennis Men's Singles,---
+25.0,190.0,77.0,Netherlands,2012,London,Tennis Men's Singles,---
+29.0,190.0,77.0,Netherlands,2016,Rio de Janeiro,Tennis Men's Singles,---
+23.0,198.0,83.0,Romania,2004,Athina,Tennis Men's Singles,---
+27.0,198.0,83.0,Romania,2008,Beijing,Tennis Men's Singles,---
+20.0,183.0,82.0,United States,2012,London,Tennis Men's Singles,---
+21.0,185.0,77.0,Great Britain,1996,Atlanta,Tennis Men's Singles,---
+26.0,185.0,77.0,Great Britain,2000,Sydney,Tennis Men's Singles,---
+29.0,185.0,77.0,Great Britain,2004,Athina,Tennis Men's Singles,---
+18.0,180.0,76.0,Mexico,1996,Atlanta,Tennis Men's Singles,---
+19.0,180.0,68.0,Australia,2000,Sydney,Tennis Men's Singles,---
+27.0,180.0,68.0,Australia,2008,Beijing,Tennis Men's Singles,---
+31.0,180.0,68.0,Australia,2012,London,Tennis Men's Singles,---
+23.0,188.0,75.0,Switzerland,1988,Seoul,Tennis Men's Singles,---
+27.0,188.0,75.0,Switzerland,1992,Barcelona,Tennis Men's Singles,---
+23.0,180.0,80.0,Peru,2004,Athina,Tennis Men's Singles,---
+22.0,182.0,75.0,Slovakia,2000,Sydney,Tennis Men's Singles,---
+26.0,182.0,75.0,Slovakia,2004,Athina,Tennis Men's Singles,---
+30.0,182.0,75.0,Slovakia,2008,Beijing,Tennis Men's Singles,---
+24.0,182.0,73.0,Australia,2000,Sydney,Tennis Men's Singles,---
+27.0,206.0,111.0,United States,2012,London,Tennis Men's Singles,---
+25.0,188.0,88.0,Uzbekistan,2012,London,Tennis Men's Singles,---
+29.0,188.0,88.0,Uzbekistan,2016,Rio de Janeiro,Tennis Men's Singles,---
+24.0,181.0,75.0,Japan,2012,London,Tennis Men's Singles,---
+17.0,194.0,78.0,Yugoslavia,1988,Seoul,Tennis Men's Singles,---
+20.0,194.0,78.0,Croatia,1992,Barcelona,Tennis Men's Singles,Bronze
+24.0,194.0,78.0,Croatia,1996,Atlanta,Tennis Men's Singles,---
+29.0,194.0,78.0,Croatia,2000,Sydney,Tennis Men's Singles,---
+23.0,180.0,70.0,Argentina,1988,Seoul,Tennis Men's Singles,---
+23.0,182.0,80.0,South Korea,1992,Barcelona,Tennis Men's Singles,---
+25.0,204.0,91.0,Poland,2016,Rio de Janeiro,Tennis Men's Singles,---
+27.0,180.0,70.0,Sweden,1988,Seoul,Tennis Men's Singles,---
+28.0,185.0,82.0,Tunisia,2012,London,Tennis Men's Singles,---
+32.0,185.0,82.0,Tunisia,2016,Rio de Janeiro,Tennis Men's Singles,---
+23.0,184.0,77.0,West Germany,1988,Seoul,Tennis Men's Singles,---
+22.0,200.0,85.0,Sweden,2004,Athina,Tennis Men's Singles,---
+25.0,175.0,80.0,Sweden,2000,Sydney,Tennis Men's Singles,---
+33.0,175.0,80.0,Sweden,2008,Beijing,Tennis Men's Singles,---
+26.0,188.0,86.0,United States,2016,Rio de Janeiro,Tennis Men's Singles,---
+26.0,191.0,83.0,Russia,2000,Sydney,Tennis Men's Singles,Gold
+29.0,192.0,82.0,Greece,1988,Seoul,Tennis Men's Singles,---
+25.0,208.0,98.0,Croatia,2004,Athina,Tennis Men's Singles,---
+25.0,185.0,81.0,Slovenia,2012,London,Tennis Men's Singles,---
+23.0,182.0,80.0,Germany,2000,Sydney,Tennis Men's Singles,---
+27.0,182.0,80.0,Germany,2004,Athina,Tennis Men's Singles,---
+31.0,182.0,80.0,Germany,2008,Beijing,Tennis Men's Singles,---
+26.0,180.0,75.0,South Korea,1988,Seoul,Tennis Men's Singles,---
+24.0,185.0,70.0,Barbados,2016,Rio de Janeiro,Tennis Men's Singles,---
+23.0,190.0,77.0,Slovakia,2012,London,Tennis Men's Singles,---
+24.0,180.0,91.0,Bahamas,1996,Atlanta,Tennis Men's Singles,---
+24.0,185.0,79.0,Netherlands,1992,Barcelona,Tennis Men's Singles,---
+32.0,178.0,70.0,Germany,2016,Rio de Janeiro,Tennis Men's Singles,---
+20.0,196.0,82.0,Australia,2016,Rio de Janeiro,Tennis Men's Singles,---
+20.0,184.0,81.0,Poland,1988,Seoul,Tennis Men's Singles,---
+31.0,170.0,63.0,India,1992,Barcelona,Tennis Men's Singles,---
+21.0,188.0,77.0,Slovakia,1996,Atlanta,Tennis Men's Singles,---
+30.0,190.0,86.0,Poland,2012,London,Tennis Men's Singles,---
+22.0,188.0,75.0,Slovakia,1996,Atlanta,Tennis Men's Singles,---
+26.0,188.0,75.0,Slovakia,2000,Sydney,Tennis Men's Singles,---
+30.0,188.0,75.0,Slovakia,2004,Athina,Tennis Men's Singles,---
+23.0,180.0,80.0,United States,2016,Rio de Janeiro,Tennis Men's Singles,---
+24.0,190.0,76.0,Brazil,2000,Sydney,Tennis Men's Singles,---
+27.0,190.0,76.0,Brazil,2004,Athina,Tennis Men's Singles,---
+24.0,182.0,72.0,Kazakhstan,2012,London,Tennis Men's Singles,---
+29.0,162.0,59.0,Japan,1920,Antwerpen,Tennis Men's Singles,Silver
+25.0,185.0,71.0,Russia,2016,Rio de Janeiro,Tennis Men's Singles,---
+24.0,186.0,83.0,Slovakia,2012,London,Tennis Men's Singles,---
+22.0,180.0,75.0,Nigeria,1996,Atlanta,Tennis Men's Singles,---
+19.0,190.0,85.0,Ecuador,1996,Atlanta,Tennis Men's Singles,---
+27.0,190.0,85.0,Ecuador,2004,Athina,Tennis Men's Singles,---
+31.0,190.0,85.0,Ecuador,2008,Beijing,Tennis Men's Singles,---
+23.0,183.0,79.0,Canada,1996,Atlanta,Tennis Men's Singles,---
+27.0,183.0,79.0,Canada,2000,Sydney,Tennis Men's Singles,---
+22.0,193.0,93.0,Sweden,1992,Barcelona,Tennis Men's Singles,---
+24.0,190.0,77.0,Canada,1988,Seoul,Tennis Men's Singles,---
+21.0,188.0,79.0,Mexico,1988,Seoul,Tennis Men's Singles,---
+25.0,188.0,79.0,Mexico,1992,Barcelona,Tennis Men's Singles,---
+25.0,184.0,78.0,France,1988,Seoul,Tennis Men's Singles,---
+29.0,184.0,78.0,France,1992,Barcelona,Tennis Men's Singles,---
+24.0,180.0,81.0,South Korea,2000,Sydney,Tennis Men's Singles,---
+28.0,180.0,81.0,South Korea,2004,Athina,Tennis Men's Singles,---
+32.0,180.0,81.0,South Korea,2008,Beijing,Tennis Men's Singles,---
+21.0,193.0,84.0,Croatia,2000,Sydney,Tennis Men's Singles,---
+25.0,193.0,84.0,Croatia,2004,Athina,Tennis Men's Singles,---
+28.0,190.0,80.0,France,2008,Beijing,Tennis Men's Singles,---
+23.0,183.0,83.0,Togo,2008,Beijing,Tennis Men's Singles,---
+22.0,188.0,84.0,Spain,2004,Athina,Tennis Men's Singles,---
+30.0,188.0,84.0,Spain,2012,London,Tennis Men's Singles,---
+34.0,183.0,77.0,Italy,2016,Rio de Janeiro,Tennis Men's Singles,---
+20.0,180.0,74.0,Chinese Taipei,2004,Athina,Tennis Men's Singles,---
+24.0,180.0,74.0,Chinese Taipei,2008,Beijing,Tennis Men's Singles,---
+28.0,180.0,74.0,Chinese Taipei,2012,London,Tennis Men's Singles,---
+32.0,180.0,74.0,Chinese Taipei,2016,Rio de Janeiro,Tennis Men's Singles,---
+24.0,187.0,75.0,Mexico,1988,Seoul,Tennis Men's Singles,---
+28.0,187.0,75.0,Mexico,1992,Barcelona,Tennis Men's Singles,---
+24.0,185.0,73.0,Belgium,2004,Athina,Tennis Men's Singles,---
+23.0,180.0,74.0,Argentina,1992,Barcelona,Tennis Men's Singles,---
+22.0,175.0,72.0,Israel,1988,Seoul,Tennis Men's Singles,---
+28.0,185.0,78.0,Ukraine,2016,Rio de Janeiro,Tennis Men's Singles,---
+25.0,175.0,73.0,Costa Rica,2000,Sydney,Tennis Men's Singles,---
+26.0,180.0,72.0,Slovakia,2016,Rio de Janeiro,Tennis Men's Singles,---
+30.0,198.0,86.0,United States,2000,Sydney,Tennis Men's Singles,---
+22.0,182.0,80.0,Chile,2000,Sydney,Tennis Men's Singles,---
+26.0,182.0,80.0,Chile,2004,Athina,Tennis Men's Singles,Gold
+30.0,182.0,80.0,Chile,2008,Beijing,Tennis Men's Singles,---
+25.0,180.0,76.0,Australia,1988,Seoul,Tennis Men's Singles,---
+29.0,180.0,76.0,Australia,1992,Barcelona,Tennis Men's Singles,---
+26.0,185.0,74.0,France,2008,Beijing,Tennis Men's Singles,---
+20.0,185.0,80.0,Japan,1988,Seoul,Tennis Men's Singles,---
+24.0,185.0,80.0,Japan,1992,Barcelona,Tennis Men's Singles,---
+28.0,185.0,80.0,Japan,1996,Atlanta,Tennis Men's Singles,---
+25.0,183.0,75.0,Brazil,1988,Seoul,Tennis Men's Singles,---
+28.0,183.0,75.0,Brazil,1992,Barcelona,Tennis Men's Singles,---
+20.0,192.0,80.0,Germany,2004,Athina,Tennis Men's Singles,---
+28.0,190.0,83.0,United States,1988,Seoul,Tennis Men's Singles,Silver
+24.0,190.0,81.0,Czechoslovakia,1988,Seoul,Tennis Men's Singles,Gold
+25.0,180.0,64.0,Brazil,1996,Atlanta,Tennis Men's Singles,---
+23.0,184.0,80.0,Austria,2004,Athina,Tennis Men's Singles,---
+27.0,184.0,80.0,Austria,2008,Beijing,Tennis Men's Singles,---
+31.0,184.0,80.0,Austria,2012,London,Tennis Men's Singles,---
+27.0,183.0,79.0,Australia,2016,Rio de Janeiro,Tennis Men's Singles,---
+24.0,183.0,85.0,Czech Republic,2008,Beijing,Tennis Men's Singles,---
+25.0,185.0,74.0,Argentina,1992,Barcelona,Tennis Men's Singles,---
+23.0,196.0,90.0,Belarus,2000,Sydney,Tennis Men's Singles,---
+27.0,196.0,90.0,Belarus,2004,Athina,Tennis Men's Singles,---
+31.0,196.0,90.0,Belarus,2008,Beijing,Tennis Men's Singles,---
+30.0,177.0,81.0,Nigeria,1988,Seoul,Tennis Men's Singles,---
+24.0,185.0,77.0,Argentina,2008,Beijing,Tennis Men's Singles,---
+28.0,185.0,77.0,Argentina,2012,London,Tennis Men's Singles,---
+32.0,185.0,77.0,Argentina,2016,Rio de Janeiro,Tennis Men's Singles,---
+21.0,193.0,80.0,France,2008,Beijing,Tennis Men's Singles,---
+29.0,193.0,80.0,France,2016,Rio de Janeiro,Tennis Men's Singles,---
+23.0,178.0,68.0,Ecuador,1996,Atlanta,Tennis Men's Singles,---
+21.0,180.0,72.0,Mexico,1988,Seoul,Tennis Men's Singles,---
+21.0,177.0,77.0,Portugal,1992,Barcelona,Tennis Men's Singles,---
+27.0,190.0,84.0,Spain,2004,Athina,Tennis Men's Singles,---
+29.0,192.0,75.0,Luxembourg,2012,London,Tennis Men's Singles,---
+33.0,192.0,75.0,Luxembourg,2016,Rio de Janeiro,Tennis Men's Singles,---
+21.0,168.0,59.0,Bahamas,2008,Beijing,Tennis Men's Singles,---
+21.0,190.0,83.0,Great Britain,2008,Beijing,Tennis Men's Singles,---
+25.0,190.0,83.0,Great Britain,2012,London,Tennis Men's Singles,Gold
+29.0,190.0,83.0,Great Britain,2016,Rio de Janeiro,Tennis Men's Singles,Gold
+24.0,180.0,79.0,Austria,1992,Barcelona,Tennis Men's Singles,---
+22.0,185.0,80.0,Spain,2008,Beijing,Tennis Men's Singles,Gold
+30.0,185.0,80.0,Spain,2016,Rio de Janeiro,Tennis Men's Singles,---
+26.0,180.0,79.0,Argentina,2008,Beijing,Tennis Men's Singles,---
+30.0,180.0,79.0,Argentina,2012,London,Tennis Men's Singles,---
+18.0,188.0,81.0,Italy,1988,Seoul,Tennis Men's Singles,---
+23.0,191.0,87.0,Canada,1996,Atlanta,Tennis Men's Singles,---
+28.0,191.0,87.0,Canada,2000,Sydney,Tennis Men's Singles,---
+19.0,177.0,88.0,Cote d'Ivoire,1988,Seoul,Tennis Men's Singles,---
+28.0,190.0,83.0,Canada,2004,Athina,Tennis Men's Singles,---
+32.0,190.0,83.0,Canada,2008,Beijing,Tennis Men's Singles,---
+23.0,185.0,79.0,Finland,2004,Athina,Tennis Men's Singles,---
+27.0,185.0,79.0,Finland,2008,Beijing,Tennis Men's Singles,---
+31.0,185.0,79.0,Finland,2012,London,Tennis Men's Singles,---
+18.0,178.0,74.0,Japan,2008,Beijing,Tennis Men's Singles,---
+22.0,178.0,74.0,Japan,2012,London,Tennis Men's Singles,---
+26.0,178.0,74.0,Japan,2016,Rio de Janeiro,Tennis Men's Singles,Bronze
+24.0,189.0,90.0,Sweden,2000,Sydney,Tennis Men's Singles,---
+20.0,192.0,90.0,Hungary,1992,Barcelona,Tennis Men's Singles,---
+24.0,192.0,90.0,Hungary,1996,Atlanta,Tennis Men's Singles,---
+21.0,190.0,90.0,Czech Republic,1996,Atlanta,Tennis Men's Singles,---
+25.0,190.0,90.0,Czech Republic,2000,Sydney,Tennis Men's Singles,---
+29.0,190.0,90.0,Czech Republic,2004,Athina,Tennis Men's Singles,---
+30.0,182.0,75.0,Nigeria,1988,Seoul,Tennis Men's Singles,---
+24.0,193.0,87.0,Uzbekistan,1996,Atlanta,Tennis Men's Singles,---
+26.0,188.0,79.0,Greece,2004,Athina,Tennis Men's Singles,---
+30.0,185.0,72.0,Russia,1996,Atlanta,Tennis Men's Singles,---
+22.0,196.0,80.0,Brazil,1992,Barcelona,Tennis Men's Singles,---
+23.0,183.0,79.0,South Africa,1996,Atlanta,Tennis Men's Singles,---
+23.0,182.0,73.0,Mexico,1996,Atlanta,Tennis Men's Singles,---
+19.0,185.0,75.0,Algeria,2004,Athina,Tennis Men's Singles,---
+19.0,178.0,77.0,India,1992,Barcelona,Tennis Men's Singles,---
+23.0,178.0,77.0,India,1996,Atlanta,Tennis Men's Singles,Bronze
+27.0,178.0,77.0,India,2000,Sydney,Tennis Men's Singles,---
+19.0,183.0,80.0,Cyprus,2004,Athina,Tennis Men's Singles,---
+27.0,183.0,80.0,Cyprus,2012,London,Tennis Men's Singles,---
+27.0,196.0,80.0,France,2016,Rio de Janeiro,Tennis Men's Singles,---
+18.0,185.0,78.0,Romania,1992,Barcelona,Tennis Men's Singles,---
+22.0,185.0,78.0,Romania,1996,Atlanta,Tennis Men's Singles,---
+26.0,185.0,78.0,Romania,2000,Sydney,Tennis Men's Singles,---
+30.0,185.0,78.0,Romania,2004,Athina,Tennis Men's Singles,---
+33.0,188.0,85.0,United States,1912,Stockholm,Tennis Men's Singles,---
+26.0,185.0,83.0,Argentina,2016,Rio de Janeiro,Tennis Men's Singles,---
+25.0,188.0,86.0,Venezuela,1996,Atlanta,Tennis Men's Singles,---
+25.0,193.0,70.0,Israel,1988,Seoul,Tennis Men's Singles,---
+22.0,188.0,86.0,Romania,1996,Atlanta,Tennis Men's Singles,---
+25.0,185.0,86.0,Italy,1996,Atlanta,Tennis Men's Singles,---
+28.0,184.0,80.0,Germany,2012,London,Tennis Men's Singles,---
+19.0,193.0,91.0,Australia,1996,Atlanta,Tennis Men's Singles,---
+23.0,193.0,91.0,Australia,2000,Sydney,Tennis Men's Singles,---
+27.0,193.0,91.0,Australia,2004,Athina,Tennis Men's Singles,---
+19.0,187.0,80.0,Denmark,2000,Sydney,Tennis Men's Singles,---
+23.0,177.0,66.0,Benin,2000,Sydney,Tennis Men's Singles,---
+22.0,194.0,87.0,Canada,2012,London,Tennis Men's Singles,---
+26.0,194.0,87.0,Canada,2016,Rio de Janeiro,Tennis Men's Singles,---
+35.0,178.0,68.0,Italy,2000,Sydney,Tennis Men's Singles,---
+23.0,183.0,77.0,Canada,1988,Seoul,Tennis Men's Singles,---
+23.0,184.0,79.0,Germany,1996,Atlanta,Tennis Men's Singles,---
+27.0,184.0,79.0,Germany,2000,Sydney,Tennis Men's Singles,---
+28.0,182.0,74.0,Croatia,1992,Barcelona,Tennis Men's Singles,---
+20.0,198.0,91.0,United States,2008,Beijing,Tennis Men's Singles,---
+27.0,185.0,85.0,Australia,2000,Sydney,Tennis Men's Singles,---
+28.0,188.0,80.0,Spain,2016,Rio de Janeiro,Tennis Men's Singles,---
+21.0,196.0,90.0,Canada,2012,London,Tennis Men's Singles,---
+26.0,180.0,77.0,France,1996,Atlanta,Tennis Men's Singles,---
+30.0,180.0,77.0,United States,1996,Atlanta,Tennis Men's Singles,---
+25.0,185.0,81.0,Puerto Rico,1992,Barcelona,Tennis Men's Singles,---
+24.0,175.0,72.0,Chile,2000,Sydney,Tennis Men's Singles,---
+22.0,182.0,75.0,Spain,2004,Athina,Tennis Men's Singles,---
+26.0,182.0,75.0,Spain,2008,Beijing,Tennis Men's Singles,---
+23.0,166.0,63.0,Belgium,2004,Athina,Tennis Men's Singles,---
+27.0,166.0,63.0,Belgium,2008,Beijing,Tennis Men's Singles,---
+31.0,166.0,63.0,Belgium,2012,London,Tennis Men's Singles,---
+21.0,187.0,89.0,United States,2004,Athina,Tennis Men's Singles,---
+29.0,187.0,89.0,United States,2012,London,Tennis Men's Singles,---
+31.0,196.0,81.0,Czech Republic,2016,Rio de Janeiro,Tennis Men's Singles,---
+21.0,200.0,88.0,Switzerland,1992,Barcelona,Tennis Men's Singles,Gold
+25.0,200.0,88.0,Switzerland,1996,Atlanta,Tennis Men's Singles,---
+22.0,190.0,88.0,Great Britain,1996,Atlanta,Tennis Men's Singles,---
+27.0,190.0,88.0,Great Britain,2000,Sydney,Tennis Men's Singles,---
+19.0,188.0,75.0,Norway,1992,Barcelona,Tennis Men's Singles,---
+23.0,188.0,75.0,Norway,1996,Atlanta,Tennis Men's Singles,---
+28.0,188.0,75.0,Norway,2000,Sydney,Tennis Men's Singles,---
+20.0,193.0,88.0,Russia,2000,Sydney,Tennis Men's Singles,---
+24.0,193.0,88.0,Russia,2004,Athina,Tennis Men's Singles,---
+20.0,185.0,79.0,United States,1992,Barcelona,Tennis Men's Singles,---
+23.0,179.0,74.0,Spain,1988,Seoul,Tennis Men's Singles,---
+27.0,179.0,74.0,Spain,1992,Barcelona,Tennis Men's Singles,---
+20.0,178.0,70.0,Spain,1988,Seoul,Tennis Men's Singles,---
+19.0,177.0,68.0,France,1992,Barcelona,Tennis Men's Singles,---
+27.0,177.0,68.0,France,2000,Sydney,Tennis Men's Singles,---
+31.0,177.0,68.0,France,2004,Athina,Tennis Men's Singles,---
+24.0,185.0,70.0,Brazil,2004,Athina,Tennis Men's Singles,---
+23.0,180.0,76.0,Armenia,1996,Atlanta,Tennis Men's Singles,---
+27.0,180.0,76.0,Armenia,2000,Sydney,Tennis Men's Singles,---
+31.0,180.0,76.0,Armenia,2004,Athina,Tennis Men's Singles,---
+24.0,180.0,74.0,Hungary,2000,Sydney,Tennis Men's Singles,---
+28.0,200.0,83.0,Netherlands,1988,Seoul,Tennis Men's Singles,---
+24.0,180.0,70.0,Germany,2000,Sydney,Tennis Men's Singles,---
+28.0,180.0,70.0,Germany,2004,Athina,Tennis Men's Singles,---
+32.0,180.0,70.0,Germany,2008,Beijing,Tennis Men's Singles,---
+25.0,191.0,82.0,United States,1988,Seoul,Tennis Men's Singles,---
+31.0,175.0,67.0,Israel,2016,Rio de Janeiro,Tennis Men's Singles,---
+24.0,190.0,75.0,Italy,2008,Beijing,Tennis Men's Singles,---
+28.0,190.0,75.0,Italy,2012,London,Tennis Men's Singles,---
+32.0,190.0,75.0,Italy,2016,Rio de Janeiro,Tennis Men's Singles,---
+22.0,183.0,73.0,Netherlands,1992,Barcelona,Tennis Men's Singles,---
+26.0,183.0,73.0,Netherlands,1996,Atlanta,Tennis Men's Singles,---
+23.0,183.0,69.0,France,2008,Beijing,Tennis Men's Singles,---
+27.0,183.0,69.0,France,2012,London,Tennis Men's Singles,---
+31.0,183.0,69.0,France,2016,Rio de Janeiro,Tennis Men's Singles,---
+20.0,175.0,72.0,Austria,1988,Seoul,Tennis Men's Singles,---
+23.0,175.0,72.0,Austria,1992,Barcelona,Tennis Men's Singles,---
+28.0,185.0,79.0,Bahamas,1992,Barcelona,Tennis Men's Singles,---
+23.0,191.0,84.0,United States,2016,Rio de Janeiro,Tennis Men's Singles,---
+19.0,193.0,81.0,Sweden,2004,Athina,Tennis Men's Singles,---
+23.0,193.0,81.0,Sweden,2008,Beijing,Tennis Men's Singles,---
+27.0,180.0,76.0,Japan,2012,London,Tennis Men's Singles,---
+26.0,177.0,72.0,South Korea,1988,Seoul,Tennis Men's Singles,---
+27.0,185.0,73.0,Portugal,2016,Rio de Janeiro,Tennis Men's Singles,---
+26.0,183.0,77.0,United States,2000,Sydney,Tennis Men's Singles,---
+30.0,183.0,77.0,United States,2004,Athina,Tennis Men's Singles,---
+25.0,182.0,76.0,Argentina,2000,Sydney,Tennis Men's Singles,---
+24.0,203.0,98.0,Czechoslovakia,1988,Seoul,Tennis Men's Singles,---
+21.0,185.0,80.0,Thailand,2000,Sydney,Tennis Men's Singles,---
+25.0,185.0,80.0,Thailand,2004,Athina,Tennis Men's Singles,---
+26.0,193.0,80.0,Ukraine,2012,London,Tennis Men's Singles,---
+27.0,190.0,85.0,Italy,2008,Beijing,Tennis Men's Singles,---
+21.0,180.0,74.0,West Germany,1988,Seoul,Tennis Men's Singles,---
+24.0,180.0,74.0,Germany,1992,Barcelona,Tennis Men's Singles,---
+29.0,186.0,79.0,Czech Republic,2008,Beijing,Tennis Men's Singles,---
+33.0,186.0,79.0,Czech Republic,2012,London,Tennis Men's Singles,---
+27.0,185.0,77.0,New Zealand,1996,Atlanta,Tennis Men's Singles,---
+28.0,192.0,79.0,Germany,1992,Barcelona,Tennis Men's Singles,---
+26.0,185.0,80.0,Australia,1996,Atlanta,Tennis Men's Singles,---
+26.0,196.0,87.0,Germany,2016,Rio de Janeiro,Tennis Men's Singles,---
+27.0,173.0,66.0,Japan,2016,Rio de Janeiro,Tennis Men's Singles,---
+24.0,180.0,63.0,China,2008,Beijing,Tennis Men's Singles,---
+25.0,180.0,72.0,Canada,1992,Barcelona,Tennis Men's Singles,---
+20.0,177.0,70.0,Venezuela,1996,Atlanta,Tennis Men's Singles,---
+31.0,180.0,72.0,United States,2000,Sydney,Tennis Men's Singles,---
+22.0,193.0,83.0,Denmark,1988,Seoul,Tennis Men's Singles,---
+31.0,174.0,59.0,Australia,1920,Antwerpen,Tennis Men's Singles,---
+22.0,183.0,73.0,Australia,2016,Rio de Janeiro,Tennis Men's Singles,---
+28.0,187.0,74.0,Sweden,2000,Sydney,Tennis Men's Singles,---
+24.0,180.0,80.0,Serbia,2008,Beijing,Tennis Men's Singles,---
+28.0,180.0,80.0,Serbia,2012,London,Tennis Men's Singles,---
+19.0,195.0,90.0,Australia,2012,London,Tennis Men's Singles,---
+26.0,190.0,86.0,Serbia,2012,London,Tennis Men's Singles,---
+30.0,190.0,86.0,Serbia,2016,Rio de Janeiro,Tennis Men's Singles,---
+27.0,188.0,91.0,France,2012,London,Tennis Men's Singles,---
+31.0,188.0,91.0,France,2016,Rio de Janeiro,Tennis Men's Singles,---
+21.0,168.0,61.0,Japan,1988,Seoul,Tennis Men's Singles,---
+25.0,185.0,81.0,Russia,2008,Beijing,Tennis Men's Singles,---
+29.0,185.0,81.0,Russia,2012,London,Tennis Men's Singles,---
+28.0,178.0,75.0,Zimbabwe,2000,Sydney,Tennis Men's Singles,---
+27.0,178.0,73.0,Romania,2012,London,Tennis Men's Singles,---
+25.0,191.0,81.0,Czech Republic,1996,Atlanta,Tennis Men's Singles,---
+27.0,173.0,68.0,Czechoslovakia,1992,Barcelona,Tennis Men's Singles,---
+29.0,185.0,73.0,South Africa,1992,Barcelona,Tennis Men's Singles,---
+22.0,186.0,84.0,Czech Republic,2000,Sydney,Tennis Men's Singles,---
+30.0,186.0,84.0,Czech Republic,2008,Beijing,Tennis Men's Singles,---
+28.0,188.0,81.0,Spain,2012,London,Tennis Men's Singles,---
+23.0,180.0,75.0,Spain,2000,Sydney,Tennis Men's Singles,---
+19.0,178.0,68.0,Sweden,2000,Sydney,Tennis Men's Singles,---
+24.0,188.0,84.0,India,2012,London,Tennis Men's Singles,---
+22.0,184.0,74.0,Italy,2004,Athina,Tennis Men's Singles,---
+22.0,182.0,86.0,Belarus,2000,Sydney,Tennis Men's Singles,---
+26.0,182.0,86.0,Belarus,2004,Athina,Tennis Men's Singles,---
+21.0,188.0,79.0,Soviet Union,1988,Seoul,Tennis Men's Singles,---
+27.0,180.0,79.0,United States,1996,Atlanta,Tennis Men's Singles,---
+23.0,183.0,79.0,Switzerland,2008,Beijing,Tennis Men's Singles,---
+27.0,183.0,79.0,Switzerland,2012,London,Tennis Men's Singles,---
+18.0,180.0,70.0,Indonesia,1992,Barcelona,Tennis Men's Singles,---
+22.0,180.0,72.0,Great Britain,1992,Barcelona,Tennis Men's Singles,---
+21.0,178.0,75.0,Australia,1992,Barcelona,Tennis Men's Singles,---
+25.0,178.0,75.0,Australia,1996,Atlanta,Tennis Men's Singles,---
+23.0,183.0,73.0,United States,2012,London,Tennis Men's Singles,---
+26.0,185.0,82.0,South Korea,1988,Seoul,Tennis Men's Singles,---
+23.0,182.0,82.0,China,2008,Beijing,Tennis Men's Singles,---
+22.0,182.0,72.0,Russia,2004,Athina,Tennis Men's Singles,---
+26.0,182.0,72.0,Russia,2008,Beijing,Tennis Men's Singles,---
+30.0,182.0,72.0,Russia,2012,London,Tennis Men's Singles,---
+24.0,170.0,68.0,Peru,1992,Barcelona,Tennis Men's Singles,---
+22.0,182.0,77.0,Argentina,2000,Sydney,Tennis Men's Singles,---
+26.0,182.0,77.0,Argentina,2004,Athina,Tennis Men's Singles,---
+26.0,183.0,80.0,China,2008,Beijing,Tennis Men's Singles,---
+25.0,198.0,96.0,Yugoslavia,1988,Seoul,Tennis Men's Singles,---

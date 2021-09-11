@@ -1,0 +1,1329 @@
+Age,Height,Weight,Team,Year,City,Event,Medal
+19.0,160.0,48.0,East Germany,1972,Munich,Gymnastics Women's Individual All-Around,---
+25.0,165.0,55.0,Germany,2008,Beijing,Gymnastics Women's Individual All-Around,---
+18.0,153.0,48.0,Israel,1960,Roma,Gymnastics Women's Individual All-Around,---
+22.0,148.0,46.0,Japan,1960,Roma,Gymnastics Women's Individual All-Around,---
+26.0,148.0,46.0,Japan,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+16.0,150.0,40.0,Romania,2008,Beijing,Gymnastics Women's Individual All-Around,---
+18.0,162.0,56.0,Sweden,1960,Roma,Gymnastics Women's Individual All-Around,---
+17.0,153.0,38.0,Sweden,2012,London,Gymnastics Women's Individual All-Around,---
+16.0,162.0,56.0,Sweden,1980,Moskva,Gymnastics Women's Individual All-Around,---
+20.0,162.0,56.0,Sweden,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+16.0,158.0,48.0,Russia,2008,Beijing,Gymnastics Women's Individual All-Around,---
+16.0,148.0,40.0,Romania,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+17.0,159.0,50.0,Ukraine,2004,Athina,Gymnastics Women's Individual All-Around,---
+23.0,163.0,55.0,Italy,1972,Munich,Gymnastics Women's Individual All-Around,---
+22.0,156.0,52.0,Cuba,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+21.0,167.0,67.0,Bulgaria,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+16.0,157.0,46.0,Australia,1988,Seoul,Gymnastics Women's Individual All-Around,---
+20.0,157.0,46.0,Australia,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+15.0,148.0,40.0,Hungary,1980,Moskva,Gymnastics Women's Individual All-Around,---
+18.0,157.0,52.0,Great Britain,1972,Munich,Gymnastics Women's Individual All-Around,---
+18.0,162.0,45.0,Portugal,1980,Moskva,Gymnastics Women's Individual All-Around,---
+19.0,155.0,59.0,Panama,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+16.0,158.0,44.0,Romania,1996,Atlanta,Gymnastics Women's Individual All-Around,Bronze
+20.0,158.0,44.0,Romania,2000,Sydney,Gymnastics Women's Individual All-Around,Gold
+18.0,155.0,47.0,Mexico,1972,Munich,Gymnastics Women's Individual All-Around,---
+17.0,151.0,46.0,Brazil,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+16.0,158.0,54.0,Norway,1972,Munich,Gymnastics Women's Individual All-Around,---
+15.0,150.0,39.0,Greece,2004,Athina,Gymnastics Women's Individual All-Around,---
+20.0,159.0,56.0,Poland,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+17.0,162.0,49.0,Canada,1972,Munich,Gymnastics Women's Individual All-Around,---
+21.0,162.0,49.0,Canada,1976,Montreal,Gymnastics Women's Individual All-Around,---
+16.0,160.0,32.0,Spain,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+20.0,166.0,56.0,Soviet Union,1956,Melbourne,Gymnastics Women's Individual All-Around,---
+23.0,166.0,56.0,Soviet Union,1960,Roma,Gymnastics Women's Individual All-Around,Bronze
+27.0,166.0,56.0,Soviet Union,1964,Tokyo,Gymnastics Women's Individual All-Around,Bronze
+24.0,166.0,62.0,Bulgaria,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+17.0,154.0,49.0,France,1976,Montreal,Gymnastics Women's Individual All-Around,---
+14.0,160.0,50.0,France,1972,Munich,Gymnastics Women's Individual All-Around,---
+18.0,160.0,50.0,France,1976,Montreal,Gymnastics Women's Individual All-Around,---
+19.0,164.0,51.0,Finland,1960,Roma,Gymnastics Women's Individual All-Around,---
+15.0,155.0,43.0,South Korea,1988,Seoul,Gymnastics Women's Individual All-Around,---
+26.0,162.0,56.0,France,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+16.0,152.0,39.0,Soviet Union,1988,Seoul,Gymnastics Women's Individual All-Around,---
+23.0,157.0,49.0,Yugoslavia,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+26.0,157.0,49.0,Yugoslavia,1972,Munich,Gymnastics Women's Individual All-Around,---
+17.0,163.0,50.0,Hungary,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+14.0,153.0,47.0,Hungary,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+18.0,153.0,47.0,Hungary,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+18.0,139.0,36.0,Romania,2004,Athina,Gymnastics Women's Individual All-Around,---
+21.0,159.0,52.0,Hungary,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+17.0,158.0,52.0,Canada,2004,Athina,Gymnastics Women's Individual All-Around,---
+17.0,151.0,45.0,Brazil,2008,Beijing,Gymnastics Women's Individual All-Around,---
+25.0,151.0,45.0,Brazil,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+20.0,160.0,54.0,Poland,1972,Munich,Gymnastics Women's Individual All-Around,---
+18.0,154.0,42.0,Poland,1972,Munich,Gymnastics Women's Individual All-Around,---
+18.0,163.0,64.0,Czechoslovakia,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+15.0,163.0,52.0,Australia,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+16.0,145.0,40.0,France,1988,Seoul,Gymnastics Women's Individual All-Around,---
+18.0,158.0,43.0,East Germany,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+18.0,154.0,50.0,Cuba,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+18.0,157.0,41.0,Australia,1980,Moskva,Gymnastics Women's Individual All-Around,---
+15.0,155.0,43.0,Switzerland,1972,Munich,Gymnastics Women's Individual All-Around,---
+17.0,155.0,48.0,Canada,2000,Sydney,Gymnastics Women's Individual All-Around,---
+17.0,157.0,51.0,Luxembourg,1960,Roma,Gymnastics Women's Individual All-Around,---
+18.0,163.0,50.0,West Germany,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+19.0,151.0,51.0,Australia,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+15.0,164.0,50.0,Switzerland,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+14.0,166.0,55.0,Hungary,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+18.0,166.0,55.0,Hungary,1972,Munich,Gymnastics Women's Individual All-Around,---
+15.0,151.0,41.0,Spain,1988,Seoul,Gymnastics Women's Individual All-Around,---
+23.0,144.0,40.0,Great Britain,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+18.0,158.0,38.0,France,2008,Beijing,Gymnastics Women's Individual All-Around,---
+25.0,157.0,52.0,Israel,1960,Roma,Gymnastics Women's Individual All-Around,---
+20.0,164.0,52.0,Hungary,1960,Roma,Gymnastics Women's Individual All-Around,---
+19.0,164.0,58.0,Austria,1960,Roma,Gymnastics Women's Individual All-Around,---
+18.0,163.0,53.0,Italy,2008,Beijing,Gymnastics Women's Individual All-Around,---
+16.0,152.0,44.0,Italy,2000,Sydney,Gymnastics Women's Individual All-Around,---
+20.0,152.0,44.0,Italy,2004,Athina,Gymnastics Women's Individual All-Around,---
+24.0,152.0,44.0,Italy,2008,Beijing,Gymnastics Women's Individual All-Around,---
+25.0,147.0,43.0,United States,2004,Athina,Gymnastics Women's Individual All-Around,---
+14.0,142.0,35.0,China,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+21.0,160.0,51.0,Italy,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+16.0,160.0,47.0,West Germany,1976,Montreal,Gymnastics Women's Individual All-Around,---
+22.0,158.0,56.0,Germany,2008,Beijing,Gymnastics Women's Individual All-Around,---
+15.0,153.0,43.0,United States,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+19.0,143.0,47.0,United States,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,Gold
+24.0,157.0,52.0,Yugoslavia,1960,Roma,Gymnastics Women's Individual All-Around,---
+16.0,150.0,44.0,Greece,2004,Athina,Gymnastics Women's Individual All-Around,---
+20.0,150.0,44.0,Greece,2008,Beijing,Gymnastics Women's Individual All-Around,---
+20.0,155.0,56.0,Canada,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+16.0,151.0,42.0,Bulgaria,1972,Munich,Gymnastics Women's Individual All-Around,---
+20.0,153.0,50.0,Cuba,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+16.0,139.0,32.0,Romania,2000,Sydney,Gymnastics Women's Individual All-Around,---
+16.0,160.0,48.0,Hungary,2008,Beijing,Gymnastics Women's Individual All-Around,---
+20.0,160.0,48.0,Hungary,2012,London,Gymnastics Women's Individual All-Around,---
+15.0,157.0,44.0,Soviet Union,1988,Seoul,Gymnastics Women's Individual All-Around,Bronze
+19.0,157.0,44.0,Unified Team,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+23.0,157.0,44.0,Belarus,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+26.0,166.0,56.0,Austria,1960,Roma,Gymnastics Women's Individual All-Around,---
+19.0,158.0,52.0,Germany,1960,Roma,Gymnastics Women's Individual All-Around,---
+13.0,162.0,48.0,Netherlands,1976,Montreal,Gymnastics Women's Individual All-Around,---
+18.0,160.0,49.0,Australia,2008,Beijing,Gymnastics Women's Individual All-Around,---
+23.0,154.0,46.0,Italy,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+20.0,162.0,59.0,Czechoslovakia,1952,Helsinki,Gymnastics Women's Individual All-Around,---
+24.0,162.0,59.0,Czechoslovakia,1956,Melbourne,Gymnastics Women's Individual All-Around,---
+28.0,162.0,59.0,Czechoslovakia,1960,Roma,Gymnastics Women's Individual All-Around,---
+19.0,165.0,53.0,Canada,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+16.0,160.0,54.0,France,1988,Seoul,Gymnastics Women's Individual All-Around,---
+19.0,160.0,54.0,France,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+17.0,155.0,55.0,Algeria,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+20.0,160.0,49.0,France,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+14.0,162.0,50.0,Netherlands,1976,Montreal,Gymnastics Women's Individual All-Around,---
+15.0,161.0,53.0,Norway,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+19.0,161.0,50.0,Czechoslovakia,1972,Munich,Gymnastics Women's Individual All-Around,---
+18.0,159.0,51.0,Australia,1960,Roma,Gymnastics Women's Individual All-Around,---
+17.0,153.0,50.0,Cuba,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+17.0,161.0,45.0,Italy,2000,Sydney,Gymnastics Women's Individual All-Around,---
+17.0,154.0,43.0,Australia,2008,Beijing,Gymnastics Women's Individual All-Around,---
+21.0,154.0,43.0,Australia,2012,London,Gymnastics Women's Individual All-Around,---
+21.0,162.0,52.0,France,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+17.0,152.0,39.0,Germany,2008,Beijing,Gymnastics Women's Individual All-Around,---
+15.0,127.0,42.0,Mexico,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+18.0,170.0,61.0,France,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+22.0,170.0,61.0,France,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+18.0,152.0,45.0,Canada,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+19.0,155.0,45.0,United States,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+19.0,157.0,48.0,Germany,2004,Athina,Gymnastics Women's Individual All-Around,---
+16.0,144.0,40.0,Czechoslovakia,1980,Moskva,Gymnastics Women's Individual All-Around,---
+23.0,159.0,52.0,Belgium,1960,Roma,Gymnastics Women's Individual All-Around,---
+23.0,160.0,55.0,Poland,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+16.0,160.0,46.0,Italy,1976,Montreal,Gymnastics Women's Individual All-Around,---
+20.0,167.0,55.0,Canada,1972,Munich,Gymnastics Women's Individual All-Around,---
+21.0,152.0,48.0,Australia,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+25.0,152.0,48.0,Australia,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+17.0,167.0,59.0,Czechoslovakia,1972,Munich,Gymnastics Women's Individual All-Around,---
+25.0,158.0,48.0,Yugoslavia,1972,Munich,Gymnastics Women's Individual All-Around,---
+15.0,162.0,48.0,Soviet Union,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+19.0,162.0,48.0,Soviet Union,1972,Munich,Gymnastics Women's Individual All-Around,---
+19.0,159.0,48.0,Spain,1976,Montreal,Gymnastics Women's Individual All-Around,---
+23.0,159.0,50.0,Australia,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+19.0,156.0,59.0,Great Britain,2008,Beijing,Gymnastics Women's Individual All-Around,---
+15.0,150.0,48.0,Spain,2004,Athina,Gymnastics Women's Individual All-Around,---
+19.0,150.0,48.0,Spain,2008,Beijing,Gymnastics Women's Individual All-Around,---
+16.0,154.0,42.0,France,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+17.0,155.0,46.0,Mexico,2008,Beijing,Gymnastics Women's Individual All-Around,---
+15.0,143.0,35.0,Italy,2000,Sydney,Gymnastics Women's Individual All-Around,---
+18.0,156.0,49.0,Argentina,2004,Athina,Gymnastics Women's Individual All-Around,---
+16.0,160.0,48.0,Mexico,1972,Munich,Gymnastics Women's Individual All-Around,---
+16.0,156.0,41.0,United States,1976,Montreal,Gymnastics Women's Individual All-Around,---
+18.0,160.0,58.0,Czechoslovakia,1960,Roma,Gymnastics Women's Individual All-Around,---
+22.0,160.0,58.0,Czechoslovakia,1964,Tokyo,Gymnastics Women's Individual All-Around,Gold
+26.0,160.0,58.0,Czechoslovakia,1968,Mexico City,Gymnastics Women's Individual All-Around,Gold
+16.0,157.0,44.0,Italy,2000,Sydney,Gymnastics Women's Individual All-Around,---
+19.0,155.0,43.0,Spain,1988,Seoul,Gymnastics Women's Individual All-Around,---
+23.0,160.0,54.0,Chile,2012,London,Gymnastics Women's Individual All-Around,---
+27.0,160.0,54.0,Chile,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+17.0,150.0,43.0,Spain,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+21.0,159.0,51.0,France,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+25.0,159.0,51.0,France,1972,Munich,Gymnastics Women's Individual All-Around,---
+17.0,162.0,53.0,Romania,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+25.0,162.0,53.0,Romania,1972,Munich,Gymnastics Women's Individual All-Around,---
+20.0,163.0,58.0,Austria,1960,Roma,Gymnastics Women's Individual All-Around,---
+14.0,152.0,43.0,Czechoslovakia,1976,Montreal,Gymnastics Women's Individual All-Around,---
+16.0,158.0,50.0,United States,1972,Munich,Gymnastics Women's Individual All-Around,---
+20.0,158.0,50.0,United States,1976,Montreal,Gymnastics Women's Individual All-Around,---
+19.0,152.0,41.0,France,2004,Athina,Gymnastics Women's Individual All-Around,---
+15.0,160.0,50.0,France,2004,Athina,Gymnastics Women's Individual All-Around,---
+15.0,162.0,47.0,France,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+16.0,155.0,43.0,Great Britain,1976,Montreal,Gymnastics Women's Individual All-Around,---
+20.0,155.0,43.0,Great Britain,1980,Moskva,Gymnastics Women's Individual All-Around,---
+17.0,143.0,36.0,China,1988,Seoul,Gymnastics Women's Individual All-Around,---
+21.0,158.0,44.0,China,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+16.0,152.0,43.0,China,2004,Athina,Gymnastics Women's Individual All-Around,---
+20.0,152.0,43.0,China,2008,Beijing,Gymnastics Women's Individual All-Around,---
+14.0,141.0,30.0,North Korea,1980,Moskva,Gymnastics Women's Individual All-Around,---
+20.0,160.0,56.0,South Korea,2000,Sydney,Gymnastics Women's Individual All-Around,---
+14.0,135.0,25.0,North Korea,1980,Moskva,Gymnastics Women's Individual All-Around,---
+17.0,153.0,48.0,South Korea,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+21.0,161.0,51.0,Poland,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+18.0,155.0,44.0,United States,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+22.0,155.0,44.0,United States,2000,Sydney,Gymnastics Women's Individual All-Around,---
+17.0,153.0,43.0,Unified Team,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+21.0,153.0,43.0,Uzbekistan,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+25.0,153.0,43.0,Uzbekistan,2000,Sydney,Gymnastics Women's Individual All-Around,---
+29.0,153.0,43.0,Uzbekistan,2004,Athina,Gymnastics Women's Individual All-Around,---
+33.0,153.0,43.0,Germany,2008,Beijing,Gymnastics Women's Individual All-Around,---
+15.0,155.0,51.0,Italy,1952,Helsinki,Gymnastics Women's Individual All-Around,---
+20.0,155.0,51.0,Italy,1956,Melbourne,Gymnastics Women's Individual All-Around,---
+23.0,155.0,51.0,Italy,1960,Roma,Gymnastics Women's Individual All-Around,---
+17.0,158.0,49.0,Italy,1956,Melbourne,Gymnastics Women's Individual All-Around,---
+20.0,158.0,49.0,Italy,1960,Roma,Gymnastics Women's Individual All-Around,---
+15.0,153.0,49.0,Australia,2000,Sydney,Gymnastics Women's Individual All-Around,---
+21.0,149.0,46.0,Canada,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+17.0,163.0,55.0,United States,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+15.0,165.0,55.0,Italy,1988,Seoul,Gymnastics Women's Individual All-Around,---
+16.0,152.0,43.0,France,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+14.0,162.0,45.0,Romania,1976,Montreal,Gymnastics Women's Individual All-Around,Gold
+18.0,162.0,45.0,Romania,1980,Moskva,Gymnastics Women's Individual All-Around,Silver
+17.0,157.0,46.0,Brazil,2000,Sydney,Gymnastics Women's Individual All-Around,---
+21.0,157.0,46.0,Brazil,2004,Athina,Gymnastics Women's Individual All-Around,---
+15.0,160.0,46.0,Romania,1976,Montreal,Gymnastics Women's Individual All-Around,---
+16.0,153.0,42.0,Canada,2000,Sydney,Gymnastics Women's Individual All-Around,---
+19.0,160.0,50.0,United States,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+18.0,156.0,46.0,Brazil,1980,Moskva,Gymnastics Women's Individual All-Around,---
+21.0,155.0,54.0,Italy,1960,Roma,Gymnastics Women's Individual All-Around,---
+16.0,154.0,44.0,Canada,1988,Seoul,Gymnastics Women's Individual All-Around,---
+18.0,148.0,45.0,Italy,2000,Sydney,Gymnastics Women's Individual All-Around,---
+16.0,165.0,55.0,Australia,2000,Sydney,Gymnastics Women's Individual All-Around,---
+15.0,152.0,40.0,Hungary,1980,Moskva,Gymnastics Women's Individual All-Around,---
+17.0,166.0,55.0,Hungary,1972,Munich,Gymnastics Women's Individual All-Around,---
+18.0,161.0,46.0,Hungary,1988,Seoul,Gymnastics Women's Individual All-Around,---
+16.0,168.0,63.0,Portugal,1960,Roma,Gymnastics Women's Individual All-Around,---
+17.0,155.0,49.0,Spain,2000,Sydney,Gymnastics Women's Individual All-Around,---
+15.0,143.0,36.0,Romania,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+23.0,164.0,63.0,Portugal,1952,Helsinki,Gymnastics Women's Individual All-Around,---
+31.0,164.0,63.0,Portugal,1960,Roma,Gymnastics Women's Individual All-Around,---
+18.0,156.0,58.0,Portugal,1960,Roma,Gymnastics Women's Individual All-Around,---
+22.0,156.0,58.0,Portugal,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+26.0,156.0,58.0,Portugal,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+18.0,156.0,47.0,Canada,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+17.0,154.0,45.0,Canada,2008,Beijing,Gymnastics Women's Individual All-Around,---
+19.0,163.0,49.0,Great Britain,1980,Moskva,Gymnastics Women's Individual All-Around,---
+19.0,164.0,54.0,Poland,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+18.0,152.0,49.0,United States,2000,Sydney,Gymnastics Women's Individual All-Around,---
+14.0,150.0,38.0,Mongolia,1980,Moskva,Gymnastics Women's Individual All-Around,---
+13.0,155.0,43.0,Mongolia,1980,Moskva,Gymnastics Women's Individual All-Around,---
+17.0,150.0,47.0,Great Britain,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+16.0,160.0,50.0,United States,1956,Melbourne,Gymnastics Women's Individual All-Around,---
+19.0,160.0,50.0,United States,1960,Roma,Gymnastics Women's Individual All-Around,---
+24.0,160.0,50.0,United States,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+18.0,148.0,45.0,Soviet Union,1980,Moskva,Gymnastics Women's Individual All-Around,Gold
+15.0,158.0,54.0,United States,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+19.0,158.0,54.0,United States,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+23.0,158.0,54.0,United States,2000,Sydney,Gymnastics Women's Individual All-Around,---
+16.0,159.0,47.0,Belgium,1976,Montreal,Gymnastics Women's Individual All-Around,---
+15.0,150.0,40.0,Bolivia,2004,Athina,Gymnastics Women's Individual All-Around,---
+15.0,147.0,36.0,Mexico,1980,Moskva,Gymnastics Women's Individual All-Around,---
+19.0,152.0,46.0,Spain,2008,Beijing,Gymnastics Women's Individual All-Around,---
+15.0,156.0,42.0,France,2004,Athina,Gymnastics Women's Individual All-Around,---
+19.0,156.0,42.0,France,2008,Beijing,Gymnastics Women's Individual All-Around,---
+17.0,167.0,54.0,Netherlands,1972,Munich,Gymnastics Women's Individual All-Around,---
+21.0,167.0,54.0,Netherlands,1976,Montreal,Gymnastics Women's Individual All-Around,---
+15.0,156.0,48.0,Italy,1972,Munich,Gymnastics Women's Individual All-Around,---
+22.0,158.0,56.0,France,1960,Roma,Gymnastics Women's Individual All-Around,---
+16.0,144.0,34.0,China,2008,Beijing,Gymnastics Women's Individual All-Around,---
+20.0,144.0,34.0,China,2012,London,Gymnastics Women's Individual All-Around,---
+16.0,165.0,46.0,Belgium,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+17.0,164.0,58.0,Croatia,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+15.0,165.0,57.0,Canada,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+19.0,165.0,57.0,Canada,1972,Munich,Gymnastics Women's Individual All-Around,---
+16.0,166.0,56.0,Mexico,1976,Montreal,Gymnastics Women's Individual All-Around,---
+19.0,153.0,47.0,Trinidad and Tobago,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+17.0,160.0,50.0,Belarus,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+23.0,160.0,54.0,France,1956,Melbourne,Gymnastics Women's Individual All-Around,---
+27.0,160.0,54.0,France,1960,Roma,Gymnastics Women's Individual All-Around,---
+21.0,164.0,53.0,Romania,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+15.0,146.0,42.0,Romania,1988,Seoul,Gymnastics Women's Individual All-Around,---
+16.0,149.0,38.0,Russia,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+16.0,162.0,60.0,Bulgaria,1952,Helsinki,Gymnastics Women's Individual All-Around,---
+21.0,162.0,60.0,Bulgaria,1956,Melbourne,Gymnastics Women's Individual All-Around,---
+24.0,162.0,60.0,Bulgaria,1960,Roma,Gymnastics Women's Individual All-Around,---
+16.0,159.0,44.0,East Germany,1976,Montreal,Gymnastics Women's Individual All-Around,---
+14.0,144.0,33.0,China,2000,Sydney,Gymnastics Women's Individual All-Around,---
+18.0,148.0,45.0,Mongolia,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+15.0,158.0,50.0,Czechoslovakia,1972,Munich,Gymnastics Women's Individual All-Around,---
+21.0,145.0,45.0,Brazil,2004,Athina,Gymnastics Women's Individual All-Around,---
+25.0,145.0,45.0,Brazil,2008,Beijing,Gymnastics Women's Individual All-Around,---
+16.0,157.0,50.0,United States,2012,London,Gymnastics Women's Individual All-Around,Gold
+20.0,157.0,50.0,United States,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+16.0,156.0,55.0,Great Britain,2008,Beijing,Gymnastics Women's Individual All-Around,---
+17.0,162.0,60.0,Great Britain,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+19.0,147.0,47.0,Vietnam,2008,Beijing,Gymnastics Women's Individual All-Around,---
+15.0,146.0,37.0,Romania,2008,Beijing,Gymnastics Women's Individual All-Around,---
+19.0,157.0,43.0,Czechoslovakia,1988,Seoul,Gymnastics Women's Individual All-Around,---
+18.0,161.0,57.0,Hungary,1960,Roma,Gymnastics Women's Individual All-Around,---
+22.0,161.0,57.0,Hungary,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+26.0,161.0,57.0,Hungary,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+20.0,157.0,46.0,Bulgaria,1988,Seoul,Gymnastics Women's Individual All-Around,---
+15.0,160.0,52.0,France,2008,Beijing,Gymnastics Women's Individual All-Around,---
+15.0,158.0,43.0,Romania,1980,Moskva,Gymnastics Women's Individual All-Around,---
+15.0,153.0,41.0,United States,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+21.0,164.0,54.0,Poland,1960,Roma,Gymnastics Women's Individual All-Around,---
+16.0,153.0,40.0,Romania,1980,Moskva,Gymnastics Women's Individual All-Around,---
+23.0,157.0,55.0,Austria,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+14.0,145.0,35.0,Bulgaria,1980,Moskva,Gymnastics Women's Individual All-Around,---
+19.0,160.0,49.0,Hungary,1976,Montreal,Gymnastics Women's Individual All-Around,---
+23.0,160.0,49.0,Hungary,1980,Moskva,Gymnastics Women's Individual All-Around,---
+18.0,168.0,59.0,Sweden,1960,Roma,Gymnastics Women's Individual All-Around,---
+22.0,168.0,59.0,Sweden,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+26.0,168.0,59.0,Sweden,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+16.0,162.0,50.0,Norway,1972,Munich,Gymnastics Women's Individual All-Around,---
+20.0,155.0,50.0,Egypt,2012,London,Gymnastics Women's Individual All-Around,---
+17.0,162.0,50.0,Egypt,2008,Beijing,Gymnastics Women's Individual All-Around,---
+25.0,162.0,50.0,Egypt,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+21.0,164.0,52.0,Sweden,1960,Roma,Gymnastics Women's Individual All-Around,---
+16.0,152.0,49.0,France,2000,Sydney,Gymnastics Women's Individual All-Around,---
+18.0,163.0,49.0,United States,1976,Montreal,Gymnastics Women's Individual All-Around,---
+20.0,162.0,51.0,Croatia,2008,Beijing,Gymnastics Women's Individual All-Around,---
+24.0,162.0,51.0,Croatia,2012,London,Gymnastics Women's Individual All-Around,---
+17.0,149.0,38.0,Romania,2004,Athina,Gymnastics Women's Individual All-Around,---
+15.0,162.0,47.0,Switzerland,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+19.0,163.0,48.0,East Germany,1976,Montreal,Gymnastics Women's Individual All-Around,---
+25.0,156.0,50.0,Colombia,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+16.0,153.0,35.0,Spain,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+21.0,159.0,59.0,Poland,1960,Roma,Gymnastics Women's Individual All-Around,---
+25.0,159.0,59.0,Poland,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+17.0,176.0,38.0,Belgium,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+16.0,152.0,41.0,Canada,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+20.0,155.0,46.0,East Germany,1988,Seoul,Gymnastics Women's Individual All-Around,---
+15.0,144.0,35.0,China,1988,Seoul,Gymnastics Women's Individual All-Around,---
+27.0,176.0,72.0,China,2004,Athina,Gymnastics Women's Individual All-Around,---
+16.0,155.0,50.0,Italy,2012,London,Gymnastics Women's Individual All-Around,---
+22.0,156.0,50.0,Germany,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+17.0,157.0,52.0,Great Britain,2004,Athina,Gymnastics Women's Individual All-Around,---
+17.0,160.0,50.0,Italy,2012,London,Gymnastics Women's Individual All-Around,---
+21.0,160.0,50.0,Italy,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+17.0,146.0,45.0,Italy,2008,Beijing,Gymnastics Women's Individual All-Around,---
+21.0,146.0,45.0,Italy,2012,London,Gymnastics Women's Individual All-Around,---
+25.0,146.0,45.0,Italy,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+20.0,166.0,55.0,Poland,1972,Munich,Gymnastics Women's Individual All-Around,---
+16.0,157.0,44.0,Brazil,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+14.0,136.0,30.0,Soviet Union,1976,Montreal,Gymnastics Women's Individual All-Around,---
+19.0,136.0,30.0,Soviet Union,1980,Moskva,Gymnastics Women's Individual All-Around,---
+14.0,148.0,37.0,Bulgaria,1980,Moskva,Gymnastics Women's Individual All-Around,---
+15.0,155.0,42.0,Greece,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+15.0,144.0,35.0,Hungary,1980,Moskva,Gymnastics Women's Individual All-Around,---
+21.0,158.0,51.0,Australia,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+17.0,154.0,52.0,Canada,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+17.0,152.0,46.0,Guatemala,1988,Seoul,Gymnastics Women's Individual All-Around,---
+18.0,158.0,52.0,Hungary,1960,Roma,Gymnastics Women's Individual All-Around,---
+25.0,160.0,50.0,Germany,1960,Roma,Gymnastics Women's Individual All-Around,---
+29.0,160.0,50.0,Germany,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+18.0,137.0,43.0,Great Britain,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+16.0,147.0,46.0,Brazil,2008,Beijing,Gymnastics Women's Individual All-Around,---
+20.0,147.0,46.0,Brazil,2012,London,Gymnastics Women's Individual All-Around,---
+14.0,160.0,46.0,Italy,1976,Montreal,Gymnastics Women's Individual All-Around,---
+19.0,152.0,48.0,Belgium,1976,Montreal,Gymnastics Women's Individual All-Around,---
+16.0,162.0,46.0,Israel,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+18.0,157.0,44.0,Switzerland,1972,Munich,Gymnastics Women's Individual All-Around,---
+23.0,167.0,59.0,Netherlands,1960,Roma,Gymnastics Women's Individual All-Around,---
+18.0,152.0,54.0,United States,1956,Melbourne,Gymnastics Women's Individual All-Around,---
+22.0,152.0,54.0,United States,1960,Roma,Gymnastics Women's Individual All-Around,---
+18.0,164.0,58.0,Hungary,1960,Roma,Gymnastics Women's Individual All-Around,---
+15.0,146.0,38.0,France,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+19.0,146.0,38.0,France,2000,Sydney,Gymnastics Women's Individual All-Around,---
+14.0,142.0,37.0,Romania,1976,Montreal,Gymnastics Women's Individual All-Around,---
+16.0,145.0,35.0,Uzbekistan,2008,Beijing,Gymnastics Women's Individual All-Around,---
+15.0,150.0,38.0,Unified Team,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+19.0,150.0,38.0,Russia,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+15.0,147.0,33.0,Spain,1988,Seoul,Gymnastics Women's Individual All-Around,---
+15.0,157.0,46.0,Mexico,1972,Munich,Gymnastics Women's Individual All-Around,---
+19.0,157.0,46.0,Mexico,1976,Montreal,Gymnastics Women's Individual All-Around,---
+18.0,148.0,39.0,Spain,2000,Sydney,Gymnastics Women's Individual All-Around,---
+19.0,167.0,59.0,New Zealand,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+17.0,162.0,47.0,Italy,2004,Athina,Gymnastics Women's Individual All-Around,---
+21.0,155.0,48.0,United States,1988,Seoul,Gymnastics Women's Individual All-Around,---
+22.0,165.0,57.0,Austria,2012,London,Gymnastics Women's Individual All-Around,---
+27.0,152.0,48.0,Armenia,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+18.0,161.0,46.0,Namibia,2000,Sydney,Gymnastics Women's Individual All-Around,---
+15.0,150.0,42.0,Belgium,1988,Seoul,Gymnastics Women's Individual All-Around,---
+17.0,150.0,38.0,France,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+15.0,162.0,48.0,Bulgaria,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+15.0,150.0,38.0,Spain,2004,Athina,Gymnastics Women's Individual All-Around,---
+25.0,154.0,46.0,Bulgaria,1972,Munich,Gymnastics Women's Individual All-Around,---
+18.0,161.0,49.0,East Germany,1976,Montreal,Gymnastics Women's Individual All-Around,---
+17.0,150.0,39.0,Canada,1988,Seoul,Gymnastics Women's Individual All-Around,---
+17.0,136.0,47.0,Canada,2000,Sydney,Gymnastics Women's Individual All-Around,---
+18.0,158.0,50.0,Italy,2008,Beijing,Gymnastics Women's Individual All-Around,---
+19.0,163.0,53.0,United States,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+15.0,148.0,33.0,East Germany,1980,Moskva,Gymnastics Women's Individual All-Around,Silver
+19.0,160.0,59.0,Great Britain,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+21.0,160.0,55.0,Belgium,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+13.0,150.0,40.0,Romania,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+17.0,150.0,40.0,Romania,1996,Atlanta,Gymnastics Women's Individual All-Around,Silver
+17.0,160.0,45.0,Israel,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+17.0,159.0,43.0,Romania,1988,Seoul,Gymnastics Women's Individual All-Around,---
+20.0,160.0,50.0,Slovenia,2012,London,Gymnastics Women's Individual All-Around,---
+15.0,162.0,46.0,West Germany,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+16.0,156.0,46.0,Guatemala,2012,London,Gymnastics Women's Individual All-Around,---
+20.0,156.0,46.0,Guatemala,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+18.0,150.0,40.0,Spain,2004,Athina,Gymnastics Women's Individual All-Around,---
+25.0,154.0,48.0,Cuba,2004,Athina,Gymnastics Women's Individual All-Around,---
+19.0,157.0,48.0,Romania,1972,Munich,Gymnastics Women's Individual All-Around,---
+14.0,167.0,54.0,Romania,1972,Munich,Gymnastics Women's Individual All-Around,---
+18.0,167.0,54.0,Romania,1976,Montreal,Gymnastics Women's Individual All-Around,---
+14.0,156.0,44.0,Romania,1980,Moskva,Gymnastics Women's Individual All-Around,---
+18.0,156.0,44.0,Romania,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+17.0,146.0,39.0,Romania,2008,Beijing,Gymnastics Women's Individual All-Around,---
+16.0,150.0,38.0,Belarus,2000,Sydney,Gymnastics Women's Individual All-Around,---
+20.0,163.0,55.0,Bulgaria,1952,Helsinki,Gymnastics Women's Individual All-Around,---
+29.0,163.0,55.0,Bulgaria,1960,Roma,Gymnastics Women's Individual All-Around,---
+33.0,163.0,55.0,Bulgaria,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+16.0,146.0,37.0,Russia,2012,London,Gymnastics Women's Individual All-Around,---
+21.0,157.0,52.0,Soviet Union,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+17.0,153.0,41.0,Russia,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+18.0,152.0,40.0,Switzerland,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+17.0,156.0,41.0,Soviet Union,1976,Montreal,Gymnastics Women's Individual All-Around,---
+16.0,165.0,59.0,Belgium,1960,Roma,Gymnastics Women's Individual All-Around,---
+20.0,165.0,59.0,Belgium,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+17.0,163.0,50.0,Germany,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+19.0,157.0,52.0,Great Britain,2000,Sydney,Gymnastics Women's Individual All-Around,---
+17.0,155.0,46.0,South Korea,1988,Seoul,Gymnastics Women's Individual All-Around,---
+17.0,148.0,39.0,North Korea,2004,Athina,Gymnastics Women's Individual All-Around,---
+19.0,164.0,50.0,Norway,1972,Munich,Gymnastics Women's Individual All-Around,---
+15.0,156.0,44.0,Hungary,1980,Moskva,Gymnastics Women's Individual All-Around,---
+18.0,160.0,52.0,Japan,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+21.0,160.0,52.0,Japan,1972,Munich,Gymnastics Women's Individual All-Around,---
+15.0,154.0,46.0,Great Britain,1988,Seoul,Gymnastics Women's Individual All-Around,---
+18.0,170.0,57.0,Netherlands,2004,Athina,Gymnastics Women's Individual All-Around,---
+22.0,170.0,57.0,Netherlands,2008,Beijing,Gymnastics Women's Individual All-Around,---
+19.0,154.0,51.0,Great Britain,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+20.0,165.0,56.0,Canada,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+21.0,155.0,44.0,Japan,1972,Munich,Gymnastics Women's Individual All-Around,---
+18.0,157.0,46.0,Japan,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+24.0,158.0,52.0,Japan,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+28.0,158.0,52.0,Japan,1972,Munich,Gymnastics Women's Individual All-Around,---
+26.0,152.0,43.0,United States,2004,Athina,Gymnastics Women's Individual All-Around,---
+27.0,156.0,50.0,Yugoslavia,1972,Munich,Gymnastics Women's Individual All-Around,---
+16.0,142.0,33.0,China,2008,Beijing,Gymnastics Women's Individual All-Around,---
+15.0,146.0,39.0,China,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+17.0,164.0,50.0,West Germany,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+18.0,163.0,47.0,East Germany,1972,Munich,Gymnastics Women's Individual All-Around,---
+22.0,163.0,47.0,East Germany,1976,Montreal,Gymnastics Women's Individual All-Around,---
+17.0,155.0,40.0,South Korea,2012,London,Gymnastics Women's Individual All-Around,---
+17.0,160.0,48.0,Belgium,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+14.0,156.0,46.0,Mexico,1972,Munich,Gymnastics Women's Individual All-Around,---
+16.0,152.0,43.0,Spain,1988,Seoul,Gymnastics Women's Individual All-Around,---
+18.0,163.0,62.0,New Zealand,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+17.0,171.0,51.0,Germany,2008,Beijing,Gymnastics Women's Individual All-Around,---
+19.0,158.0,48.0,East Germany,1980,Moskva,Gymnastics Women's Individual All-Around,---
+21.0,161.0,52.0,Japan,1972,Munich,Gymnastics Women's Individual All-Around,---
+15.0,165.0,66.0,Austria,1960,Roma,Gymnastics Women's Individual All-Around,---
+17.0,161.0,55.0,Great Britain,2004,Athina,Gymnastics Women's Individual All-Around,---
+16.0,150.0,40.0,Ukraine,2008,Beijing,Gymnastics Women's Individual All-Around,---
+16.0,158.0,47.0,Czechoslovakia,1976,Montreal,Gymnastics Women's Individual All-Around,---
+15.0,153.0,46.0,Sweden,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+16.0,165.0,56.0,Norway,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+19.0,165.0,56.0,Norway,1972,Munich,Gymnastics Women's Individual All-Around,---
+24.0,161.0,55.0,Slovakia,2012,London,Gymnastics Women's Individual All-Around,---
+15.0,146.0,36.0,North Korea,2004,Athina,Gymnastics Women's Individual All-Around,---
+17.0,151.0,47.0,Chinese Taipei,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+21.0,151.0,47.0,Chinese Taipei,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+19.0,156.0,47.0,North Korea,2008,Beijing,Gymnastics Women's Individual All-Around,---
+18.0,152.0,46.0,Canada,2008,Beijing,Gymnastics Women's Individual All-Around,---
+18.0,157.0,49.0,Great Britain,1972,Munich,Gymnastics Women's Individual All-Around,---
+15.0,158.0,46.0,Hungary,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+18.0,156.0,58.0,Poland,1952,Helsinki,Gymnastics Women's Individual All-Around,---
+22.0,156.0,58.0,Poland,1956,Melbourne,Gymnastics Women's Individual All-Around,---
+15.0,144.0,36.0,Japan,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+16.0,157.0,52.0,Finland,1952,Helsinki,Gymnastics Women's Individual All-Around,---
+18.0,163.0,50.0,United States,1976,Montreal,Gymnastics Women's Individual All-Around,---
+21.0,162.0,55.0,United States,1956,Melbourne,Gymnastics Women's Individual All-Around,---
+17.0,150.0,37.0,China,2000,Sydney,Gymnastics Women's Individual All-Around,---
+20.0,154.0,43.0,China,2012,London,Gymnastics Women's Individual All-Around,---
+15.0,150.0,38.0,China,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+18.0,157.0,47.0,Australia,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+29.0,163.0,59.0,France,1960,Roma,Gymnastics Women's Individual All-Around,---
+17.0,152.0,43.0,United States,2004,Athina,Gymnastics Women's Individual All-Around,---
+18.0,159.0,52.0,Great Britain,1972,Munich,Gymnastics Women's Individual All-Around,---
+24.0,163.0,59.0,Norway,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+16.0,147.0,51.0,Brazil,2000,Sydney,Gymnastics Women's Individual All-Around,---
+19.0,147.0,51.0,Brazil,2004,Athina,Gymnastics Women's Individual All-Around,---
+23.0,147.0,51.0,Brazil,2008,Beijing,Gymnastics Women's Individual All-Around,---
+27.0,147.0,51.0,Brazil,2012,London,Gymnastics Women's Individual All-Around,---
+16.0,158.0,52.0,Bulgaria,1972,Munich,Gymnastics Women's Individual All-Around,---
+15.0,152.0,40.0,South Korea,1988,Seoul,Gymnastics Women's Individual All-Around,---
+17.0,162.0,55.0,Romania,1972,Munich,Gymnastics Women's Individual All-Around,---
+25.0,152.0,47.0,Romania,1960,Roma,Gymnastics Women's Individual All-Around,---
+29.0,152.0,47.0,Romania,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+21.0,150.0,48.0,Romania,1956,Melbourne,Gymnastics Women's Individual All-Around,---
+24.0,150.0,48.0,Romania,1960,Roma,Gymnastics Women's Individual All-Around,---
+29.0,150.0,48.0,Romania,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+16.0,150.0,37.0,Romania,2000,Sydney,Gymnastics Women's Individual All-Around,---
+19.0,159.0,56.0,Norway,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+18.0,150.0,39.0,Japan,2004,Athina,Gymnastics Women's Individual All-Around,---
+18.0,164.0,52.0,Romania,2008,Beijing,Gymnastics Women's Individual All-Around,---
+22.0,164.0,52.0,Romania,2012,London,Gymnastics Women's Individual All-Around,---
+19.0,157.0,52.0,Spain,2012,London,Gymnastics Women's Individual All-Around,---
+16.0,156.0,46.0,East Germany,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+20.0,156.0,46.0,East Germany,1972,Munich,Gymnastics Women's Individual All-Around,Silver
+17.0,158.0,46.0,Germany,2012,London,Gymnastics Women's Individual All-Around,---
+16.0,178.0,61.0,Poland,1980,Moskva,Gymnastics Women's Individual All-Around,---
+14.0,164.0,55.0,West Germany,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+20.0,161.0,52.0,East Germany,1988,Seoul,Gymnastics Women's Individual All-Around,---
+19.0,160.0,50.0,South Korea,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+15.0,155.0,49.0,Switzerland,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+14.0,148.0,38.0,China,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+16.0,140.0,32.0,China,2008,Beijing,Gymnastics Women's Individual All-Around,---
+15.0,139.0,33.0,South Korea,2008,Beijing,Gymnastics Women's Individual All-Around,---
+15.0,150.0,42.0,United States,1988,Seoul,Gymnastics Women's Individual All-Around,---
+24.0,153.0,45.0,United States,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+16.0,145.0,41.0,United States,2008,Beijing,Gymnastics Women's Individual All-Around,Silver
+13.0,142.0,28.0,Poland,1980,Moskva,Gymnastics Women's Individual All-Around,---
+17.0,147.0,41.0,Great Britain,1980,Moskva,Gymnastics Women's Individual All-Around,---
+18.0,154.0,50.0,Australia,2008,Beijing,Gymnastics Women's Individual All-Around,---
+15.0,149.0,40.0,Spain,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+24.0,161.0,50.0,Poland,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+20.0,165.0,55.0,Switzerland,2008,Beijing,Gymnastics Women's Individual All-Around,---
+19.0,164.0,57.0,Soviet Union,1956,Melbourne,Gymnastics Women's Individual All-Around,---
+23.0,164.0,57.0,Soviet Union,1960,Roma,Gymnastics Women's Individual All-Around,---
+25.0,148.0,45.0,Japan,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+14.0,151.0,39.0,North Korea,1980,Moskva,Gymnastics Women's Individual All-Around,---
+16.0,144.0,36.0,North Korea,2004,Athina,Gymnastics Women's Individual All-Around,---
+21.0,161.0,50.0,Israel,1960,Roma,Gymnastics Women's Individual All-Around,---
+26.0,164.0,61.0,Bulgaria,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+19.0,164.0,55.0,Soviet Union,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+18.0,160.0,47.0,Greece,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+22.0,151.0,47.0,India,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+19.0,148.0,40.0,Ukraine,2000,Sydney,Gymnastics Women's Individual All-Around,---
+19.0,157.0,42.0,Bulgaria,1988,Seoul,Gymnastics Women's Individual All-Around,---
+17.0,154.0,45.0,Bulgaria,1976,Montreal,Gymnastics Women's Individual All-Around,---
+15.0,157.0,48.0,Japan,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+17.0,164.0,52.0,Hungary,1972,Munich,Gymnastics Women's Individual All-Around,---
+21.0,164.0,52.0,Hungary,1976,Montreal,Gymnastics Women's Individual All-Around,---
+13.0,150.0,37.0,Canada,1976,Montreal,Gymnastics Women's Individual All-Around,---
+21.0,162.0,50.0,Great Britain,1988,Seoul,Gymnastics Women's Individual All-Around,---
+16.0,158.0,46.0,West Germany,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+19.0,158.0,46.0,West Germany,1972,Munich,Gymnastics Women's Individual All-Around,---
+17.0,157.0,45.0,East Germany,1988,Seoul,Gymnastics Women's Individual All-Around,---
+16.0,157.0,51.0,Hungary,1972,Munich,Gymnastics Women's Individual All-Around,---
+21.0,159.0,48.0,Switzerland,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+18.0,160.0,51.0,Bulgaria,1972,Munich,Gymnastics Women's Individual All-Around,---
+17.0,165.0,47.0,Russia,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+21.0,165.0,47.0,Russia,2000,Sydney,Gymnastics Women's Individual All-Around,---
+25.0,165.0,47.0,Russia,2004,Athina,Gymnastics Women's Individual All-Around,Silver
+15.0,155.0,41.0,Bulgaria,1988,Seoul,Gymnastics Women's Individual All-Around,---
+15.0,147.0,36.0,Bulgaria,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+16.0,158.0,51.0,Greece,2000,Sydney,Gymnastics Women's Individual All-Around,---
+27.0,157.0,52.0,Germany,1952,Helsinki,Gymnastics Women's Individual All-Around,---
+21.0,158.0,47.0,Japan,1976,Montreal,Gymnastics Women's Individual All-Around,---
+19.0,149.0,42.0,North Korea,1980,Moskva,Gymnastics Women's Individual All-Around,---
+16.0,160.0,47.0,South Korea,1988,Seoul,Gymnastics Women's Individual All-Around,---
+15.0,155.0,45.0,South Korea,1988,Seoul,Gymnastics Women's Individual All-Around,---
+18.0,152.0,47.0,Soviet Union,1976,Montreal,Gymnastics Women's Individual All-Around,Silver
+22.0,152.0,47.0,Soviet Union,1980,Moskva,Gymnastics Women's Individual All-Around,---
+17.0,145.0,36.0,North Korea,2004,Athina,Gymnastics Women's Individual All-Around,---
+17.0,164.0,53.0,Czechoslovakia,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+17.0,154.0,53.0,Great Britain,2008,Beijing,Gymnastics Women's Individual All-Around,---
+18.0,163.0,52.0,Slovakia,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+18.0,158.0,47.0,Bulgaria,1976,Montreal,Gymnastics Women's Individual All-Around,---
+18.0,159.0,47.0,East Germany,1976,Montreal,Gymnastics Women's Individual All-Around,---
+19.0,164.0,56.0,United States,1956,Melbourne,Gymnastics Women's Individual All-Around,---
+17.0,160.0,54.0,Poland,1972,Munich,Gymnastics Women's Individual All-Around,---
+17.0,166.0,50.0,East Germany,1988,Seoul,Gymnastics Women's Individual All-Around,---
+19.0,152.0,40.0,Russia,2008,Beijing,Gymnastics Women's Individual All-Around,---
+18.0,160.0,47.0,Czechoslovakia,1976,Montreal,Gymnastics Women's Individual All-Around,---
+18.0,147.0,37.0,Russia,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+18.0,156.0,51.0,Yugoslavia,1952,Helsinki,Gymnastics Women's Individual All-Around,---
+26.0,156.0,51.0,Yugoslavia,1960,Roma,Gymnastics Women's Individual All-Around,---
+16.0,147.0,34.0,Russia,2000,Sydney,Gymnastics Women's Individual All-Around,---
+17.0,150.0,48.0,Russia,2012,London,Gymnastics Women's Individual All-Around,Silver
+17.0,167.0,58.0,Czech Republic,2000,Sydney,Gymnastics Women's Individual All-Around,---
+21.0,167.0,58.0,Czech Republic,2004,Athina,Gymnastics Women's Individual All-Around,---
+14.0,157.0,39.0,South Korea,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+17.0,152.0,39.0,Soviet Union,1972,Munich,Gymnastics Women's Individual All-Around,---
+21.0,152.0,39.0,Soviet Union,1976,Montreal,Gymnastics Women's Individual All-Around,---
+20.0,165.0,60.0,Netherlands,1976,Montreal,Gymnastics Women's Individual All-Around,---
+17.0,154.0,40.0,Soviet Union,1972,Munich,Gymnastics Women's Individual All-Around,---
+20.0,172.0,56.0,Finland,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+16.0,157.0,44.0,Bulgaria,1976,Montreal,Gymnastics Women's Individual All-Around,---
+16.0,142.0,39.0,Japan,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+18.0,161.0,56.0,Poland,1956,Melbourne,Gymnastics Women's Individual All-Around,---
+22.0,161.0,56.0,Poland,1960,Roma,Gymnastics Women's Individual All-Around,---
+16.0,158.0,47.0,Slovakia,2008,Beijing,Gymnastics Women's Individual All-Around,---
+16.0,157.0,48.0,Hungary,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+15.0,154.0,44.0,Ukraine,2008,Beijing,Gymnastics Women's Individual All-Around,---
+19.0,155.0,48.0,Lithuania,2000,Sydney,Gymnastics Women's Individual All-Around,---
+23.0,162.0,58.0,Poland,1952,Helsinki,Gymnastics Women's Individual All-Around,---
+15.0,152.0,43.0,Kazakhstan,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+16.0,161.0,52.0,Ukraine,2004,Athina,Gymnastics Women's Individual All-Around,---
+20.0,161.0,52.0,Ukraine,2008,Beijing,Gymnastics Women's Individual All-Around,---
+16.0,156.0,43.0,East Germany,1976,Montreal,Gymnastics Women's Individual All-Around,---
+20.0,156.0,43.0,East Germany,1980,Moskva,Gymnastics Women's Individual All-Around,---
+17.0,146.0,40.0,Russia,2008,Beijing,Gymnastics Women's Individual All-Around,---
+16.0,155.0,51.0,Ukraine,2004,Athina,Gymnastics Women's Individual All-Around,---
+20.0,155.0,51.0,Ukraine,2008,Beijing,Gymnastics Women's Individual All-Around,---
+20.0,164.0,51.0,West Germany,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+15.0,148.0,41.0,Hungary,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+18.0,154.0,50.0,Czech Republic,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+18.0,156.0,42.0,Czechoslovakia,1988,Seoul,Gymnastics Women's Individual All-Around,---
+16.0,150.0,39.0,Russia,2004,Athina,Gymnastics Women's Individual All-Around,---
+19.0,164.0,55.0,Czechoslovakia,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+23.0,164.0,55.0,Czechoslovakia,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+19.0,158.0,48.0,Soviet Union,1968,Mexico City,Gymnastics Women's Individual All-Around,Bronze
+15.0,146.0,43.0,France,2012,London,Gymnastics Women's Individual All-Around,---
+15.0,152.0,44.0,China,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+19.0,152.0,44.0,China,2000,Sydney,Gymnastics Women's Individual All-Around,---
+20.0,161.0,61.0,South Africa,1960,Roma,Gymnastics Women's Individual All-Around,---
+17.0,162.0,55.0,Yugoslavia,1972,Munich,Gymnastics Women's Individual All-Around,---
+18.0,154.0,52.0,United States,2004,Athina,Gymnastics Women's Individual All-Around,---
+19.0,166.0,52.0,West Germany,1976,Montreal,Gymnastics Women's Individual All-Around,---
+19.0,145.0,37.0,Japan,2008,Beijing,Gymnastics Women's Individual All-Around,---
+15.0,143.0,36.0,Russia,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+23.0,143.0,36.0,Bulgaria,2004,Athina,Gymnastics Women's Individual All-Around,---
+20.0,162.0,50.0,Norway,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+24.0,162.0,50.0,Norway,1972,Munich,Gymnastics Women's Individual All-Around,---
+15.0,146.0,36.0,Ukraine,2000,Sydney,Gymnastics Women's Individual All-Around,---
+19.0,146.0,36.0,Ukraine,2004,Athina,Gymnastics Women's Individual All-Around,---
+25.0,158.0,49.0,Ukraine,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+14.0,135.0,34.0,Czechoslovakia,1980,Moskva,Gymnastics Women's Individual All-Around,---
+14.0,148.0,38.0,France,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+18.0,163.0,59.0,South Africa,2004,Athina,Gymnastics Women's Individual All-Around,---
+19.0,160.0,45.0,Hungary,1988,Seoul,Gymnastics Women's Individual All-Around,---
+17.0,158.0,54.0,Italy,1956,Melbourne,Gymnastics Women's Individual All-Around,---
+21.0,158.0,54.0,Italy,1960,Roma,Gymnastics Women's Individual All-Around,---
+19.0,162.0,55.0,Sweden,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+15.0,153.0,41.0,Great Britain,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+17.0,147.0,40.0,Sweden,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+15.0,142.0,36.0,Soviet Union,1988,Seoul,Gymnastics Women's Individual All-Around,---
+15.0,158.0,47.0,Switzerland,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+21.0,161.0,52.0,Soviet Union,1956,Melbourne,Gymnastics Women's Individual All-Around,Gold
+25.0,161.0,52.0,Soviet Union,1960,Roma,Gymnastics Women's Individual All-Around,Gold
+29.0,161.0,52.0,Soviet Union,1964,Tokyo,Gymnastics Women's Individual All-Around,Silver
+19.0,151.0,49.0,France,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+16.0,163.0,52.0,Great Britain,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+18.0,162.0,51.0,Soviet Union,1972,Munich,Gymnastics Women's Individual All-Around,Bronze
+16.0,150.0,37.0,France,2004,Athina,Gymnastics Women's Individual All-Around,---
+28.0,156.0,53.0,France,1960,Roma,Gymnastics Women's Individual All-Around,---
+21.0,166.0,57.0,Poland,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+15.0,144.0,37.0,France,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+18.0,149.0,49.0,South Korea,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+18.0,148.0,46.0,South Korea,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+17.0,159.0,49.0,West Germany,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+16.0,179.0,62.0,Finland,1952,Helsinki,Gymnastics Women's Individual All-Around,---
+21.0,159.0,53.0,Finland,1960,Roma,Gymnastics Women's Individual All-Around,---
+25.0,159.0,53.0,Finland,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+14.0,156.0,45.0,Australia,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+19.0,153.0,45.0,Great Britain,2004,Athina,Gymnastics Women's Individual All-Around,---
+16.0,153.0,50.0,Great Britain,1972,Munich,Gymnastics Women's Individual All-Around,---
+20.0,153.0,50.0,Great Britain,1976,Montreal,Gymnastics Women's Individual All-Around,---
+17.0,165.0,57.0,France,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+21.0,165.0,57.0,France,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+21.0,162.0,58.0,Romania,1956,Melbourne,Gymnastics Women's Individual All-Around,---
+25.0,162.0,58.0,Romania,1960,Roma,Gymnastics Women's Individual All-Around,---
+29.0,162.0,58.0,Romania,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+18.0,165.0,53.0,Canada,2000,Sydney,Gymnastics Women's Individual All-Around,---
+17.0,152.0,53.0,Great Britain,1952,Helsinki,Gymnastics Women's Individual All-Around,---
+25.0,152.0,53.0,Great Britain,1960,Roma,Gymnastics Women's Individual All-Around,---
+17.0,149.0,39.0,China,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+16.0,145.0,36.0,China,2008,Beijing,Gymnastics Women's Individual All-Around,---
+16.0,139.0,32.0,China,2004,Athina,Gymnastics Women's Individual All-Around,---
+17.0,148.0,39.0,China,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+23.0,151.0,49.0,Singapore,2012,London,Gymnastics Women's Individual All-Around,---
+20.0,163.0,59.0,Portugal,2012,London,Gymnastics Women's Individual All-Around,---
+18.0,143.0,43.0,China,2004,Athina,Gymnastics Women's Individual All-Around,---
+17.0,164.0,56.0,Sweden,1960,Roma,Gymnastics Women's Individual All-Around,---
+21.0,164.0,56.0,Sweden,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+18.0,167.0,59.0,France,2008,Beijing,Gymnastics Women's Individual All-Around,---
+17.0,158.0,53.0,Sweden,1960,Roma,Gymnastics Women's Individual All-Around,---
+21.0,158.0,53.0,Sweden,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+19.0,152.0,55.0,Great Britain,2004,Athina,Gymnastics Women's Individual All-Around,---
+17.0,150.0,37.0,China,2000,Sydney,Gymnastics Women's Individual All-Around,---
+16.0,165.0,55.0,Czechoslovakia,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+20.0,165.0,55.0,Czechoslovakia,1972,Munich,Gymnastics Women's Individual All-Around,---
+18.0,152.0,48.0,Australia,2012,London,Gymnastics Women's Individual All-Around,---
+17.0,153.0,48.0,China,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+21.0,153.0,48.0,China,2000,Sydney,Gymnastics Women's Individual All-Around,Bronze
+18.0,160.0,45.0,United States,2008,Beijing,Gymnastics Women's Individual All-Around,Gold
+14.0,142.0,33.0,North Korea,1980,Moskva,Gymnastics Women's Individual All-Around,---
+17.0,141.0,40.0,Russia,2000,Sydney,Gymnastics Women's Individual All-Around,---
+15.0,155.0,54.0,Mexico,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+23.0,155.0,54.0,Mexico,2000,Sydney,Gymnastics Women's Individual All-Around,---
+22.0,155.0,47.0,Venezuela,2008,Beijing,Gymnastics Women's Individual All-Around,---
+26.0,155.0,47.0,Venezuela,2012,London,Gymnastics Women's Individual All-Around,---
+30.0,155.0,47.0,Venezuela,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+15.0,145.0,32.0,Venezuela,2000,Sydney,Gymnastics Women's Individual All-Around,---
+16.0,157.0,44.0,Hungary,1976,Montreal,Gymnastics Women's Individual All-Around,---
+15.0,142.0,36.0,Canada,1988,Seoul,Gymnastics Women's Individual All-Around,---
+15.0,136.0,30.0,China,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+16.0,158.0,52.0,Poland,1972,Munich,Gymnastics Women's Individual All-Around,---
+17.0,165.0,50.0,Italy,1988,Seoul,Gymnastics Women's Individual All-Around,---
+17.0,166.0,58.0,Sweden,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+21.0,166.0,58.0,Sweden,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+25.0,166.0,58.0,Sweden,1972,Munich,Gymnastics Women's Individual All-Around,---
+16.0,144.0,33.0,Russia,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+17.0,159.0,48.0,Australia,1976,Montreal,Gymnastics Women's Individual All-Around,---
+21.0,156.0,50.0,Soviet Union,1960,Roma,Gymnastics Women's Individual All-Around,---
+25.0,156.0,50.0,Soviet Union,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+21.0,157.0,44.0,China,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+17.0,152.0,48.0,China,1988,Seoul,Gymnastics Women's Individual All-Around,---
+18.0,158.0,52.0,Italy,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+16.0,150.0,40.0,Canada,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+16.0,152.0,42.0,France,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+15.0,149.0,38.0,Canada,2004,Athina,Gymnastics Women's Individual All-Around,---
+17.0,157.0,47.0,Italy,2008,Beijing,Gymnastics Women's Individual All-Around,---
+27.0,156.0,48.0,Mexico,2004,Athina,Gymnastics Women's Individual All-Around,---
+20.0,153.0,44.0,Philippines,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+17.0,154.0,45.0,France,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+21.0,165.0,61.0,Netherlands,1960,Roma,Gymnastics Women's Individual All-Around,---
+15.0,143.0,34.0,Poland,1980,Moskva,Gymnastics Women's Individual All-Around,---
+24.0,153.0,49.0,Hungary,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+19.0,168.0,54.0,Hungary,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+23.0,168.0,54.0,Hungary,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+24.0,155.0,46.0,Israel,2012,London,Gymnastics Women's Individual All-Around,---
+18.0,163.0,64.0,France,2012,London,Gymnastics Women's Individual All-Around,---
+19.0,152.0,46.0,United States,2000,Sydney,Gymnastics Women's Individual All-Around,---
+15.0,153.0,44.0,Greece,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+16.0,160.0,52.0,Italy,1972,Munich,Gymnastics Women's Individual All-Around,---
+22.0,162.0,56.0,Soviet Union,1956,Melbourne,Gymnastics Women's Individual All-Around,---
+30.0,162.0,56.0,Soviet Union,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+24.0,161.0,56.0,Germany,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+19.0,153.0,42.0,Japan,1976,Montreal,Gymnastics Women's Individual All-Around,---
+18.0,132.0,31.0,Spain,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+16.0,145.0,36.0,China,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+17.0,164.0,47.0,Belarus,2008,Beijing,Gymnastics Women's Individual All-Around,---
+16.0,157.0,46.0,Italy,1972,Munich,Gymnastics Women's Individual All-Around,---
+22.0,162.0,55.0,Poland,1952,Helsinki,Gymnastics Women's Individual All-Around,---
+14.0,156.0,46.0,Spain,1976,Montreal,Gymnastics Women's Individual All-Around,---
+16.0,142.0,40.0,Czechoslovakia,1980,Moskva,Gymnastics Women's Individual All-Around,---
+16.0,161.0,49.0,Czech Republic,2000,Sydney,Gymnastics Women's Individual All-Around,---
+20.0,162.0,61.0,Romania,1956,Melbourne,Gymnastics Women's Individual All-Around,---
+23.0,162.0,61.0,Romania,1960,Roma,Gymnastics Women's Individual All-Around,---
+15.0,142.0,40.0,Greece,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+15.0,146.0,40.0,Romania,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+15.0,155.0,38.0,Bulgaria,1980,Moskva,Gymnastics Women's Individual All-Around,---
+17.0,165.0,62.0,Bulgaria,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+17.0,155.0,43.0,United States,1988,Seoul,Gymnastics Women's Individual All-Around,---
+16.0,147.0,45.0,Switzerland,1972,Munich,Gymnastics Women's Individual All-Around,---
+18.0,161.0,51.0,Switzerland,2004,Athina,Gymnastics Women's Individual All-Around,---
+20.0,160.0,48.0,Spain,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+14.0,160.0,32.0,Spain,1980,Moskva,Gymnastics Women's Individual All-Around,---
+18.0,160.0,32.0,Spain,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+16.0,149.0,39.0,Spain,2000,Sydney,Gymnastics Women's Individual All-Around,---
+20.0,163.0,56.0,Portugal,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+16.0,164.0,45.0,Bulgaria,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+18.0,167.0,62.0,Great Britain,2000,Sydney,Gymnastics Women's Individual All-Around,---
+16.0,154.0,45.0,Bulgaria,1976,Montreal,Gymnastics Women's Individual All-Around,---
+19.0,158.0,53.0,Czechoslovakia,1952,Helsinki,Gymnastics Women's Individual All-Around,---
+23.0,158.0,53.0,Czechoslovakia,1956,Melbourne,Gymnastics Women's Individual All-Around,---
+27.0,158.0,53.0,Czechoslovakia,1960,Roma,Gymnastics Women's Individual All-Around,---
+18.0,162.0,48.0,Poland,1972,Munich,Gymnastics Women's Individual All-Around,---
+26.0,162.0,48.0,Poland,1980,Moskva,Gymnastics Women's Individual All-Around,---
+25.0,160.0,56.0,West Germany,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+23.0,150.0,41.0,Japan,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+27.0,150.0,41.0,Japan,1972,Munich,Gymnastics Women's Individual All-Around,---
+30.0,150.0,41.0,Japan,1976,Montreal,Gymnastics Women's Individual All-Around,---
+19.0,160.0,55.0,Slovenia,2000,Sydney,Gymnastics Women's Individual All-Around,---
+17.0,157.0,49.0,United States,1960,Roma,Gymnastics Women's Individual All-Around,---
+19.0,153.0,46.0,United States,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+16.0,154.0,43.0,United States,2004,Athina,Gymnastics Women's Individual All-Around,---
+18.0,145.0,52.0,Canada,1988,Seoul,Gymnastics Women's Individual All-Around,---
+17.0,160.0,54.0,Canada,1972,Munich,Gymnastics Women's Individual All-Around,---
+21.0,160.0,54.0,Canada,1976,Montreal,Gymnastics Women's Individual All-Around,---
+14.0,165.0,57.0,Canada,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+18.0,165.0,57.0,Canada,1972,Munich,Gymnastics Women's Individual All-Around,---
+22.0,165.0,57.0,Canada,1976,Montreal,Gymnastics Women's Individual All-Around,---
+17.0,159.0,57.0,New Zealand,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+16.0,144.0,36.0,Australia,2000,Sydney,Gymnastics Women's Individual All-Around,---
+18.0,148.0,40.0,United States,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+14.0,160.0,49.0,Hungary,1972,Munich,Gymnastics Women's Individual All-Around,---
+18.0,160.0,49.0,Hungary,1976,Montreal,Gymnastics Women's Individual All-Around,---
+16.0,151.0,44.0,Russia,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+20.0,160.0,54.0,United States,2008,Beijing,Gymnastics Women's Individual All-Around,---
+17.0,153.0,52.0,Great Britain,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+16.0,155.0,50.0,Spain,2004,Athina,Gymnastics Women's Individual All-Around,---
+17.0,156.0,49.0,United States,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+21.0,156.0,49.0,United States,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+25.0,156.0,49.0,United States,1972,Munich,Gymnastics Women's Individual All-Around,---
+21.0,158.0,52.0,Netherlands,1960,Roma,Gymnastics Women's Individual All-Around,---
+16.0,149.0,36.0,Belarus,2000,Sydney,Gymnastics Women's Individual All-Around,---
+20.0,165.0,58.0,Poland,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+26.0,164.0,54.0,Bulgaria,1960,Roma,Gymnastics Women's Individual All-Around,---
+18.0,167.0,50.0,Bulgaria,2012,London,Gymnastics Women's Individual All-Around,---
+15.0,147.0,39.0,United States,1992,Barcelona,Gymnastics Women's Individual All-Around,Silver
+19.0,147.0,39.0,United States,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+16.0,155.0,45.0,Greece,2000,Sydney,Gymnastics Women's Individual All-Around,---
+28.0,155.0,45.0,Greece,2012,London,Gymnastics Women's Individual All-Around,---
+15.0,152.0,41.0,United States,1988,Seoul,Gymnastics Women's Individual All-Around,---
+18.0,165.0,57.0,Canada,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+18.0,148.0,38.0,Japan,2008,Beijing,Gymnastics Women's Individual All-Around,---
+16.0,165.0,50.0,Hungary,1988,Seoul,Gymnastics Women's Individual All-Around,---
+16.0,165.0,49.0,Hungary,1988,Seoul,Gymnastics Women's Individual All-Around,---
+17.0,152.0,42.0,Australia,2008,Beijing,Gymnastics Women's Individual All-Around,---
+16.0,153.0,42.0,Bulgaria,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+17.0,150.0,40.0,Japan,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+21.0,150.0,40.0,Japan,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+18.0,151.0,48.0,Japan,1972,Munich,Gymnastics Women's Individual All-Around,---
+17.0,140.0,38.0,China,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+15.0,153.0,42.0,Germany,2008,Beijing,Gymnastics Women's Individual All-Around,---
+14.0,139.0,34.0,United States,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+17.0,158.0,45.0,Japan,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+19.0,160.0,47.0,North Korea,2000,Sydney,Gymnastics Women's Individual All-Around,---
+19.0,168.0,62.0,Slovakia,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+17.0,159.0,47.0,Brazil,2004,Athina,Gymnastics Women's Individual All-Around,---
+17.0,162.0,49.0,Hungary,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+21.0,162.0,49.0,Hungary,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+16.0,164.0,52.0,Hungary,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+20.0,166.0,57.0,Poland,1960,Roma,Gymnastics Women's Individual All-Around,---
+18.0,143.0,37.0,Australia,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+19.0,150.0,45.0,United States,1960,Roma,Gymnastics Women's Individual All-Around,---
+18.0,163.0,50.0,United States,1972,Munich,Gymnastics Women's Individual All-Around,---
+17.0,150.0,47.0,Australia,2004,Athina,Gymnastics Women's Individual All-Around,---
+14.0,146.0,45.0,Mexico,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+19.0,156.0,47.0,Spain,1980,Moskva,Gymnastics Women's Individual All-Around,---
+16.0,157.0,43.0,France,2008,Beijing,Gymnastics Women's Individual All-Around,---
+21.0,147.0,45.0,Mexico,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+25.0,164.0,58.0,Mexico,2004,Athina,Gymnastics Women's Individual All-Around,---
+16.0,143.0,31.0,Spain,2004,Athina,Gymnastics Women's Individual All-Around,---
+17.0,158.0,49.0,Australia,2008,Beijing,Gymnastics Women's Individual All-Around,---
+22.0,151.0,43.0,Japan,1988,Seoul,Gymnastics Women's Individual All-Around,---
+16.0,155.0,41.0,Japan,1988,Seoul,Gymnastics Women's Individual All-Around,---
+16.0,160.0,54.0,Canada,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+17.0,140.0,34.0,Japan,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+21.0,140.0,34.0,Japan,1988,Seoul,Gymnastics Women's Individual All-Around,---
+15.0,138.0,33.0,Australia,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+18.0,143.0,44.0,Spain,2000,Sydney,Gymnastics Women's Individual All-Around,---
+16.0,139.0,30.0,Spain,2000,Sydney,Gymnastics Women's Individual All-Around,---
+20.0,139.0,30.0,Spain,2004,Athina,Gymnastics Women's Individual All-Around,---
+16.0,155.0,46.0,Italy,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+16.0,167.0,56.0,Netherlands,1972,Munich,Gymnastics Women's Individual All-Around,---
+16.0,151.0,42.0,Portugal,1988,Seoul,Gymnastics Women's Individual All-Around,---
+16.0,150.0,43.0,Spain,2000,Sydney,Gymnastics Women's Individual All-Around,---
+19.0,157.0,49.0,Great Britain,1972,Munich,Gymnastics Women's Individual All-Around,---
+16.0,158.0,50.0,Hungary,1960,Roma,Gymnastics Women's Individual All-Around,---
+21.0,158.0,50.0,Hungary,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+25.0,158.0,50.0,Hungary,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+16.0,160.0,46.0,United States,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+16.0,152.0,47.0,Canada,1976,Montreal,Gymnastics Women's Individual All-Around,---
+14.0,150.0,42.0,Spain,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+18.0,150.0,42.0,Spain,1988,Seoul,Gymnastics Women's Individual All-Around,---
+16.0,154.0,43.0,Australia,2004,Athina,Gymnastics Women's Individual All-Around,---
+19.0,146.0,48.0,Japan,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+27.0,160.0,55.0,Soviet Union,1956,Melbourne,Gymnastics Women's Individual All-Around,Bronze
+31.0,160.0,55.0,Soviet Union,1960,Roma,Gymnastics Women's Individual All-Around,Silver
+19.0,152.0,46.0,Great Britain,2000,Sydney,Gymnastics Women's Individual All-Around,---
+18.0,163.0,48.0,Germany,2004,Athina,Gymnastics Women's Individual All-Around,---
+17.0,162.0,48.0,Russia,2012,London,Gymnastics Women's Individual All-Around,Bronze
+21.0,162.0,48.0,Russia,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,Bronze
+16.0,156.0,50.0,Belgium,2008,Beijing,Gymnastics Women's Individual All-Around,---
+20.0,156.0,50.0,Belgium,2012,London,Gymnastics Women's Individual All-Around,---
+20.0,170.0,66.0,Hungary,1972,Munich,Gymnastics Women's Individual All-Around,---
+15.0,145.0,40.0,Soviet Union,1980,Moskva,Gymnastics Women's Individual All-Around,---
+21.0,158.0,50.0,Japan,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+25.0,158.0,50.0,Japan,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+16.0,158.0,45.0,Japan,1988,Seoul,Gymnastics Women's Individual All-Around,---
+19.0,153.0,42.0,Belarus,2000,Sydney,Gymnastics Women's Individual All-Around,---
+17.0,163.0,42.0,Spain,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+16.0,154.0,49.0,Czechoslovakia,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+20.0,154.0,49.0,Czechoslovakia,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+24.0,154.0,49.0,Czechoslovakia,1972,Munich,Gymnastics Women's Individual All-Around,---
+16.0,152.0,37.0,Australia,2004,Athina,Gymnastics Women's Individual All-Around,---
+14.0,151.0,39.0,West Germany,1972,Munich,Gymnastics Women's Individual All-Around,---
+21.0,152.0,47.0,Poland,1960,Roma,Gymnastics Women's Individual All-Around,---
+25.0,152.0,47.0,Poland,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+21.0,160.0,55.0,Finland,1960,Roma,Gymnastics Women's Individual All-Around,---
+24.0,159.0,55.0,Soviet Union,1960,Roma,Gymnastics Women's Individual All-Around,---
+18.0,149.0,43.0,Romania,2008,Beijing,Gymnastics Women's Individual All-Around,---
+17.0,158.0,40.0,East Germany,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+20.0,161.0,55.0,France,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+22.0,159.0,56.0,Poland,1956,Melbourne,Gymnastics Women's Individual All-Around,---
+26.0,159.0,56.0,Poland,1960,Roma,Gymnastics Women's Individual All-Around,---
+15.0,154.0,40.0,Japan,1976,Montreal,Gymnastics Women's Individual All-Around,---
+17.0,156.0,45.0,Hungary,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+21.0,156.0,45.0,Hungary,2000,Sydney,Gymnastics Women's Individual All-Around,---
+19.0,147.0,42.0,Japan,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+19.0,166.0,60.0,Poland,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+21.0,155.0,49.0,Japan,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+17.0,146.0,40.0,Japan,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+15.0,150.0,38.0,Japan,1976,Montreal,Gymnastics Women's Individual All-Around,---
+17.0,162.0,43.0,United States,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+18.0,163.0,48.0,Romania,2000,Sydney,Gymnastics Women's Individual All-Around,Silver
+18.0,160.0,50.0,Mexico,1972,Munich,Gymnastics Women's Individual All-Around,---
+16.0,164.0,52.0,West Germany,1972,Munich,Gymnastics Women's Individual All-Around,---
+20.0,164.0,52.0,West Germany,1976,Montreal,Gymnastics Women's Individual All-Around,---
+24.0,157.0,60.0,Japan,1960,Roma,Gymnastics Women's Individual All-Around,---
+28.0,157.0,60.0,Japan,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+18.0,146.0,47.0,Hungary,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+22.0,146.0,47.0,Hungary,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+18.0,157.0,50.0,Canada,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+18.0,164.0,63.0,Ireland,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+17.0,157.0,49.0,Peru,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+18.0,149.0,39.0,Japan,2004,Athina,Gymnastics Women's Individual All-Around,---
+22.0,149.0,39.0,Japan,2008,Beijing,Gymnastics Women's Individual All-Around,---
+14.0,154.0,39.0,Hungary,1976,Montreal,Gymnastics Women's Individual All-Around,---
+18.0,154.0,39.0,Hungary,1980,Moskva,Gymnastics Women's Individual All-Around,---
+15.0,152.0,42.0,Hungary,1988,Seoul,Gymnastics Women's Individual All-Around,---
+23.0,152.0,42.0,Hungary,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+21.0,152.0,41.0,Japan,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+18.0,151.0,40.0,Spain,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+17.0,158.0,48.0,Czech Republic,2008,Beijing,Gymnastics Women's Individual All-Around,---
+21.0,158.0,48.0,Czech Republic,2012,London,Gymnastics Women's Individual All-Around,---
+16.0,160.0,44.0,Bulgaria,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+24.0,165.0,53.0,Bulgaria,1972,Munich,Gymnastics Women's Individual All-Around,---
+16.0,160.0,48.0,Greece,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+18.0,154.0,49.0,South Korea,2004,Athina,Gymnastics Women's Individual All-Around,---
+15.0,157.0,43.0,South Korea,1988,Seoul,Gymnastics Women's Individual All-Around,---
+17.0,162.0,59.0,Canada,1960,Roma,Gymnastics Women's Individual All-Around,---
+18.0,160.0,44.0,Italy,2008,Beijing,Gymnastics Women's Individual All-Around,---
+16.0,160.0,60.0,Austria,1960,Roma,Gymnastics Women's Individual All-Around,---
+21.0,160.0,60.0,Austria,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+21.0,166.0,59.0,Bulgaria,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+16.0,152.0,44.0,United States,2004,Athina,Gymnastics Women's Individual All-Around,Gold
+14.0,150.0,42.0,Romania,1984,Los Angeles,Gymnastics Women's Individual All-Around,Bronze
+17.0,159.0,52.0,Romania,1972,Munich,Gymnastics Women's Individual All-Around,---
+16.0,152.0,43.0,Russia,2004,Athina,Gymnastics Women's Individual All-Around,---
+20.0,152.0,43.0,Russia,2008,Beijing,Gymnastics Women's Individual All-Around,---
+22.0,156.0,50.0,Bulgaria,1960,Roma,Gymnastics Women's Individual All-Around,---
+14.0,148.0,36.0,Spain,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+18.0,157.0,54.0,Canada,2012,London,Gymnastics Women's Individual All-Around,---
+18.0,151.0,45.0,Spain,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+15.0,159.0,47.0,Italy,1972,Munich,Gymnastics Women's Individual All-Around,---
+19.0,159.0,47.0,Italy,1976,Montreal,Gymnastics Women's Individual All-Around,---
+20.0,155.0,54.0,Great Britain,1960,Roma,Gymnastics Women's Individual All-Around,---
+17.0,161.0,52.0,Belgium,2000,Sydney,Gymnastics Women's Individual All-Around,---
+16.0,152.0,50.0,United States,2008,Beijing,Gymnastics Women's Individual All-Around,---
+15.0,156.0,42.0,France,2008,Beijing,Gymnastics Women's Individual All-Around,---
+19.0,163.0,52.0,Soviet Union,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+17.0,163.0,48.0,United States,1972,Munich,Gymnastics Women's Individual All-Around,---
+21.0,162.0,53.0,Poland,2008,Beijing,Gymnastics Women's Individual All-Around,---
+25.0,162.0,53.0,Poland,2012,London,Gymnastics Women's Individual All-Around,---
+18.0,160.0,55.0,Great Britain,2012,London,Gymnastics Women's Individual All-Around,---
+16.0,160.0,50.0,Germany,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+18.0,153.0,39.0,Belarus,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+20.0,158.0,51.0,Canada,2004,Athina,Gymnastics Women's Individual All-Around,---
+15.0,147.0,38.0,Spain,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+17.0,149.0,42.0,Ukraine,1996,Atlanta,Gymnastics Women's Individual All-Around,Gold
+24.0,161.0,55.0,Yugoslavia,1960,Roma,Gymnastics Women's Individual All-Around,---
+16.0,166.0,54.0,Czechoslovakia,1976,Montreal,Gymnastics Women's Individual All-Around,---
+25.0,155.0,53.0,Great Britain,1960,Roma,Gymnastics Women's Individual All-Around,---
+18.0,158.0,46.0,Czechoslovakia,1988,Seoul,Gymnastics Women's Individual All-Around,---
+21.0,158.0,46.0,Czechoslovakia,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+16.0,153.0,43.0,Belarus,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+21.0,153.0,43.0,Belarus,2000,Sydney,Gymnastics Women's Individual All-Around,---
+16.0,160.0,47.0,Romania,2004,Athina,Gymnastics Women's Individual All-Around,---
+18.0,145.0,35.0,Romania,1988,Seoul,Gymnastics Women's Individual All-Around,---
+17.0,161.0,48.0,Czechoslovakia,1976,Montreal,Gymnastics Women's Individual All-Around,---
+23.0,156.0,54.0,Romania,1960,Roma,Gymnastics Women's Individual All-Around,---
+15.0,149.0,38.0,Germany,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+15.0,144.0,35.0,Romania,1988,Seoul,Gymnastics Women's Individual All-Around,---
+21.0,162.0,57.0,Italy,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+20.0,156.0,42.0,Romania,2000,Sydney,Gymnastics Women's Individual All-Around,---
+19.0,165.0,53.0,Great Britain,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+18.0,157.0,46.0,Great Britain,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+21.0,152.0,47.0,Latvia,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+20.0,150.0,39.0,Russia,2000,Sydney,Gymnastics Women's Individual All-Around,---
+22.0,167.0,55.0,Ukraine,2008,Beijing,Gymnastics Women's Individual All-Around,---
+15.0,146.0,50.0,Mexico,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+17.0,161.0,56.0,Canada,2004,Athina,Gymnastics Women's Individual All-Around,---
+20.0,156.0,47.0,Yugoslavia,1972,Munich,Gymnastics Women's Individual All-Around,---
+17.0,145.0,36.0,North Korea,2004,Athina,Gymnastics Women's Individual All-Around,---
+16.0,158.0,48.0,Finland,1952,Helsinki,Gymnastics Women's Individual All-Around,---
+19.0,152.0,41.0,China,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+18.0,160.0,61.0,United States,1956,Melbourne,Gymnastics Women's Individual All-Around,---
+19.0,163.0,60.0,Germany,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+16.0,148.0,37.0,Romania,2000,Sydney,Gymnastics Women's Individual All-Around,---
+15.0,161.0,54.0,France,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+18.0,157.0,52.0,United States,2012,London,Gymnastics Women's Individual All-Around,---
+22.0,157.0,52.0,United States,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,Silver
+18.0,163.0,57.0,Great Britain,1952,Helsinki,Gymnastics Women's Individual All-Around,---
+26.0,163.0,57.0,Great Britain,1960,Roma,Gymnastics Women's Individual All-Around,---
+17.0,155.0,47.0,Bulgaria,1980,Moskva,Gymnastics Women's Individual All-Around,---
+30.0,166.0,55.0,Poland,1952,Helsinki,Gymnastics Women's Individual All-Around,---
+34.0,166.0,55.0,Poland,1956,Melbourne,Gymnastics Women's Individual All-Around,---
+16.0,157.0,48.0,France,2000,Sydney,Gymnastics Women's Individual All-Around,---
+17.0,154.0,50.0,Mexico,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+21.0,163.0,52.0,Bulgaria,1960,Roma,Gymnastics Women's Individual All-Around,---
+16.0,162.0,52.0,Canada,1988,Seoul,Gymnastics Women's Individual All-Around,---
+20.0,162.0,52.0,Canada,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+18.0,152.0,48.0,United States,2000,Sydney,Gymnastics Women's Individual All-Around,---
+16.0,154.0,40.0,Bulgaria,1988,Seoul,Gymnastics Women's Individual All-Around,---
+16.0,157.0,51.0,Great Britain,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+20.0,157.0,51.0,Great Britain,2000,Sydney,Gymnastics Women's Individual All-Around,---
+16.0,155.0,46.0,France,2000,Sydney,Gymnastics Women's Individual All-Around,---
+30.0,156.0,50.0,Poland,1952,Helsinki,Gymnastics Women's Individual All-Around,---
+15.0,159.0,45.0,East Germany,1980,Moskva,Gymnastics Women's Individual All-Around,---
+17.0,165.0,47.0,West Germany,1976,Montreal,Gymnastics Women's Individual All-Around,---
+16.0,145.0,42.0,United States,1984,Los Angeles,Gymnastics Women's Individual All-Around,Gold
+16.0,144.0,37.0,North Korea,2004,Athina,Gymnastics Women's Individual All-Around,---
+15.0,148.0,37.0,Brazil,1988,Seoul,Gymnastics Women's Individual All-Around,---
+19.0,148.0,37.0,Brazil,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+16.0,152.0,47.0,Canada,2000,Sydney,Gymnastics Women's Individual All-Around,---
+20.0,152.0,47.0,Canada,2004,Athina,Gymnastics Women's Individual All-Around,---
+17.0,162.0,46.0,United States,1960,Roma,Gymnastics Women's Individual All-Around,---
+19.0,157.0,40.0,Czechoslovakia,1988,Seoul,Gymnastics Women's Individual All-Around,---
+15.0,149.0,45.0,United States,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+19.0,149.0,45.0,United States,1972,Munich,Gymnastics Women's Individual All-Around,---
+21.0,164.0,54.0,Czechoslovakia,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+13.0,155.0,47.0,Mexico,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+17.0,155.0,47.0,Mexico,1972,Munich,Gymnastics Women's Individual All-Around,---
+15.0,149.0,41.0,Great Britain,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+22.0,157.0,61.0,Australia,1960,Roma,Gymnastics Women's Individual All-Around,---
+26.0,157.0,61.0,Australia,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+18.0,162.0,52.0,New Zealand,2000,Sydney,Gymnastics Women's Individual All-Around,---
+15.0,153.0,43.0,Italy,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+16.0,163.0,43.0,Brazil,2004,Athina,Gymnastics Women's Individual All-Around,---
+17.0,154.0,45.0,France,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+16.0,140.0,35.0,France,1988,Seoul,Gymnastics Women's Individual All-Around,---
+16.0,164.0,48.0,Canada,1976,Montreal,Gymnastics Women's Individual All-Around,---
+22.0,162.0,54.0,France,1960,Roma,Gymnastics Women's Individual All-Around,---
+17.0,153.0,44.0,Romania,2004,Athina,Gymnastics Women's Individual All-Around,---
+16.0,142.0,36.0,Ukraine,2000,Sydney,Gymnastics Women's Individual All-Around,---
+24.0,176.0,59.0,United States,1956,Melbourne,Gymnastics Women's Individual All-Around,---
+17.0,158.0,55.0,Spain,1988,Seoul,Gymnastics Women's Individual All-Around,---
+20.0,158.0,55.0,Spain,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+15.0,156.0,42.0,Romania,1980,Moskva,Gymnastics Women's Individual All-Around,---
+18.0,153.0,52.0,Canada,1956,Melbourne,Gymnastics Women's Individual All-Around,---
+21.0,153.0,52.0,Canada,1960,Roma,Gymnastics Women's Individual All-Around,---
+16.0,149.0,40.0,Australia,2004,Athina,Gymnastics Women's Individual All-Around,---
+20.0,160.0,61.0,Great Britain,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+19.0,162.0,58.0,Czechoslovakia,1960,Roma,Gymnastics Women's Individual All-Around,---
+23.0,162.0,58.0,Czechoslovakia,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+19.0,152.0,45.0,Australia,1988,Seoul,Gymnastics Women's Individual All-Around,---
+18.0,155.0,50.0,Sweden,1960,Roma,Gymnastics Women's Individual All-Around,---
+22.0,155.0,50.0,Sweden,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+20.0,166.0,53.0,Soviet Union,1972,Munich,Gymnastics Women's Individual All-Around,---
+24.0,166.0,53.0,Soviet Union,1976,Montreal,Gymnastics Women's Individual All-Around,---
+17.0,164.0,56.0,Italy,1976,Montreal,Gymnastics Women's Individual All-Around,---
+20.0,155.0,53.0,United States,2008,Beijing,Gymnastics Women's Individual All-Around,---
+14.0,153.0,41.0,Mexico,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+18.0,167.0,52.0,Slovenia,2008,Beijing,Gymnastics Women's Individual All-Around,---
+24.0,167.0,59.0,Finland,1960,Roma,Gymnastics Women's Individual All-Around,---
+23.0,157.0,53.0,Finland,1952,Helsinki,Gymnastics Women's Individual All-Around,---
+15.0,153.0,41.0,Japan,1988,Seoul,Gymnastics Women's Individual All-Around,---
+16.0,138.0,38.0,Colombia,2008,Beijing,Gymnastics Women's Individual All-Around,---
+20.0,150.0,44.0,Spain,1972,Munich,Gymnastics Women's Individual All-Around,---
+16.0,165.0,50.0,Norway,1972,Munich,Gymnastics Women's Individual All-Around,---
+30.0,167.0,58.0,Norway,1952,Helsinki,Gymnastics Women's Individual All-Around,---
+24.0,155.0,54.0,Italy,1960,Roma,Gymnastics Women's Individual All-Around,---
+17.0,159.0,43.0,West Germany,1972,Munich,Gymnastics Women's Individual All-Around,---
+19.0,158.0,50.0,Finland,1960,Roma,Gymnastics Women's Individual All-Around,---
+16.0,133.0,31.0,Brazil,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+14.0,174.0,44.0,Czechoslovakia,1980,Moskva,Gymnastics Women's Individual All-Around,---
+17.0,162.0,50.0,Czechoslovakia,1980,Moskva,Gymnastics Women's Individual All-Around,---
+24.0,160.0,55.0,Iceland,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+19.0,167.0,56.0,Germany,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+20.0,164.0,53.0,East Germany,1988,Seoul,Gymnastics Women's Individual All-Around,---
+20.0,170.0,49.0,Germany,1960,Roma,Gymnastics Women's Individual All-Around,---
+18.0,158.0,46.0,East Germany,1972,Munich,Gymnastics Women's Individual All-Around,---
+19.0,160.0,50.0,East Germany,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+19.0,172.0,54.0,East Germany,1972,Munich,Gymnastics Women's Individual All-Around,---
+15.0,150.0,41.0,France,2004,Athina,Gymnastics Women's Individual All-Around,---
+21.0,159.0,50.0,Germany,1960,Roma,Gymnastics Women's Individual All-Around,---
+16.0,163.0,46.0,Germany,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+15.0,157.0,43.0,West Germany,1972,Munich,Gymnastics Women's Individual All-Around,---
+18.0,157.0,43.0,West Germany,1976,Montreal,Gymnastics Women's Individual All-Around,---
+17.0,163.0,46.0,Germany,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+18.0,162.0,52.0,West Germany,1976,Montreal,Gymnastics Women's Individual All-Around,---
+16.0,162.0,50.0,West Germany,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+18.0,158.0,52.0,Czechoslovakia,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+20.0,168.0,58.0,France,1976,Montreal,Gymnastics Women's Individual All-Around,---
+15.0,160.0,48.0,Switzerland,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+18.0,162.0,57.0,Germany,2012,London,Gymnastics Women's Individual All-Around,---
+22.0,162.0,57.0,Germany,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+15.0,156.0,50.0,Slovakia,2000,Sydney,Gymnastics Women's Individual All-Around,---
+19.0,156.0,50.0,Slovakia,2004,Athina,Gymnastics Women's Individual All-Around,---
+18.0,157.0,44.0,Japan,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+15.0,138.0,35.0,Russia,2008,Beijing,Gymnastics Women's Individual All-Around,---
+20.0,144.0,37.0,Japan,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+16.0,169.0,57.0,France,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+24.0,169.0,57.0,France,2004,Athina,Gymnastics Women's Individual All-Around,---
+20.0,143.0,34.0,China,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+17.0,159.0,42.0,Ukraine,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+19.0,158.0,46.0,Soviet Union,1980,Moskva,Gymnastics Women's Individual All-Around,---
+17.0,164.0,49.0,Israel,1988,Seoul,Gymnastics Women's Individual All-Around,---
+16.0,152.0,37.0,Bulgaria,1976,Montreal,Gymnastics Women's Individual All-Around,---
+16.0,143.0,34.0,Ukraine,2004,Athina,Gymnastics Women's Individual All-Around,---
+16.0,136.0,30.0,Ukraine,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+16.0,152.0,42.0,Soviet Union,1988,Seoul,Gymnastics Women's Individual All-Around,---
+16.0,152.0,38.0,Japan,1988,Seoul,Gymnastics Women's Individual All-Around,---
+21.0,147.0,47.0,Japan,1960,Roma,Gymnastics Women's Individual All-Around,---
+25.0,147.0,47.0,Japan,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+19.0,147.0,41.0,Soviet Union,1988,Seoul,Gymnastics Women's Individual All-Around,Gold
+21.0,160.0,58.0,France,1956,Melbourne,Gymnastics Women's Individual All-Around,---
+25.0,160.0,58.0,France,1960,Roma,Gymnastics Women's Individual All-Around,---
+16.0,167.0,51.0,Switzerland,1972,Munich,Gymnastics Women's Individual All-Around,---
+16.0,145.0,38.0,Romania,1988,Seoul,Gymnastics Women's Individual All-Around,Silver
+16.0,150.0,37.0,Brazil,2008,Beijing,Gymnastics Women's Individual All-Around,---
+16.0,154.0,46.0,South Korea,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+14.0,144.0,38.0,North Korea,1980,Moskva,Gymnastics Women's Individual All-Around,---
+16.0,157.0,43.0,Argentina,2000,Sydney,Gymnastics Women's Individual All-Around,---
+17.0,167.0,55.0,Norway,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+15.0,155.0,46.0,Australia,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+19.0,155.0,46.0,Australia,2000,Sydney,Gymnastics Women's Individual All-Around,---
+23.0,155.0,46.0,Australia,2004,Athina,Gymnastics Women's Individual All-Around,---
+17.0,163.0,54.0,Czechoslovakia,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+18.0,153.0,44.0,Poland,2000,Sydney,Gymnastics Women's Individual All-Around,---
+16.0,155.0,50.0,Australia,2000,Sydney,Gymnastics Women's Individual All-Around,---
+20.0,155.0,50.0,Australia,2004,Athina,Gymnastics Women's Individual All-Around,---
+17.0,157.0,48.0,Great Britain,1976,Montreal,Gymnastics Women's Individual All-Around,---
+16.0,150.0,47.0,United States,2008,Beijing,Gymnastics Women's Individual All-Around,---
+16.0,149.0,43.0,Australia,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+17.0,158.0,45.0,Czechoslovakia,1976,Montreal,Gymnastics Women's Individual All-Around,---
+21.0,161.0,57.0,Netherlands,1972,Munich,Gymnastics Women's Individual All-Around,---
+25.0,161.0,57.0,Netherlands,1976,Montreal,Gymnastics Women's Individual All-Around,---
+14.0,157.0,45.0,Poland,1980,Moskva,Gymnastics Women's Individual All-Around,---
+16.0,146.0,37.0,Romania,2004,Athina,Gymnastics Women's Individual All-Around,---
+20.0,151.0,48.0,Japan,1956,Melbourne,Gymnastics Women's Individual All-Around,---
+24.0,151.0,48.0,Japan,1960,Roma,Gymnastics Women's Individual All-Around,---
+16.0,156.0,49.0,France,2000,Sydney,Gymnastics Women's Individual All-Around,---
+18.0,150.0,45.0,North Korea,2000,Sydney,Gymnastics Women's Individual All-Around,---
+26.0,165.0,51.0,Germany,1960,Roma,Gymnastics Women's Individual All-Around,---
+16.0,162.0,54.0,United States,1960,Roma,Gymnastics Women's Individual All-Around,---
+20.0,156.0,55.0,Italy,1960,Roma,Gymnastics Women's Individual All-Around,---
+14.0,147.0,38.0,Iran,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+15.0,156.0,47.0,Brazil,2004,Athina,Gymnastics Women's Individual All-Around,---
+19.0,156.0,47.0,Brazil,2008,Beijing,Gymnastics Women's Individual All-Around,---
+18.0,157.0,51.0,Bulgaria,1952,Helsinki,Gymnastics Women's Individual All-Around,---
+23.0,157.0,51.0,Bulgaria,1956,Melbourne,Gymnastics Women's Individual All-Around,---
+27.0,157.0,51.0,Bulgaria,1960,Roma,Gymnastics Women's Individual All-Around,---
+16.0,160.0,52.0,United States,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+24.0,165.0,60.0,New Zealand,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+17.0,145.0,40.0,United States,1988,Seoul,Gymnastics Women's Individual All-Around,---
+17.0,161.0,50.0,Italy,1976,Montreal,Gymnastics Women's Individual All-Around,---
+15.0,142.0,34.0,United States,1988,Seoul,Gymnastics Women's Individual All-Around,---
+17.0,152.0,44.0,Romania,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+16.0,166.0,51.0,Germany,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+20.0,166.0,51.0,Germany,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+21.0,171.0,49.0,Germany,1960,Roma,Gymnastics Women's Individual All-Around,---
+25.0,171.0,49.0,Germany,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+29.0,171.0,49.0,East Germany,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+14.0,157.0,47.0,Italy,1972,Munich,Gymnastics Women's Individual All-Around,---
+17.0,159.0,54.0,West Germany,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+14.0,165.0,49.0,Switzerland,1972,Munich,Gymnastics Women's Individual All-Around,---
+15.0,150.0,45.0,Switzerland,1972,Munich,Gymnastics Women's Individual All-Around,---
+18.0,166.0,56.0,West Germany,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+18.0,160.0,56.0,Switzerland,2012,London,Gymnastics Women's Individual All-Around,---
+22.0,160.0,56.0,Switzerland,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+29.0,160.0,62.0,Luxembourg,1960,Roma,Gymnastics Women's Individual All-Around,---
+23.0,153.0,51.0,Germany,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+17.0,160.0,58.0,Canada,2004,Athina,Gymnastics Women's Individual All-Around,---
+19.0,162.0,47.0,Hungary,1988,Seoul,Gymnastics Women's Individual All-Around,---
+20.0,158.0,45.0,Bulgaria,1988,Seoul,Gymnastics Women's Individual All-Around,---
+21.0,164.0,60.0,Bulgaria,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+15.0,152.0,40.0,Soviet Union,1988,Seoul,Gymnastics Women's Individual All-Around,---
+19.0,156.0,48.0,Romania,2004,Athina,Gymnastics Women's Individual All-Around,---
+16.0,157.0,52.0,Canada,1988,Seoul,Gymnastics Women's Individual All-Around,---
+19.0,157.0,52.0,Canada,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+14.0,142.0,37.0,United States,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+18.0,142.0,37.0,United States,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+16.0,153.0,40.0,East Germany,1980,Moskva,Gymnastics Women's Individual All-Around,---
+18.0,149.0,42.0,Japan,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+16.0,146.0,35.0,Japan,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+16.0,156.0,45.0,Australia,1980,Moskva,Gymnastics Women's Individual All-Around,---
+18.0,156.0,51.0,Great Britain,1960,Roma,Gymnastics Women's Individual All-Around,---
+18.0,161.0,50.0,Australia,1972,Munich,Gymnastics Women's Individual All-Around,---
+18.0,164.0,50.0,East Germany,1980,Moskva,Gymnastics Women's Individual All-Around,---
+23.0,158.0,55.0,Czechoslovakia,1960,Roma,Gymnastics Women's Individual All-Around,---
+18.0,158.0,52.0,Poland,1952,Helsinki,Gymnastics Women's Individual All-Around,---
+16.0,145.0,40.0,Romania,1984,Los Angeles,Gymnastics Women's Individual All-Around,Silver
+18.0,159.0,52.0,Hungary,2004,Athina,Gymnastics Women's Individual All-Around,---
+22.0,156.0,52.0,Poland,1956,Melbourne,Gymnastics Women's Individual All-Around,---
+15.0,152.0,42.0,Japan,2000,Sydney,Gymnastics Women's Individual All-Around,---
+17.0,162.0,50.0,United States,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+17.0,145.0,37.0,Romania,2008,Beijing,Gymnastics Women's Individual All-Around,---
+18.0,156.0,49.0,United States,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+23.0,154.0,54.0,Japan,1956,Melbourne,Gymnastics Women's Individual All-Around,---
+26.0,154.0,54.0,Japan,1960,Roma,Gymnastics Women's Individual All-Around,---
+30.0,154.0,54.0,Japan,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+22.0,157.0,46.0,Bulgaria,2008,Beijing,Gymnastics Women's Individual All-Around,---
+19.0,156.0,46.0,Belarus,2004,Athina,Gymnastics Women's Individual All-Around,---
+23.0,160.0,57.0,Hungary,1952,Helsinki,Gymnastics Women's Individual All-Around,---
+27.0,160.0,57.0,Hungary,1956,Melbourne,Gymnastics Women's Individual All-Around,---
+31.0,160.0,57.0,Hungary,1960,Roma,Gymnastics Women's Individual All-Around,---
+15.0,150.0,39.0,Portugal,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+16.0,142.0,37.0,Greece,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+16.0,145.0,37.0,Japan,2012,London,Gymnastics Women's Individual All-Around,---
+20.0,145.0,37.0,Japan,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+15.0,151.0,40.0,Ukraine,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+19.0,151.0,40.0,Ukraine,2000,Sydney,Gymnastics Women's Individual All-Around,---
+15.0,156.0,50.0,France,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+19.0,156.0,50.0,France,2000,Sydney,Gymnastics Women's Individual All-Around,---
+15.0,156.0,48.0,Yugoslavia,1972,Munich,Gymnastics Women's Individual All-Around,---
+15.0,161.0,49.0,United States,1972,Munich,Gymnastics Women's Individual All-Around,---
+15.0,152.0,37.0,Canada,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+19.0,157.0,47.0,Great Britain,2000,Sydney,Gymnastics Women's Individual All-Around,---
+20.0,152.0,52.0,Great Britain,1952,Helsinki,Gymnastics Women's Individual All-Around,---
+29.0,152.0,52.0,Great Britain,1960,Roma,Gymnastics Women's Individual All-Around,---
+17.0,160.0,47.0,Netherlands,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+16.0,151.0,40.0,East Germany,1988,Seoul,Gymnastics Women's Individual All-Around,---
+21.0,158.0,53.0,Czechoslovakia,1960,Roma,Gymnastics Women's Individual All-Around,---
+25.0,158.0,53.0,Czechoslovakia,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+17.0,164.0,46.0,Bulgaria,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+23.0,162.0,55.0,Hungary,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+27.0,162.0,55.0,Hungary,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+15.0,156.0,45.0,Norway,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+15.0,144.0,34.0,Bulgaria,1980,Moskva,Gymnastics Women's Individual All-Around,---
+16.0,165.0,53.0,Netherlands,1972,Munich,Gymnastics Women's Individual All-Around,---
+16.0,157.0,41.0,Bulgaria,1980,Moskva,Gymnastics Women's Individual All-Around,---
+14.0,156.0,44.0,Hungary,1976,Montreal,Gymnastics Women's Individual All-Around,---
+16.0,160.0,47.0,Canada,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+20.0,160.0,47.0,Canada,2000,Sydney,Gymnastics Women's Individual All-Around,---
+22.0,162.0,53.0,Denmark,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+18.0,162.0,62.0,Hungary,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+15.0,144.0,40.0,France,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+18.0,157.0,45.0,Romania,1976,Montreal,Gymnastics Women's Individual All-Around,---
+18.0,152.0,51.0,Mongolia,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+22.0,152.0,51.0,Mongolia,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+15.0,142.0,36.0,Greece,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+25.0,151.0,47.0,Japan,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+22.0,153.0,47.0,Japan,1960,Roma,Gymnastics Women's Individual All-Around,---
+19.0,152.0,47.0,Canada,1972,Munich,Gymnastics Women's Individual All-Around,---
+15.0,141.0,34.0,Japan,2008,Beijing,Gymnastics Women's Individual All-Around,---
+14.0,162.0,53.0,Bulgaria,1972,Munich,Gymnastics Women's Individual All-Around,---
+15.0,137.0,35.0,Canada,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+15.0,149.0,35.0,Great Britain,2012,London,Gymnastics Women's Individual All-Around,---
+19.0,159.0,52.5,Finland,1952,Helsinki,Gymnastics Women's Individual All-Around,---
+27.0,159.0,52.5,Finland,1960,Roma,Gymnastics Women's Individual All-Around,---
+19.0,158.0,48.0,Romania,1972,Munich,Gymnastics Women's Individual All-Around,---
+16.0,160.0,52.0,Soviet Union,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+19.0,160.0,52.0,Soviet Union,1972,Munich,Gymnastics Women's Individual All-Around,Gold
+23.0,160.0,52.0,Soviet Union,1976,Montreal,Gymnastics Women's Individual All-Around,Bronze
+16.0,159.0,45.0,Romania,1980,Moskva,Gymnastics Women's Individual All-Around,---
+17.0,146.0,43.0,Russia,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+19.0,159.0,52.0,Great Britain,2004,Athina,Gymnastics Women's Individual All-Around,---
+23.0,159.0,52.0,Great Britain,2008,Beijing,Gymnastics Women's Individual All-Around,---
+20.0,158.0,46.0,Ukraine,2000,Sydney,Gymnastics Women's Individual All-Around,---
+22.0,149.0,38.0,Japan,2008,Beijing,Gymnastics Women's Individual All-Around,---
+17.0,153.0,46.0,Canada,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+15.0,150.0,44.0,Romania,1976,Montreal,Gymnastics Women's Individual All-Around,---
+16.0,161.0,41.0,Cuba,1960,Roma,Gymnastics Women's Individual All-Around,---
+21.0,157.0,57.0,Finland,2012,London,Gymnastics Women's Individual All-Around,---
+15.0,163.0,52.0,West Germany,1988,Seoul,Gymnastics Women's Individual All-Around,---
+19.0,161.0,52.0,Czechoslovakia,1972,Munich,Gymnastics Women's Individual All-Around,---
+20.0,149.0,39.0,Canada,2012,London,Gymnastics Women's Individual All-Around,---
+20.0,167.0,58.0,Argentina,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+18.0,158.0,47.0,Spain,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+18.0,153.0,41.0,Belgium,1960,Roma,Gymnastics Women's Individual All-Around,---
+20.0,164.0,57.0,Netherlands,1972,Munich,Gymnastics Women's Individual All-Around,---
+17.0,156.0,51.0,Netherlands,2012,London,Gymnastics Women's Individual All-Around,---
+21.0,156.0,51.0,Netherlands,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+21.0,157.0,50.0,Belgium,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+24.0,165.0,56.0,Netherlands,1960,Roma,Gymnastics Women's Individual All-Around,---
+18.0,169.0,56.0,Netherlands,2004,Athina,Gymnastics Women's Individual All-Around,---
+17.0,169.0,58.0,Netherlands,1976,Montreal,Gymnastics Women's Individual All-Around,---
+21.0,168.0,56.0,Netherlands,1960,Roma,Gymnastics Women's Individual All-Around,---
+17.0,167.0,55.0,France,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+16.0,155.0,43.0,Belgium,2004,Athina,Gymnastics Women's Individual All-Around,---
+15.0,162.0,46.0,Hungary,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+14.0,150.0,38.0,Greece,1988,Seoul,Gymnastics Women's Individual All-Around,---
+23.0,156.0,51.0,Romania,1956,Melbourne,Gymnastics Women's Individual All-Around,---
+26.0,156.0,51.0,Romania,1960,Roma,Gymnastics Women's Individual All-Around,---
+30.0,156.0,51.0,Romania,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+22.0,148.0,45.0,Cuba,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+21.0,158.0,41.0,Czechoslovakia,1988,Seoul,Gymnastics Women's Individual All-Around,---
+16.0,168.0,55.0,Netherlands,1972,Munich,Gymnastics Women's Individual All-Around,---
+17.0,156.0,40.0,Czechoslovakia,1988,Seoul,Gymnastics Women's Individual All-Around,---
+19.0,164.0,53.0,Spain,1976,Montreal,Gymnastics Women's Individual All-Around,---
+17.0,143.0,41.0,Cuba,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+18.0,153.0,47.0,Cuba,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+18.0,163.0,54.0,Finland,1952,Helsinki,Gymnastics Women's Individual All-Around,---
+15.0,156.0,47.0,Spain,1980,Moskva,Gymnastics Women's Individual All-Around,---
+19.0,165.0,58.0,Australia,2008,Beijing,Gymnastics Women's Individual All-Around,---
+14.0,160.0,47.0,Bulgaria,1988,Seoul,Gymnastics Women's Individual All-Around,---
+18.0,160.0,47.0,Bulgaria,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+18.0,151.0,44.0,Romania,1988,Seoul,Gymnastics Women's Individual All-Around,---
+19.0,155.0,52.0,Soviet Union,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+14.0,151.0,39.0,France,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+18.0,160.0,50.0,Italy,1988,Seoul,Gymnastics Women's Individual All-Around,---
+22.0,160.0,50.0,Italy,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+18.0,160.0,49.0,West Germany,1988,Seoul,Gymnastics Women's Individual All-Around,---
+20.0,164.0,53.0,Soviet Union,1968,Mexico City,Gymnastics Women's Individual All-Around,Silver
+17.0,152.0,48.0,Sweden,2004,Athina,Gymnastics Women's Individual All-Around,---
+18.0,160.0,47.0,Australia,2000,Sydney,Gymnastics Women's Individual All-Around,---
+19.0,155.0,48.0,United States,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+22.0,158.0,56.0,Netherlands,1960,Roma,Gymnastics Women's Individual All-Around,---
+17.0,149.0,46.0,China,1988,Seoul,Gymnastics Women's Individual All-Around,---
+18.0,145.0,37.0,China,2004,Athina,Gymnastics Women's Individual All-Around,---
+15.0,154.0,38.0,China,1988,Seoul,Gymnastics Women's Individual All-Around,---
+20.0,156.0,45.0,China,1988,Seoul,Gymnastics Women's Individual All-Around,---
+16.0,140.0,33.0,China,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+15.0,150.0,40.0,Japan,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+16.0,150.0,38.0,Germany,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+24.0,167.0,54.0,Netherlands,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+15.0,158.0,43.0,West Germany,1972,Munich,Gymnastics Women's Individual All-Around,---
+16.0,160.0,53.0,Great Britain,2008,Beijing,Gymnastics Women's Individual All-Around,---
+20.0,160.0,53.0,Great Britain,2012,London,Gymnastics Women's Individual All-Around,---
+17.0,157.0,52.0,United States,2012,London,Gymnastics Women's Individual All-Around,---
+15.0,161.0,49.0,Italy,1976,Montreal,Gymnastics Women's Individual All-Around,---
+20.0,161.0,62.0,Poland,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+15.0,153.0,41.0,West Germany,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+17.0,163.0,57.0,Poland,1952,Helsinki,Gymnastics Women's Individual All-Around,---
+21.0,163.0,57.0,Poland,1956,Melbourne,Gymnastics Women's Individual All-Around,---
+16.0,163.0,47.0,United States,1976,Montreal,Gymnastics Women's Individual All-Around,---
+16.0,160.0,51.0,Great Britain,1972,Munich,Gymnastics Women's Individual All-Around,---
+17.0,150.0,48.0,Great Britain,2000,Sydney,Gymnastics Women's Individual All-Around,---
+20.0,153.0,48.0,Great Britain,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+20.0,155.0,52.0,Jamaica,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+17.0,150.0,43.0,Cuba,1960,Roma,Gymnastics Women's Individual All-Around,---
+19.0,152.0,50.0,Great Britain,2004,Athina,Gymnastics Women's Individual All-Around,---
+17.0,156.0,56.0,Australia,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+16.0,165.0,52.0,Great Britain,2008,Beijing,Gymnastics Women's Individual All-Around,---
+16.0,161.0,52.0,Poland,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+17.0,153.0,46.0,Canada,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+17.0,161.0,51.0,United States,1976,Montreal,Gymnastics Women's Individual All-Around,---
+25.0,153.0,50.0,Hong Kong,2012,London,Gymnastics Women's Individual All-Around,---
+19.0,150.0,47.0,Canada,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+18.0,162.0,49.0,China,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+16.0,154.0,52.0,Mongolia,1964,Tokyo,Gymnastics Women's Individual All-Around,---
+20.0,154.0,52.0,Mongolia,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+16.0,141.0,28.0,Japan,2000,Sydney,Gymnastics Women's Individual All-Around,---
+25.0,154.0,45.0,Japan,1976,Montreal,Gymnastics Women's Individual All-Around,---
+16.0,158.0,48.0,Bulgaria,1976,Montreal,Gymnastics Women's Individual All-Around,---
+18.0,155.0,43.0,China,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+15.0,150.0,35.0,China,2008,Beijing,Gymnastics Women's Individual All-Around,Bronze
+15.0,158.0,40.0,China,2000,Sydney,Gymnastics Women's Individual All-Around,---
+17.0,145.0,35.0,China,2012,London,Gymnastics Women's Individual All-Around,---
+16.0,140.0,31.0,Ukraine,2000,Sydney,Gymnastics Women's Individual All-Around,---
+18.0,162.0,46.0,Ukraine,2004,Athina,Gymnastics Women's Individual All-Around,---
+18.0,150.0,45.0,Malaysia,2000,Sydney,Gymnastics Women's Individual All-Around,---
+22.0,153.0,44.0,Kazakhstan,2000,Sydney,Gymnastics Women's Individual All-Around,---
+22.0,140.0,39.0,Russia,2004,Athina,Gymnastics Women's Individual All-Around,---
+26.0,140.0,39.0,Russia,2008,Beijing,Gymnastics Women's Individual All-Around,---
+17.0,150.0,48.0,Turkey,2016,Rio de Janeiro,Gymnastics Women's Individual All-Around,---
+18.0,155.0,50.0,Great Britain,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+16.0,161.0,48.0,Chinese Taipei,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+17.0,159.0,55.0,South Korea,1960,Roma,Gymnastics Women's Individual All-Around,---
+14.0,154.0,38.0,Japan,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+17.0,146.0,42.0,Soviet Union,1980,Moskva,Gymnastics Women's Individual All-Around,---
+17.0,154.0,43.0,Russia,2000,Sydney,Gymnastics Women's Individual All-Around,---
+21.0,154.0,43.0,Russia,2004,Athina,Gymnastics Women's Individual All-Around,---
+21.0,162.0,52.0,Lithuania,2008,Beijing,Gymnastics Women's Individual All-Around,---
+18.0,156.0,46.0,Belarus,2000,Sydney,Gymnastics Women's Individual All-Around,---
+15.0,153.0,45.0,Poland,1980,Moskva,Gymnastics Women's Individual All-Around,---
+15.0,147.0,40.0,Ukraine,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+16.0,145.0,41.0,Czechoslovakia,1980,Moskva,Gymnastics Women's Individual All-Around,---
+18.0,148.0,39.0,China,2004,Athina,Gymnastics Women's Individual All-Around,Bronze
+17.0,147.0,40.0,China,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+15.0,147.0,40.0,Belarus,1996,Atlanta,Gymnastics Women's Individual All-Around,---
+20.0,147.0,40.0,Belarus,2000,Sydney,Gymnastics Women's Individual All-Around,---
+18.0,161.0,53.0,Ukraine,2008,Beijing,Gymnastics Women's Individual All-Around,---
+16.0,155.0,41.0,China,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+16.0,152.0,41.0,China,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+16.0,154.0,47.0,Poland,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+18.0,156.0,47.0,Russia,2004,Athina,Gymnastics Women's Individual All-Around,---
+16.0,139.0,36.0,United States,1992,Barcelona,Gymnastics Women's Individual All-Around,---
+16.0,155.0,44.0,Canada,1984,Los Angeles,Gymnastics Women's Individual All-Around,---
+21.0,158.0,48.0,East Germany,1968,Mexico City,Gymnastics Women's Individual All-Around,---
+25.0,158.0,48.0,East Germany,1972,Munich,Gymnastics Women's Individual All-Around,---

@@ -1,0 +1,1409 @@
+Age,Height,Weight,Team,Year,City,Event,Medal
+28.0,175.0,64.0,Finland,1948,London,Gymnastics Men's Individual All-Around,Bronze
+32.0,175.0,64.0,Finland,1952,Helsinki,Gymnastics Men's Individual All-Around,---
+23.0,167.0,64.0,Spain,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+22.0,167.0,63.0,Egypt,2000,Sydney,Gymnastics Men's Individual All-Around,---
+20.0,159.0,64.0,Portugal,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+25.0,173.0,64.0,Bulgaria,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+29.0,173.0,64.0,Bulgaria,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+26.0,168.0,67.0,West Germany,1988,Seoul,Gymnastics Men's Individual All-Around,---
+21.0,154.0,53.0,Japan,1956,Melbourne,Gymnastics Men's Individual All-Around,---
+25.0,154.0,53.0,Japan,1960,Roma,Gymnastics Men's Individual All-Around,---
+21.0,156.0,55.0,Japan,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+21.0,162.0,54.0,Yemen,2008,Beijing,Gymnastics Men's Individual All-Around,---
+20.0,172.0,66.0,Bulgaria,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+19.0,171.0,63.0,Iceland,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+23.0,171.0,63.0,Iceland,2000,Sydney,Gymnastics Men's Individual All-Around,---
+27.0,171.0,63.0,Iceland,2004,Athina,Gymnastics Men's Individual All-Around,---
+21.0,173.0,64.0,United States,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+21.0,165.0,65.0,Italy,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+25.0,165.0,65.0,Italy,1988,Seoul,Gymnastics Men's Individual All-Around,---
+21.0,166.0,63.0,Russia,2000,Sydney,Gymnastics Men's Individual All-Around,---
+24.0,167.0,62.0,Italy,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+24.0,166.0,62.0,Germany,2004,Athina,Gymnastics Men's Individual All-Around,---
+28.0,166.0,62.0,Germany,2008,Beijing,Gymnastics Men's Individual All-Around,---
+19.0,166.0,60.0,Soviet Union,1972,Munich,Gymnastics Men's Individual All-Around,---
+23.0,166.0,60.0,Soviet Union,1976,Montreal,Gymnastics Men's Individual All-Around,Gold
+27.0,166.0,60.0,Soviet Union,1980,Moskva,Gymnastics Men's Individual All-Around,Silver
+23.0,162.0,71.0,Italy,2004,Athina,Gymnastics Men's Individual All-Around,---
+27.0,162.0,71.0,Italy,2008,Beijing,Gymnastics Men's Individual All-Around,---
+24.0,169.0,64.0,Yugoslavia,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+22.0,169.0,63.0,Hungary,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+26.0,169.0,63.0,Hungary,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+23.0,178.0,68.0,Turkey,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+22.0,169.0,69.0,Great Britain,1972,Munich,Gymnastics Men's Individual All-Around,---
+24.0,168.0,63.0,Israel,2012,London,Gymnastics Men's Individual All-Around,---
+18.0,165.0,54.0,Cuba,1980,Moskva,Gymnastics Men's Individual All-Around,---
+23.0,167.0,63.0,Soviet Union,1988,Seoul,Gymnastics Men's Individual All-Around,Gold
+25.0,172.0,71.0,France,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+21.0,170.0,55.0,United States,1972,Munich,Gymnastics Men's Individual All-Around,---
+25.0,170.0,55.0,United States,1976,Montreal,Gymnastics Men's Individual All-Around,---
+22.0,165.0,63.0,France,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+27.0,174.0,72.0,Soviet Union,1956,Melbourne,Gymnastics Men's Individual All-Around,---
+31.0,174.0,72.0,Soviet Union,1960,Roma,Gymnastics Men's Individual All-Around,---
+22.0,175.0,68.0,Soviet Union,1980,Moskva,Gymnastics Men's Individual All-Around,---
+24.0,157.0,53.0,Czechoslovakia,1980,Moskva,Gymnastics Men's Individual All-Around,---
+26.0,171.0,63.0,Switzerland,1976,Montreal,Gymnastics Men's Individual All-Around,---
+24.0,167.0,60.0,Bulgaria,1960,Roma,Gymnastics Men's Individual All-Around,---
+28.0,167.0,60.0,Bulgaria,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+24.0,175.0,76.0,Cuba,1972,Munich,Gymnastics Men's Individual All-Around,---
+24.0,169.0,63.0,Bulgaria,1980,Moskva,Gymnastics Men's Individual All-Around,---
+24.0,180.0,69.0,United States,1960,Roma,Gymnastics Men's Individual All-Around,---
+28.0,180.0,69.0,United States,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+21.0,169.0,60.0,Hungary,1976,Montreal,Gymnastics Men's Individual All-Around,---
+25.0,173.0,65.0,Liechtenstein,1972,Munich,Gymnastics Men's Individual All-Around,---
+21.0,170.0,64.0,United States,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+23.0,167.0,64.0,France,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+25.0,170.0,72.0,Italy,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+24.0,164.0,67.0,Spain,2000,Sydney,Gymnastics Men's Individual All-Around,---
+28.0,164.0,67.0,Spain,2004,Athina,Gymnastics Men's Individual All-Around,---
+26.0,175.0,72.0,Brazil,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+20.0,175.0,71.0,Great Britain,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+24.0,175.0,71.0,Great Britain,1988,Seoul,Gymnastics Men's Individual All-Around,---
+28.0,175.0,71.0,Great Britain,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+34.0,170.0,60.0,Iran,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+21.0,166.0,54.0,United States,1976,Montreal,Gymnastics Men's Individual All-Around,---
+20.0,170.0,64.0,West Germany,1988,Seoul,Gymnastics Men's Individual All-Around,---
+28.0,167.0,64.0,United States,1956,Melbourne,Gymnastics Men's Individual All-Around,---
+22.0,183.0,77.0,United States,1952,Helsinki,Gymnastics Men's Individual All-Around,---
+26.0,183.0,77.0,United States,1956,Melbourne,Gymnastics Men's Individual All-Around,---
+30.0,183.0,77.0,United States,1960,Roma,Gymnastics Men's Individual All-Around,---
+27.0,163.0,65.0,Ireland,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+24.0,161.0,60.0,East Germany,1988,Seoul,Gymnastics Men's Individual All-Around,---
+26.0,167.0,61.0,East Germany,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+26.0,163.0,58.0,Hungary,1960,Roma,Gymnastics Men's Individual All-Around,---
+20.0,163.0,59.0,Romania,1988,Seoul,Gymnastics Men's Individual All-Around,---
+24.0,163.0,59.0,Romania,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+31.0,164.0,64.0,Hungary,1960,Roma,Gymnastics Men's Individual All-Around,---
+22.0,163.0,59.0,Unified Team,1992,Barcelona,Gymnastics Men's Individual All-Around,Bronze
+26.0,163.0,59.0,Germany,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+20.0,165.0,55.0,Russia,2012,London,Gymnastics Men's Individual All-Around,---
+24.0,165.0,55.0,Russia,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+23.0,173.0,63.0,Denmark,1972,Munich,Gymnastics Men's Individual All-Around,---
+27.0,173.0,63.0,Denmark,1976,Montreal,Gymnastics Men's Individual All-Around,---
+27.0,168.0,69.0,Switzerland,1960,Roma,Gymnastics Men's Individual All-Around,---
+21.0,165.0,60.0,France,2004,Athina,Gymnastics Men's Individual All-Around,---
+20.0,157.0,54.0,Great Britain,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+20.0,163.0,56.0,Switzerland,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+24.0,163.0,56.0,Switzerland,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+27.0,172.0,65.0,Hungary,1972,Munich,Gymnastics Men's Individual All-Around,---
+18.0,158.0,55.0,Philippines,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+22.0,171.0,64.0,Ukraine,2000,Sydney,Gymnastics Men's Individual All-Around,Bronze
+21.0,170.0,67.0,Spain,1976,Montreal,Gymnastics Men's Individual All-Around,---
+25.0,170.0,67.0,Spain,1980,Moskva,Gymnastics Men's Individual All-Around,---
+19.0,165.0,62.0,Great Britain,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+23.0,164.0,61.0,Portugal,2004,Athina,Gymnastics Men's Individual All-Around,---
+27.0,169.0,54.0,United States,2008,Beijing,Gymnastics Men's Individual All-Around,---
+26.0,168.0,61.0,Germany,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+21.0,169.0,70.0,Soviet Union,1988,Seoul,Gymnastics Men's Individual All-Around,Bronze
+25.0,171.0,65.0,Czechoslovakia,1956,Melbourne,Gymnastics Men's Individual All-Around,---
+29.0,171.0,65.0,Czechoslovakia,1960,Roma,Gymnastics Men's Individual All-Around,---
+20.0,162.0,59.0,Australia,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+23.0,163.0,64.0,Poland,2000,Sydney,Gymnastics Men's Individual All-Around,---
+31.0,163.0,64.0,Poland,2008,Beijing,Gymnastics Men's Individual All-Around,---
+22.0,177.0,68.0,Canada,1988,Seoul,Gymnastics Men's Individual All-Around,---
+27.0,164.0,59.0,Czechoslovakia,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+20.0,170.0,69.0,France,1972,Munich,Gymnastics Men's Individual All-Around,---
+24.0,170.0,69.0,France,1976,Montreal,Gymnastics Men's Individual All-Around,---
+28.0,170.0,69.0,France,1980,Moskva,Gymnastics Men's Individual All-Around,---
+22.0,170.0,68.0,Ukraine,2004,Athina,Gymnastics Men's Individual All-Around,---
+19.0,177.0,73.0,Australia,1956,Melbourne,Gymnastics Men's Individual All-Around,---
+23.0,177.0,73.0,Australia,1960,Roma,Gymnastics Men's Individual All-Around,---
+27.0,177.0,73.0,Australia,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+22.0,160.0,58.0,Russia,2000,Sydney,Gymnastics Men's Individual All-Around,---
+25.0,160.0,58.0,Russia,2004,Athina,Gymnastics Men's Individual All-Around,---
+22.0,175.0,69.0,Great Britain,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+25.0,174.0,65.0,Hungary,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+23.0,175.0,68.0,Hungary,1988,Seoul,Gymnastics Men's Individual All-Around,---
+25.0,171.0,67.0,Romania,1976,Montreal,Gymnastics Men's Individual All-Around,---
+24.0,161.0,64.0,Spain,2008,Beijing,Gymnastics Men's Individual All-Around,---
+22.0,172.0,68.0,Tunisia,2004,Athina,Gymnastics Men's Individual All-Around,---
+24.0,170.0,67.0,France,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+28.0,170.0,67.0,France,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+22.0,166.0,61.0,France,2008,Beijing,Gymnastics Men's Individual All-Around,---
+25.0,166.0,55.0,France,1980,Moskva,Gymnastics Men's Individual All-Around,---
+19.0,164.0,50.0,Algeria,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+20.0,169.0,59.0,France,1976,Montreal,Gymnastics Men's Individual All-Around,---
+24.0,169.0,59.0,France,1980,Moskva,Gymnastics Men's Individual All-Around,---
+28.0,169.0,59.0,France,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+24.0,168.0,58.0,France,1976,Montreal,Gymnastics Men's Individual All-Around,---
+24.0,170.0,65.0,Great Britain,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+21.0,172.0,67.0,Germany,2008,Beijing,Gymnastics Men's Individual All-Around,---
+25.0,172.0,67.0,Germany,2012,London,Gymnastics Men's Individual All-Around,---
+23.0,169.0,64.0,Switzerland,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+25.0,163.0,62.0,Cuba,1980,Moskva,Gymnastics Men's Individual All-Around,---
+25.0,169.0,63.0,East Germany,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+29.0,169.0,63.0,East Germany,1972,Munich,Gymnastics Men's Individual All-Around,---
+19.0,174.0,71.0,Switzerland,1972,Munich,Gymnastics Men's Individual All-Around,---
+22.0,174.0,71.0,Switzerland,1976,Montreal,Gymnastics Men's Individual All-Around,---
+26.0,167.0,60.0,Germany,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+20.0,170.0,67.0,Great Britain,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+20.0,172.0,68.0,Yugoslavia,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+24.0,172.0,68.0,Yugoslavia,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+28.0,172.0,68.0,Yugoslavia,1972,Munich,Gymnastics Men's Individual All-Around,---
+22.0,171.0,65.0,East Germany,1980,Moskva,Gymnastics Men's Individual All-Around,---
+27.0,168.0,56.0,Canada,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+29.0,173.0,75.0,United States,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+20.0,172.0,65.0,East Germany,1976,Montreal,Gymnastics Men's Individual All-Around,---
+24.0,172.0,65.0,East Germany,1980,Moskva,Gymnastics Men's Individual All-Around,---
+24.0,163.0,59.0,Switzerland,1972,Munich,Gymnastics Men's Individual All-Around,---
+26.0,164.0,64.0,Switzerland,1960,Roma,Gymnastics Men's Individual All-Around,---
+23.0,170.0,69.0,West Germany,1988,Seoul,Gymnastics Men's Individual All-Around,---
+20.0,165.0,65.0,Italy,1988,Seoul,Gymnastics Men's Individual All-Around,---
+24.0,165.0,65.0,Italy,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+27.0,165.0,65.0,Italy,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+21.0,163.0,56.0,East Germany,1988,Seoul,Gymnastics Men's Individual All-Around,---
+24.0,163.0,56.0,Germany,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+23.0,170.0,65.0,Romania,2008,Beijing,Gymnastics Men's Individual All-Around,---
+24.0,164.0,57.0,Romania,1980,Moskva,Gymnastics Men's Individual All-Around,---
+24.0,163.0,64.0,Great Britain,1948,London,Gymnastics Men's Individual All-Around,---
+28.0,163.0,64.0,Great Britain,1952,Helsinki,Gymnastics Men's Individual All-Around,---
+36.0,163.0,64.0,Great Britain,1960,Roma,Gymnastics Men's Individual All-Around,---
+20.0,178.0,72.0,Czechoslovakia,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+22.0,165.0,66.0,Canada,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+21.0,172.0,70.0,Italy,2000,Sydney,Gymnastics Men's Individual All-Around,---
+25.0,172.0,70.0,Italy,2004,Athina,Gymnastics Men's Individual All-Around,---
+29.0,172.0,70.0,Italy,2008,Beijing,Gymnastics Men's Individual All-Around,---
+23.0,168.0,68.0,Romania,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+22.0,179.0,72.0,France,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+19.0,173.0,75.0,Yugoslavia,1952,Helsinki,Gymnastics Men's Individual All-Around,---
+28.0,173.0,75.0,Yugoslavia,1960,Roma,Gymnastics Men's Individual All-Around,---
+32.0,173.0,75.0,Yugoslavia,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+20.0,168.0,62.0,Spain,1976,Montreal,Gymnastics Men's Individual All-Around,---
+24.0,168.0,62.0,Spain,1980,Moskva,Gymnastics Men's Individual All-Around,---
+22.0,160.0,54.0,Colombia,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+31.0,173.0,73.0,Great Britain,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+31.0,163.0,60.0,Portugal,2012,London,Gymnastics Men's Individual All-Around,---
+26.0,162.0,55.0,Portugal,1960,Roma,Gymnastics Men's Individual All-Around,---
+22.0,171.0,69.0,Spain,2000,Sydney,Gymnastics Men's Individual All-Around,---
+26.0,171.0,69.0,Spain,2004,Athina,Gymnastics Men's Individual All-Around,---
+21.0,169.0,66.0,Switzerland,2008,Beijing,Gymnastics Men's Individual All-Around,---
+25.0,169.0,66.0,Switzerland,2012,London,Gymnastics Men's Individual All-Around,---
+24.0,164.0,60.0,France,2004,Athina,Gymnastics Men's Individual All-Around,---
+28.0,164.0,60.0,France,2008,Beijing,Gymnastics Men's Individual All-Around,Bronze
+19.0,173.0,70.0,Spain,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+27.0,173.0,70.0,Spain,2004,Athina,Gymnastics Men's Individual All-Around,---
+25.0,170.0,65.0,Spain,2008,Beijing,Gymnastics Men's Individual All-Around,---
+20.0,169.0,68.0,Italy,1960,Roma,Gymnastics Men's Individual All-Around,---
+24.0,169.0,68.0,Italy,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+28.0,169.0,68.0,Italy,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+22.0,163.0,65.0,Italy,1960,Roma,Gymnastics Men's Individual All-Around,---
+27.0,163.0,65.0,Italy,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+31.0,163.0,65.0,Italy,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+24.0,172.0,64.0,France,1988,Seoul,Gymnastics Men's Individual All-Around,---
+23.0,155.0,51.0,Canada,1976,Montreal,Gymnastics Men's Individual All-Around,---
+23.0,175.0,66.0,France,2000,Sydney,Gymnastics Men's Individual All-Around,---
+20.0,169.0,63.0,France,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+24.0,169.0,63.0,France,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+23.0,180.0,73.0,Italy,2000,Sydney,Gymnastics Men's Individual All-Around,---
+26.0,180.0,73.0,Italy,2004,Athina,Gymnastics Men's Individual All-Around,---
+30.0,180.0,73.0,Italy,2008,Beijing,Gymnastics Men's Individual All-Around,---
+18.0,169.0,65.0,Cuba,1980,Moskva,Gymnastics Men's Individual All-Around,---
+19.0,172.0,58.0,France,1988,Seoul,Gymnastics Men's Individual All-Around,---
+23.0,166.0,61.0,Switzerland,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+27.0,166.0,61.0,Switzerland,1988,Seoul,Gymnastics Men's Individual All-Around,---
+22.0,164.0,62.0,Argentina,1952,Helsinki,Gymnastics Men's Individual All-Around,---
+30.0,164.0,62.0,Argentina,1960,Roma,Gymnastics Men's Individual All-Around,---
+24.0,160.0,60.0,France,1960,Roma,Gymnastics Men's Individual All-Around,---
+19.0,174.0,65.0,Romania,1976,Montreal,Gymnastics Men's Individual All-Around,---
+23.0,174.0,65.0,Romania,1980,Moskva,Gymnastics Men's Individual All-Around,---
+20.0,172.0,73.0,Yugoslavia,1960,Roma,Gymnastics Men's Individual All-Around,---
+24.0,172.0,73.0,Yugoslavia,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+28.0,172.0,73.0,Yugoslavia,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+22.0,164.0,61.0,South Korea,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+21.0,165.0,62.0,Chinese Taipei,1988,Seoul,Gymnastics Men's Individual All-Around,---
+20.0,160.0,70.0,Canada,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+24.0,160.0,70.0,Canada,1988,Seoul,Gymnastics Men's Individual All-Around,---
+21.0,177.0,68.0,Australia,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+18.0,165.0,60.0,Italy,1988,Seoul,Gymnastics Men's Individual All-Around,---
+26.0,165.0,60.0,Italy,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+34.0,165.0,60.0,Italy,2004,Athina,Gymnastics Men's Individual All-Around,---
+21.0,169.0,66.0,Romania,1976,Montreal,Gymnastics Men's Individual All-Around,---
+21.0,175.0,65.0,Australia,1976,Montreal,Gymnastics Men's Individual All-Around,---
+23.0,160.0,58.0,China,2008,Beijing,Gymnastics Men's Individual All-Around,---
+22.0,165.0,60.0,Chinese Taipei,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+24.0,168.0,69.0,Australia,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+21.0,165.0,60.0,France,1988,Seoul,Gymnastics Men's Individual All-Around,---
+25.0,157.0,53.0,Japan,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+22.0,163.0,57.0,North Korea,1980,Moskva,Gymnastics Men's Individual All-Around,---
+21.0,162.0,56.0,Poland,1976,Montreal,Gymnastics Men's Individual All-Around,---
+24.0,170.0,66.0,Italy,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+28.0,170.0,66.0,Italy,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+28.0,172.0,72.0,Australia,1972,Munich,Gymnastics Men's Individual All-Around,---
+22.0,173.0,68.0,Spain,2000,Sydney,Gymnastics Men's Individual All-Around,---
+22.0,170.0,70.0,United States,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+23.0,179.0,73.0,Italy,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+20.0,170.0,66.0,Puerto Rico,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+24.0,167.0,67.0,Spain,2004,Athina,Gymnastics Men's Individual All-Around,---
+23.0,174.0,66.0,Romania,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+18.0,165.0,58.0,United States,1976,Montreal,Gymnastics Men's Individual All-Around,---
+26.0,165.0,58.0,United States,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+21.0,167.0,65.0,Italy,1972,Munich,Gymnastics Men's Individual All-Around,---
+24.0,178.0,80.0,Luxembourg,1952,Helsinki,Gymnastics Men's Individual All-Around,---
+32.0,178.0,80.0,Luxembourg,1960,Roma,Gymnastics Men's Individual All-Around,---
+28.0,164.0,65.0,Italy,2008,Beijing,Gymnastics Men's Individual All-Around,---
+23.0,166.0,65.0,Spain,2000,Sydney,Gymnastics Men's Individual All-Around,---
+22.0,170.0,62.0,Great Britain,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+27.0,180.0,70.0,Sweden,1960,Roma,Gymnastics Men's Individual All-Around,---
+21.0,172.0,61.0,United States,1972,Munich,Gymnastics Men's Individual All-Around,---
+24.0,183.0,81.0,Monaco,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+24.0,172.0,68.0,Hungary,1960,Roma,Gymnastics Men's Individual All-Around,---
+28.0,172.0,68.0,Hungary,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+21.0,168.0,67.0,Hungary,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+22.0,168.0,64.0,Hungary,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+26.0,168.0,64.0,Hungary,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+30.0,168.0,64.0,Hungary,2000,Sydney,Gymnastics Men's Individual All-Around,---
+20.0,171.0,70.0,France,2000,Sydney,Gymnastics Men's Individual All-Around,---
+24.0,171.0,70.0,France,2004,Athina,Gymnastics Men's Individual All-Around,---
+28.0,171.0,70.0,France,2008,Beijing,Gymnastics Men's Individual All-Around,---
+22.0,170.0,74.0,Cuba,1972,Munich,Gymnastics Men's Individual All-Around,---
+30.0,170.0,64.0,United States,1972,Munich,Gymnastics Men's Individual All-Around,---
+22.0,165.0,66.0,United States,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+23.0,160.0,67.0,Czechoslovakia,1952,Helsinki,Gymnastics Men's Individual All-Around,---
+27.0,160.0,67.0,Czechoslovakia,1956,Melbourne,Gymnastics Men's Individual All-Around,---
+31.0,160.0,67.0,Czechoslovakia,1960,Roma,Gymnastics Men's Individual All-Around,---
+20.0,176.0,68.0,France,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+24.0,176.0,68.0,France,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+22.0,162.0,66.0,Great Britain,1976,Montreal,Gymnastics Men's Individual All-Around,---
+22.0,170.0,63.0,United States,1988,Seoul,Gymnastics Men's Individual All-Around,---
+19.0,162.0,55.0,Armenia,2012,London,Gymnastics Men's Individual All-Around,---
+18.0,160.0,66.0,Barbados,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+19.0,170.0,63.0,Spain,1976,Montreal,Gymnastics Men's Individual All-Around,---
+23.0,170.0,63.0,Spain,1980,Moskva,Gymnastics Men's Individual All-Around,---
+20.0,158.0,63.0,Australia,1960,Roma,Gymnastics Men's Individual All-Around,---
+24.0,158.0,63.0,Australia,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+19.0,164.0,60.0,France,1976,Montreal,Gymnastics Men's Individual All-Around,---
+21.0,170.0,64.0,France,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+19.0,166.0,69.0,Spain,2000,Sydney,Gymnastics Men's Individual All-Around,---
+23.0,166.0,69.0,Spain,2004,Athina,Gymnastics Men's Individual All-Around,---
+27.0,166.0,69.0,Spain,2008,Beijing,Gymnastics Men's Individual All-Around,---
+17.0,162.0,56.0,Bulgaria,1976,Montreal,Gymnastics Men's Individual All-Around,---
+21.0,162.0,56.0,Bulgaria,1980,Moskva,Gymnastics Men's Individual All-Around,Bronze
+18.0,170.0,60.0,Canada,1976,Montreal,Gymnastics Men's Individual All-Around,---
+22.0,162.0,59.0,Croatia,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+24.0,163.0,58.0,China,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+25.0,164.0,70.0,Belgium,1960,Roma,Gymnastics Men's Individual All-Around,---
+25.0,170.0,65.0,Netherlands,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+24.0,163.0,63.0,France,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+28.0,163.0,63.0,France,1972,Munich,Gymnastics Men's Individual All-Around,---
+20.0,167.0,61.0,Russia,2004,Athina,Gymnastics Men's Individual All-Around,---
+24.0,167.0,61.0,Russia,2008,Beijing,Gymnastics Men's Individual All-Around,---
+26.0,163.0,50.0,East Germany,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+21.0,180.0,75.0,West Germany,1976,Montreal,Gymnastics Men's Individual All-Around,---
+21.0,172.0,68.0,United States,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+26.0,171.0,66.0,Bulgaria,1972,Munich,Gymnastics Men's Individual All-Around,---
+21.0,172.0,72.0,Soviet Union,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+25.0,172.0,72.0,Soviet Union,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+30.0,170.0,62.0,Canada,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+18.0,178.0,70.0,Soviet Union,1976,Montreal,Gymnastics Men's Individual All-Around,---
+22.0,178.0,70.0,Soviet Union,1980,Moskva,Gymnastics Men's Individual All-Around,Gold
+19.0,165.0,62.0,Kazakhstan,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+22.0,165.0,58.0,Hungary,1976,Montreal,Gymnastics Men's Individual All-Around,---
+26.0,165.0,58.0,Hungary,1980,Moskva,Gymnastics Men's Individual All-Around,---
+19.0,173.0,67.0,Italy,1972,Munich,Gymnastics Men's Individual All-Around,---
+20.0,170.0,70.0,Australia,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+24.0,170.0,70.0,Australia,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+19.0,163.0,64.0,Romania,2000,Sydney,Gymnastics Men's Individual All-Around,---
+23.0,163.0,64.0,Romania,2004,Athina,Gymnastics Men's Individual All-Around,---
+27.0,163.0,64.0,Romania,2008,Beijing,Gymnastics Men's Individual All-Around,---
+18.0,170.0,59.0,Russia,2000,Sydney,Gymnastics Men's Individual All-Around,---
+28.0,170.0,74.0,Cuba,2004,Athina,Gymnastics Men's Individual All-Around,---
+19.0,170.0,65.0,Bulgaria,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+23.0,170.0,65.0,Bulgaria,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+22.0,165.0,57.0,Italy,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+22.0,159.0,51.0,Australia,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+24.0,178.0,68.0,West Germany,1972,Munich,Gymnastics Men's Individual All-Around,---
+23.0,173.0,66.0,Switzerland,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+32.0,171.0,70.0,Luxembourg,1960,Roma,Gymnastics Men's Individual All-Around,---
+22.0,178.0,71.0,Finland,1960,Roma,Gymnastics Men's Individual All-Around,---
+26.0,178.0,71.0,Finland,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+21.0,165.0,68.0,Egypt,2012,London,Gymnastics Men's Individual All-Around,---
+22.0,176.0,69.0,Hungary,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+23.0,161.0,58.0,Japan,1960,Roma,Gymnastics Men's Individual All-Around,---
+27.0,161.0,58.0,Japan,1964,Tokyo,Gymnastics Men's Individual All-Around,Gold
+31.0,161.0,58.0,Japan,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+21.0,172.0,67.0,Switzerland,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+25.0,172.0,67.0,Switzerland,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+21.0,171.0,68.0,Luxembourg,1952,Helsinki,Gymnastics Men's Individual All-Around,---
+29.0,171.0,68.0,Luxembourg,1960,Roma,Gymnastics Men's Individual All-Around,---
+23.0,162.0,56.0,Switzerland,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+27.0,162.0,56.0,Switzerland,1972,Munich,Gymnastics Men's Individual All-Around,---
+26.0,170.0,62.0,Switzerland,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+18.0,165.0,55.0,Germany,2004,Athina,Gymnastics Men's Individual All-Around,---
+21.0,167.0,64.0,Hungary,1988,Seoul,Gymnastics Men's Individual All-Around,---
+24.0,167.0,64.0,Hungary,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+22.0,170.0,64.0,China,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+21.0,158.0,50.0,China,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+18.0,167.0,60.0,Hungary,1976,Montreal,Gymnastics Men's Individual All-Around,---
+30.0,164.0,59.0,Switzerland,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+27.0,174.0,64.0,Australia,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+21.0,166.0,62.0,France,1960,Roma,Gymnastics Men's Individual All-Around,---
+26.0,166.0,62.0,France,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+21.0,173.0,68.0,Kazakhstan,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+25.0,173.0,68.0,Kazakhstan,2000,Sydney,Gymnastics Men's Individual All-Around,---
+22.0,168.0,61.0,Czechoslovakia,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+25.0,168.0,61.0,Czechoslovakia,1972,Munich,Gymnastics Men's Individual All-Around,---
+18.0,157.0,72.0,Cuba,1976,Montreal,Gymnastics Men's Individual All-Around,---
+29.0,170.0,64.0,Switzerland,1960,Roma,Gymnastics Men's Individual All-Around,---
+33.0,170.0,64.0,Switzerland,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+23.0,173.0,63.0,Czech Republic,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+20.0,162.0,65.0,Switzerland,1952,Helsinki,Gymnastics Men's Individual All-Around,---
+29.0,162.0,65.0,Switzerland,1960,Roma,Gymnastics Men's Individual All-Around,---
+25.0,169.0,57.0,Uzbekistan,2008,Beijing,Gymnastics Men's Individual All-Around,---
+33.0,169.0,57.0,Uzbekistan,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+20.0,167.0,68.0,Spain,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+23.0,166.0,70.0,Italy,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+27.0,166.0,70.0,Italy,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+24.0,170.0,62.0,Germany,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+23.0,168.0,69.0,United States,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+26.0,161.0,52.0,Germany,1960,Roma,Gymnastics Men's Individual All-Around,---
+23.0,167.0,64.0,Venezuela,2008,Beijing,Gymnastics Men's Individual All-Around,---
+26.0,166.0,61.0,Japan,1976,Montreal,Gymnastics Men's Individual All-Around,---
+25.0,167.0,61.0,Japan,2000,Sydney,Gymnastics Men's Individual All-Around,---
+20.0,168.0,62.0,Germany,1960,Roma,Gymnastics Men's Individual All-Around,---
+25.0,168.0,62.0,Germany,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+29.0,168.0,62.0,East Germany,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+23.0,172.0,70.0,Germany,1960,Roma,Gymnastics Men's Individual All-Around,---
+27.0,172.0,70.0,Germany,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+20.0,153.0,61.0,Germany,1900,Paris,Gymnastics Men's Individual All-Around,---
+22.0,169.0,64.0,Bulgaria,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+34.0,165.0,67.0,Poland,1952,Helsinki,Gymnastics Men's Individual All-Around,---
+23.0,161.0,55.0,Canada,2008,Beijing,Gymnastics Men's Individual All-Around,---
+24.0,172.0,61.0,Yugoslavia,1960,Roma,Gymnastics Men's Individual All-Around,---
+20.0,168.0,60.0,Switzerland,1972,Munich,Gymnastics Men's Individual All-Around,---
+24.0,168.0,60.0,Switzerland,1976,Montreal,Gymnastics Men's Individual All-Around,---
+23.0,168.0,65.0,Czechoslovakia,1960,Roma,Gymnastics Men's Individual All-Around,---
+28.0,168.0,65.0,Czechoslovakia,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+25.0,166.0,64.0,Hungary,2004,Athina,Gymnastics Men's Individual All-Around,---
+29.0,166.0,64.0,Hungary,2008,Beijing,Gymnastics Men's Individual All-Around,---
+24.0,178.0,72.0,Romania,1976,Montreal,Gymnastics Men's Individual All-Around,---
+23.0,170.0,70.0,Italy,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+21.0,159.0,52.0,South Korea,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+22.0,163.0,62.0,Cuba,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+25.0,165.0,64.0,Mexico,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+21.0,170.0,63.0,Russia,2012,London,Gymnastics Men's Individual All-Around,---
+24.0,165.0,72.0,United States,2004,Athina,Gymnastics Men's Individual All-Around,---
+24.0,160.0,61.0,Canada,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+31.0,169.0,57.0,Poland,1952,Helsinki,Gymnastics Men's Individual All-Around,---
+23.0,174.0,68.0,United States,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+25.0,168.0,62.0,West Germany,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+21.0,174.0,64.0,Romania,1980,Moskva,Gymnastics Men's Individual All-Around,---
+23.0,175.0,67.0,Bulgaria,1988,Seoul,Gymnastics Men's Individual All-Around,---
+18.0,167.0,63.0,Cyprus,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+19.0,166.0,58.0,Bulgaria,1988,Seoul,Gymnastics Men's Individual All-Around,---
+24.0,175.0,64.0,Romania,1972,Munich,Gymnastics Men's Individual All-Around,---
+21.0,170.0,64.0,Romania,1988,Seoul,Gymnastics Men's Individual All-Around,---
+25.0,170.0,64.0,Romania,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+21.0,176.0,68.0,West Germany,1972,Munich,Gymnastics Men's Individual All-Around,---
+24.0,176.0,68.0,West Germany,1976,Montreal,Gymnastics Men's Individual All-Around,---
+26.0,166.0,68.0,Spain,1972,Munich,Gymnastics Men's Individual All-Around,---
+18.0,168.0,70.0,Georgia,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+22.0,168.0,70.0,Georgia,2000,Sydney,Gymnastics Men's Individual All-Around,---
+26.0,168.0,70.0,Georgia,2004,Athina,Gymnastics Men's Individual All-Around,---
+30.0,168.0,70.0,Georgia,2008,Beijing,Gymnastics Men's Individual All-Around,---
+24.0,163.0,60.0,Colombia,2004,Athina,Gymnastics Men's Individual All-Around,---
+28.0,163.0,60.0,Colombia,2008,Beijing,Gymnastics Men's Individual All-Around,---
+32.0,163.0,60.0,Colombia,2012,London,Gymnastics Men's Individual All-Around,---
+22.0,165.0,61.0,Switzerland,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+25.0,165.0,63.0,Norway,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+20.0,174.0,62.0,Brazil,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+25.0,164.0,60.0,France,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+23.0,168.0,61.0,Bulgaria,1988,Seoul,Gymnastics Men's Individual All-Around,---
+24.0,165.0,66.0,Israel,2004,Athina,Gymnastics Men's Individual All-Around,---
+22.0,169.0,64.0,Soviet Union,1988,Seoul,Gymnastics Men's Individual All-Around,---
+23.0,164.0,54.0,Canada,2004,Athina,Gymnastics Men's Individual All-Around,---
+27.0,164.0,54.0,Canada,2008,Beijing,Gymnastics Men's Individual All-Around,---
+19.0,165.0,63.0,Russia,2004,Athina,Gymnastics Men's Individual All-Around,---
+23.0,165.0,63.0,Russia,2008,Beijing,Gymnastics Men's Individual All-Around,---
+25.0,162.0,60.0,Spain,2012,London,Gymnastics Men's Individual All-Around,---
+29.0,172.0,68.0,Poland,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+18.0,166.0,59.0,Cuba,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+20.0,175.0,65.0,Spain,2012,London,Gymnastics Men's Individual All-Around,---
+22.0,164.0,57.0,Mexico,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+28.0,171.0,63.0,Kazakhstan,2012,London,Gymnastics Men's Individual All-Around,---
+28.0,170.0,53.0,Great Britain,1960,Roma,Gymnastics Men's Individual All-Around,---
+22.0,172.0,70.0,Russia,2004,Athina,Gymnastics Men's Individual All-Around,---
+21.0,170.0,66.0,Romania,1972,Munich,Gymnastics Men's Individual All-Around,---
+25.0,170.0,66.0,Romania,1976,Montreal,Gymnastics Men's Individual All-Around,---
+29.0,170.0,66.0,Romania,1980,Moskva,Gymnastics Men's Individual All-Around,---
+24.0,170.0,66.0,United States,1972,Munich,Gymnastics Men's Individual All-Around,---
+21.0,166.0,69.0,Switzerland,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+25.0,166.0,69.0,Switzerland,1972,Munich,Gymnastics Men's Individual All-Around,---
+23.0,178.0,75.0,Switzerland,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+26.0,172.0,69.0,West Germany,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+22.0,175.0,72.0,United States,1956,Melbourne,Gymnastics Men's Individual All-Around,---
+26.0,175.0,72.0,United States,1960,Roma,Gymnastics Men's Individual All-Around,---
+18.0,171.0,66.0,Hungary,1980,Moskva,Gymnastics Men's Individual All-Around,---
+26.0,171.0,66.0,Hungary,1988,Seoul,Gymnastics Men's Individual All-Around,---
+24.0,165.0,60.0,France,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+23.0,168.0,62.0,France,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+27.0,168.0,62.0,France,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+31.0,168.0,62.0,France,1972,Munich,Gymnastics Men's Individual All-Around,---
+23.0,172.0,65.0,China,1988,Seoul,Gymnastics Men's Individual All-Around,---
+20.0,169.0,60.0,China,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+24.0,160.0,52.0,China,2012,London,Gymnastics Men's Individual All-Around,---
+27.0,162.0,58.0,Japan,1984,Los Angeles,Gymnastics Men's Individual All-Around,Gold
+26.0,163.0,61.0,United States,2008,Beijing,Gymnastics Men's Individual All-Around,---
+16.0,164.0,62.0,Germany,2004,Athina,Gymnastics Men's Individual All-Around,---
+20.0,164.0,62.0,Germany,2008,Beijing,Gymnastics Men's Individual All-Around,---
+24.0,164.0,62.0,Germany,2012,London,Gymnastics Men's Individual All-Around,---
+17.0,165.0,65.0,United States,2000,Sydney,Gymnastics Men's Individual All-Around,---
+21.0,165.0,65.0,United States,2004,Athina,Gymnastics Men's Individual All-Around,---
+17.0,165.0,62.0,United States,2000,Sydney,Gymnastics Men's Individual All-Around,---
+21.0,165.0,62.0,United States,2004,Athina,Gymnastics Men's Individual All-Around,Gold
+23.0,160.0,59.0,United States,1904,St. Louis,Gymnastics Men's Individual All-Around,---
+23.0,165.0,60.0,South Korea,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+22.0,162.0,55.0,North Korea,1980,Moskva,Gymnastics Men's Individual All-Around,---
+24.0,173.0,67.0,East Germany,1976,Montreal,Gymnastics Men's Individual All-Around,---
+24.0,172.0,68.0,Japan,2000,Sydney,Gymnastics Men's Individual All-Around,---
+24.0,165.0,64.0,United States,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+20.0,170.0,72.0,Japan,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+24.0,170.0,72.0,Japan,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+27.0,174.0,64.0,West Germany,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+31.0,174.0,64.0,West Germany,1972,Munich,Gymnastics Men's Individual All-Around,---
+25.0,170.0,66.0,Poland,1960,Roma,Gymnastics Men's Individual All-Around,---
+24.0,160.0,58.0,Japan,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+27.0,167.0,65.0,Great Britain,2000,Sydney,Gymnastics Men's Individual All-Around,---
+23.0,169.0,63.0,Switzerland,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+22.0,177.0,67.5,Finland,1960,Roma,Gymnastics Men's Individual All-Around,---
+26.0,177.0,67.5,Finland,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+27.0,173.0,65.5,Finland,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+21.0,174.0,63.5,Finland,1956,Melbourne,Gymnastics Men's Individual All-Around,---
+25.0,174.0,63.5,Finland,1960,Roma,Gymnastics Men's Individual All-Around,---
+29.0,174.0,63.5,Finland,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+21.0,174.0,71.0,East Germany,1980,Moskva,Gymnastics Men's Individual All-Around,---
+18.0,162.0,58.0,Philippines,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+21.0,169.0,59.0,Hungary,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+25.0,169.0,59.0,Hungary,1972,Munich,Gymnastics Men's Individual All-Around,---
+19.0,173.0,61.0,Cuba,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+39.0,169.0,72.0,Austria,1960,Roma,Gymnastics Men's Individual All-Around,---
+21.0,170.0,65.0,West Germany,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+26.0,165.0,71.0,United States,1904,St. Louis,Gymnastics Men's Individual All-Around,---
+22.0,165.0,70.0,Canada,1988,Seoul,Gymnastics Men's Individual All-Around,---
+25.0,165.0,70.0,Canada,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+26.0,170.0,61.0,Japan,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+26.0,176.0,67.0,Yugoslavia,1972,Munich,Gymnastics Men's Individual All-Around,---
+21.0,168.0,62.0,North Korea,1972,Munich,Gymnastics Men's Individual All-Around,---
+21.0,167.0,67.0,East Germany,1980,Moskva,Gymnastics Men's Individual All-Around,---
+27.0,166.0,59.0,East Germany,1988,Seoul,Gymnastics Men's Individual All-Around,---
+22.0,168.0,57.0,Ukraine,2000,Sydney,Gymnastics Men's Individual All-Around,---
+26.0,168.0,57.0,Ukraine,2004,Athina,Gymnastics Men's Individual All-Around,---
+30.0,168.0,57.0,Ukraine,2008,Beijing,Gymnastics Men's Individual All-Around,---
+23.0,168.0,58.0,West Germany,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+22.0,155.0,59.0,United States,2008,Beijing,Gymnastics Men's Individual All-Around,---
+20.0,173.0,60.0,Hungary,1988,Seoul,Gymnastics Men's Individual All-Around,---
+24.0,163.0,57.0,China,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+23.0,170.0,63.0,China,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+21.0,162.0,59.0,China,2000,Sydney,Gymnastics Men's Individual All-Around,---
+25.0,162.0,59.0,China,2004,Athina,Gymnastics Men's Individual All-Around,---
+29.0,162.0,59.0,China,2008,Beijing,Gymnastics Men's Individual All-Around,---
+21.0,173.0,68.0,Luxembourg,1952,Helsinki,Gymnastics Men's Individual All-Around,---
+30.0,173.0,68.0,Luxembourg,1960,Roma,Gymnastics Men's Individual All-Around,---
+22.0,160.0,62.0,Australia,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+16.0,164.0,64.0,United States,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+20.0,164.0,64.0,United States,1972,Munich,Gymnastics Men's Individual All-Around,---
+23.0,174.0,67.0,Switzerland,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+22.0,170.0,68.0,Brazil,2008,Beijing,Gymnastics Men's Individual All-Around,---
+25.0,162.0,56.0,Japan,1976,Montreal,Gymnastics Men's Individual All-Around,---
+22.0,167.0,65.0,Belarus,2008,Beijing,Gymnastics Men's Individual All-Around,---
+22.0,170.0,60.0,Canada,2004,Athina,Gymnastics Men's Individual All-Around,---
+21.0,167.0,59.0,Canada,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+17.0,166.0,61.0,Japan,1988,Seoul,Gymnastics Men's Individual All-Around,---
+21.0,166.0,61.0,Japan,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+26.0,168.0,64.0,Bulgaria,1972,Munich,Gymnastics Men's Individual All-Around,---
+21.0,168.0,63.0,Soviet Union,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+25.0,172.0,70.0,Canada,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+18.0,167.0,71.0,Australia,2000,Sydney,Gymnastics Men's Individual All-Around,---
+25.0,165.0,58.0,Belarus,2000,Sydney,Gymnastics Men's Individual All-Around,---
+29.0,165.0,58.0,Belarus,2004,Athina,Gymnastics Men's Individual All-Around,---
+25.0,170.0,64.0,Bulgaria,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+21.0,158.0,56.0,Bulgaria,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+23.0,170.0,63.0,Bulgaria,2000,Sydney,Gymnastics Men's Individual All-Around,---
+22.0,167.0,63.0,Yugoslavia,1972,Munich,Gymnastics Men's Individual All-Around,---
+27.0,157.0,55.0,Japan,2000,Sydney,Gymnastics Men's Individual All-Around,---
+24.0,160.0,59.0,East Germany,1976,Montreal,Gymnastics Men's Individual All-Around,---
+28.0,169.0,68.0,France,1960,Roma,Gymnastics Men's Individual All-Around,---
+20.0,163.0,58.0,South Korea,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+31.0,164.0,67.0,Poland,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+20.0,163.0,66.0,Czechoslovakia,1976,Montreal,Gymnastics Men's Individual All-Around,---
+23.0,173.0,65.0,West Germany,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+28.0,169.0,67.0,West Germany,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+22.0,178.0,78.0,Canada,2000,Sydney,Gymnastics Men's Individual All-Around,---
+26.0,178.0,78.0,Canada,2004,Athina,Gymnastics Men's Individual All-Around,---
+19.0,160.0,55.0,South Korea,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+23.0,160.0,55.0,South Korea,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+28.0,160.0,55.0,South Korea,2000,Sydney,Gymnastics Men's Individual All-Around,---
+22.0,162.0,58.0,South Korea,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+19.0,175.0,68.0,Czech Republic,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+32.0,162.0,61.0,North Korea,1972,Munich,Gymnastics Men's Individual All-Around,---
+20.0,161.0,58.0,South Korea,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+24.0,161.0,58.0,South Korea,2000,Sydney,Gymnastics Men's Individual All-Around,---
+28.0,161.0,58.0,South Korea,2004,Athina,Gymnastics Men's Individual All-Around,---
+24.0,176.0,67.0,Sweden,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+23.0,160.0,57.0,United States,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+27.0,160.0,57.0,United States,1988,Seoul,Gymnastics Men's Individual All-Around,---
+20.0,168.0,61.0,Poland,1952,Helsinki,Gymnastics Men's Individual All-Around,---
+29.0,168.0,61.0,Poland,1960,Roma,Gymnastics Men's Individual All-Around,---
+17.0,170.0,64.0,Sweden,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+21.0,170.0,64.0,Sweden,1988,Seoul,Gymnastics Men's Individual All-Around,---
+25.0,170.0,64.0,Sweden,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+25.0,173.0,67.0,Sweden,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+20.0,170.0,65.0,Hungary,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+20.0,165.0,61.0,West Germany,1976,Montreal,Gymnastics Men's Individual All-Around,---
+18.0,165.0,63.0,South Korea,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+22.0,165.0,63.0,South Korea,1988,Seoul,Gymnastics Men's Individual All-Around,---
+22.0,168.0,65.0,Germany,2004,Athina,Gymnastics Men's Individual All-Around,---
+26.0,168.0,65.0,Germany,2008,Beijing,Gymnastics Men's Individual All-Around,---
+29.0,156.0,53.0,Japan,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+23.0,159.0,52.0,Japan,1976,Montreal,Gymnastics Men's Individual All-Around,---
+24.0,166.0,62.0,North Korea,1980,Moskva,Gymnastics Men's Individual All-Around,---
+21.0,167.0,67.0,Bulgaria,1956,Melbourne,Gymnastics Men's Individual All-Around,---
+25.0,167.0,67.0,Bulgaria,1960,Roma,Gymnastics Men's Individual All-Around,---
+29.0,167.0,67.0,Bulgaria,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+22.0,168.0,65.0,Soviet Union,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+27.0,174.0,70.0,France,2000,Sydney,Gymnastics Men's Individual All-Around,---
+31.0,174.0,70.0,France,2004,Athina,Gymnastics Men's Individual All-Around,---
+35.0,174.0,70.0,France,2008,Beijing,Gymnastics Men's Individual All-Around,---
+24.0,172.0,62.0,Japan,2000,Sydney,Gymnastics Men's Individual All-Around,---
+25.0,173.0,59.0,Japan,1972,Munich,Gymnastics Men's Individual All-Around,---
+24.0,168.0,62.0,Japan,2004,Athina,Gymnastics Men's Individual All-Around,---
+28.0,168.0,62.0,Japan,2008,Beijing,Gymnastics Men's Individual All-Around,---
+30.0,157.0,60.0,Belarus,2008,Beijing,Gymnastics Men's Individual All-Around,---
+22.0,162.0,54.0,Japan,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+22.0,163.0,59.0,Japan,1968,Mexico City,Gymnastics Men's Individual All-Around,Gold
+25.0,163.0,59.0,Japan,1972,Munich,Gymnastics Men's Individual All-Around,Gold
+29.0,163.0,59.0,Japan,1976,Montreal,Gymnastics Men's Individual All-Around,Silver
+26.0,164.0,56.0,Japan,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+18.0,171.0,68.0,Great Britain,2008,Beijing,Gymnastics Men's Individual All-Around,---
+21.0,168.0,65.0,Hungary,1980,Moskva,Gymnastics Men's Individual All-Around,---
+20.0,161.0,57.0,Japan,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+24.0,161.0,57.0,Japan,1972,Munich,Gymnastics Men's Individual All-Around,Silver
+28.0,161.0,57.0,Japan,1976,Montreal,Gymnastics Men's Individual All-Around,---
+20.0,165.0,62.0,Bulgaria,1976,Montreal,Gymnastics Men's Individual All-Around,---
+22.0,172.0,70.0,Soviet Union,1960,Roma,Gymnastics Men's Individual All-Around,---
+21.0,171.0,65.0,West Germany,1988,Seoul,Gymnastics Men's Individual All-Around,---
+22.0,166.0,65.0,Yugoslavia,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+26.0,166.0,65.0,Yugoslavia,1972,Munich,Gymnastics Men's Individual All-Around,---
+24.0,172.0,60.0,Finland,1960,Roma,Gymnastics Men's Individual All-Around,---
+28.0,172.0,60.0,Finland,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+22.0,162.0,57.0,United States,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+25.0,163.0,60.0,Hungary,1960,Roma,Gymnastics Men's Individual All-Around,---
+17.0,167.0,63.0,Soviet Union,1988,Seoul,Gymnastics Men's Individual All-Around,---
+25.0,167.0,63.0,Russia,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+22.0,165.0,64.0,Russia,2008,Beijing,Gymnastics Men's Individual All-Around,---
+22.0,167.0,63.0,Bulgaria,1960,Roma,Gymnastics Men's Individual All-Around,---
+25.0,172.0,63.0,Bulgaria,1960,Roma,Gymnastics Men's Individual All-Around,---
+29.0,172.0,63.0,Bulgaria,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+23.0,171.0,63.0,Bulgaria,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+19.0,170.0,63.0,Bulgaria,1988,Seoul,Gymnastics Men's Individual All-Around,---
+23.0,170.0,63.0,Bulgaria,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+27.0,170.0,63.0,Bulgaria,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+26.0,171.0,71.0,Luxembourg,1960,Roma,Gymnastics Men's Individual All-Around,---
+29.0,172.0,70.0,Canada,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+24.0,162.0,56.0,Canada,2004,Athina,Gymnastics Men's Individual All-Around,---
+28.0,162.0,56.0,Canada,2008,Beijing,Gymnastics Men's Individual All-Around,---
+20.0,170.0,66.0,South Korea,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+24.0,170.0,66.0,South Korea,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+19.0,163.0,58.0,South Korea,2004,Athina,Gymnastics Men's Individual All-Around,Silver
+23.0,163.0,58.0,South Korea,2008,Beijing,Gymnastics Men's Individual All-Around,---
+20.0,165.0,58.0,South Korea,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+24.0,165.0,58.0,South Korea,2000,Sydney,Gymnastics Men's Individual All-Around,---
+28.0,165.0,58.0,South Korea,2004,Athina,Gymnastics Men's Individual All-Around,---
+22.0,163.0,58.0,South Korea,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+23.0,158.0,55.0,North Korea,1980,Moskva,Gymnastics Men's Individual All-Around,---
+27.0,162.0,59.0,North Korea,2004,Athina,Gymnastics Men's Individual All-Around,---
+23.0,173.0,65.0,South Korea,2008,Beijing,Gymnastics Men's Individual All-Around,---
+25.0,169.0,64.0,South Korea,1960,Roma,Gymnastics Men's Individual All-Around,---
+19.0,171.0,65.0,South Korea,2004,Athina,Gymnastics Men's Individual All-Around,---
+23.0,171.0,65.0,South Korea,2008,Beijing,Gymnastics Men's Individual All-Around,---
+26.0,156.0,53.0,North Korea,1972,Munich,Gymnastics Men's Individual All-Around,---
+23.0,162.0,61.0,North Korea,1972,Munich,Gymnastics Men's Individual All-Around,---
+21.0,165.0,57.0,South Korea,2008,Beijing,Gymnastics Men's Individual All-Around,---
+25.0,165.0,57.0,South Korea,2012,London,Gymnastics Men's Individual All-Around,---
+20.0,170.0,62.0,Finland,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+23.0,168.0,63.0,Hungary,1972,Munich,Gymnastics Men's Individual All-Around,---
+27.0,166.0,60.0,Hungary,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+27.0,167.0,63.0,Hungary,1972,Munich,Gymnastics Men's Individual All-Around,---
+28.0,174.0,73.0,Czechoslovakia,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+19.0,169.0,61.0,Soviet Union,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+23.0,169.0,61.0,Soviet Union,1972,Munich,Gymnastics Men's Individual All-Around,---
+20.0,169.0,65.0,East Germany,1972,Munich,Gymnastics Men's Individual All-Around,---
+24.0,169.0,65.0,East Germany,1976,Montreal,Gymnastics Men's Individual All-Around,---
+20.0,162.0,57.0,Romania,2008,Beijing,Gymnastics Men's Individual All-Around,---
+24.0,162.0,57.0,Romania,2012,London,Gymnastics Men's Individual All-Around,---
+22.0,162.0,56.0,Bulgaria,1988,Seoul,Gymnastics Men's Individual All-Around,---
+26.0,162.0,56.0,Bulgaria,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+21.0,171.0,62.0,Yugoslavia,1988,Seoul,Gymnastics Men's Individual All-Around,---
+25.0,171.0,62.0,Slovenia,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+25.0,171.0,70.0,France,1976,Montreal,Gymnastics Men's Individual All-Around,---
+24.0,167.0,59.0,Bulgaria,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+28.0,167.0,59.0,Bulgaria,1972,Munich,Gymnastics Men's Individual All-Around,---
+25.0,169.0,66.0,Bulgaria,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+26.0,175.0,64.0,Czechoslovakia,1980,Moskva,Gymnastics Men's Individual All-Around,---
+24.0,170.0,64.0,Czech Republic,2008,Beijing,Gymnastics Men's Individual All-Around,---
+27.0,170.0,64.0,Czech Republic,2012,London,Gymnastics Men's Individual All-Around,---
+25.0,167.0,59.0,Japan,1988,Seoul,Gymnastics Men's Individual All-Around,---
+25.0,173.0,67.0,Poland,1960,Roma,Gymnastics Men's Individual All-Around,---
+30.0,173.0,67.0,Poland,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+23.0,168.0,56.0,Sweden,1960,Roma,Gymnastics Men's Individual All-Around,---
+27.0,168.0,56.0,Sweden,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+22.0,166.0,63.0,Germany,1960,Roma,Gymnastics Men's Individual All-Around,---
+26.0,166.0,63.0,Germany,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+21.0,170.0,58.0,United States,1976,Montreal,Gymnastics Men's Individual All-Around,---
+22.0,168.0,64.0,Unified Team,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+26.0,168.0,64.0,Ukraine,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+21.0,164.0,61.0,Germany,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+25.0,164.0,61.0,East Germany,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+29.0,164.0,61.0,East Germany,1972,Munich,Gymnastics Men's Individual All-Around,---
+25.0,160.0,59.0,New Zealand,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+20.0,168.0,64.0,Hungary,1980,Moskva,Gymnastics Men's Individual All-Around,---
+19.0,170.0,58.0,Bulgaria,1972,Munich,Gymnastics Men's Individual All-Around,---
+23.0,170.0,58.0,Bulgaria,1976,Montreal,Gymnastics Men's Individual All-Around,---
+21.0,163.0,60.0,Belarus,2008,Beijing,Gymnastics Men's Individual All-Around,---
+20.0,158.0,65.0,France,1928,Amsterdam,Gymnastics Men's Individual All-Around,---
+24.0,167.0,70.0,Czechoslovakia,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+25.0,174.0,74.0,Luxembourg,1948,London,Gymnastics Men's Individual All-Around,---
+23.0,174.0,68.0,East Germany,1988,Seoul,Gymnastics Men's Individual All-Around,---
+27.0,174.0,68.0,Germany,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+25.0,168.0,77.0,United States,1904,St. Louis,Gymnastics Men's Individual All-Around,---
+24.0,176.0,70.0,Poland,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+28.0,176.0,70.0,Poland,1972,Munich,Gymnastics Men's Individual All-Around,---
+19.0,157.0,48.0,Belarus,2000,Sydney,Gymnastics Men's Individual All-Around,---
+18.0,169.0,58.0,Soviet Union,1976,Montreal,Gymnastics Men's Individual All-Around,---
+17.0,164.0,59.0,Russia,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+21.0,164.0,59.0,Russia,2000,Sydney,Gymnastics Men's Individual All-Around,---
+29.0,164.0,59.0,Russia,2008,Beijing,Gymnastics Men's Individual All-Around,---
+18.0,170.0,64.0,Poland,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+22.0,170.0,64.0,Poland,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+26.0,170.0,64.0,Poland,1972,Munich,Gymnastics Men's Individual All-Around,---
+18.0,169.0,60.0,Poland,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+22.0,169.0,60.0,Poland,1972,Munich,Gymnastics Men's Individual All-Around,---
+20.0,168.0,60.0,Poland,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+24.0,168.0,60.0,Poland,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+28.0,168.0,60.0,Poland,1972,Munich,Gymnastics Men's Individual All-Around,---
+25.0,169.0,66.0,Czechoslovakia,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+29.0,169.0,66.0,Czechoslovakia,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+21.0,175.0,62.0,Czechoslovakia,1980,Moskva,Gymnastics Men's Individual All-Around,---
+22.0,170.0,68.0,Poland,1960,Roma,Gymnastics Men's Individual All-Around,---
+26.0,170.0,68.0,Poland,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+29.0,160.0,59.0,Poland,1952,Helsinki,Gymnastics Men's Individual All-Around,---
+23.0,172.0,65.0,Ukraine,2012,London,Gymnastics Men's Individual All-Around,---
+27.0,172.0,65.0,Russia,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+29.0,170.0,67.0,Poland,2012,London,Gymnastics Men's Individual All-Around,---
+26.0,162.0,60.0,Japan,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+20.0,171.0,65.0,Ukraine,2004,Athina,Gymnastics Men's Individual All-Around,---
+27.0,171.0,65.0,Germany,2004,Athina,Gymnastics Men's Individual All-Around,---
+22.0,167.0,58.0,Chinese Taipei,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+26.0,167.0,58.0,Chinese Taipei,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+21.0,175.0,69.5,Finland,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+25.0,175.0,69.5,Finland,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+24.0,172.0,70.0,United States,1988,Seoul,Gymnastics Men's Individual All-Around,---
+26.0,163.0,59.0,Cuba,2000,Sydney,Gymnastics Men's Individual All-Around,---
+23.0,173.0,63.0,Italy,1972,Munich,Gymnastics Men's Individual All-Around,---
+19.0,173.0,70.0,Great Britain,1980,Moskva,Gymnastics Men's Individual All-Around,---
+23.0,173.0,70.0,Great Britain,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+29.0,166.0,65.0,Finland,1952,Helsinki,Gymnastics Men's Individual All-Around,---
+34.0,166.0,65.0,Finland,1956,Melbourne,Gymnastics Men's Individual All-Around,---
+20.0,160.0,63.0,Cuba,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+22.0,168.0,67.0,Canada,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+26.0,168.0,67.0,Canada,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+20.0,165.0,58.0,Hungary,1976,Montreal,Gymnastics Men's Individual All-Around,---
+27.0,170.0,61.0,Algeria,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+22.0,175.0,65.0,France,1960,Roma,Gymnastics Men's Individual All-Around,---
+26.0,175.0,65.0,Algeria,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+22.0,171.0,67.0,Italy,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+23.0,164.0,54.0,Chinese Taipei,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+23.0,159.0,54.0,South Korea,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+26.0,161.0,56.0,South Korea,2000,Sydney,Gymnastics Men's Individual All-Around,---
+20.0,168.0,60.0,South Korea,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+19.0,163.0,61.0,South Korea,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+23.0,163.0,61.0,South Korea,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+27.0,163.0,61.0,South Korea,2000,Sydney,Gymnastics Men's Individual All-Around,---
+23.0,165.0,63.0,South Korea,2004,Athina,Gymnastics Men's Individual All-Around,---
+24.0,155.0,56.0,Switzerland,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+24.0,172.0,70.0,Austria,2012,London,Gymnastics Men's Individual All-Around,---
+20.0,178.0,67.5,Finland,1956,Melbourne,Gymnastics Men's Individual All-Around,---
+24.0,178.0,67.5,Finland,1960,Roma,Gymnastics Men's Individual All-Around,---
+24.0,170.0,64.0,Yugoslavia,1960,Roma,Gymnastics Men's Individual All-Around,---
+28.0,172.0,68.0,Hungary,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+26.0,180.0,74.0,France,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+31.0,167.0,67.0,Finland,1952,Helsinki,Gymnastics Men's Individual All-Around,---
+18.0,183.0,78.0,Cuba,1972,Munich,Gymnastics Men's Individual All-Around,---
+22.0,183.0,78.0,Cuba,1976,Montreal,Gymnastics Men's Individual All-Around,---
+26.0,183.0,78.0,Cuba,1980,Moskva,Gymnastics Men's Individual All-Around,---
+24.0,168.0,63.0,Soviet Union,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+22.0,169.0,66.0,Romania,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+20.0,173.0,72.0,Cuba,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+30.0,159.0,61.0,Poland,1952,Helsinki,Gymnastics Men's Individual All-Around,---
+19.0,168.0,52.0,Israel,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+20.0,170.0,68.0,United States,2012,London,Gymnastics Men's Individual All-Around,Bronze
+20.0,163.0,56.0,China,1988,Seoul,Gymnastics Men's Individual All-Around,---
+24.0,163.0,56.0,China,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+18.0,158.0,54.0,China,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+29.0,162.0,56.0,Switzerland,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+23.0,168.0,59.0,China,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+22.0,167.0,58.0,China,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+20.0,164.0,58.0,China,1984,Los Angeles,Gymnastics Men's Individual All-Around,Bronze
+25.0,164.0,58.0,China,1988,Seoul,Gymnastics Men's Individual All-Around,---
+19.0,158.0,56.0,North Korea,1972,Munich,Gymnastics Men's Individual All-Around,---
+16.0,156.0,56.0,North Korea,1980,Moskva,Gymnastics Men's Individual All-Around,---
+19.0,162.0,56.0,China,2000,Sydney,Gymnastics Men's Individual All-Around,---
+23.0,162.0,56.0,China,2004,Athina,Gymnastics Men's Individual All-Around,---
+27.0,162.0,56.0,China,2008,Beijing,Gymnastics Men's Individual All-Around,---
+21.0,172.0,65.0,China,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+18.0,157.0,52.0,China,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+22.0,157.0,52.0,China,1996,Atlanta,Gymnastics Men's Individual All-Around,Gold
+26.0,154.0,60.0,China,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+26.0,176.0,70.0,Norway,1972,Munich,Gymnastics Men's Individual All-Around,---
+30.0,172.0,66.0,Belarus,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+20.0,163.0,60.0,China,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+21.0,164.0,60.0,Chinese Taipei,2000,Sydney,Gymnastics Men's Individual All-Around,---
+24.0,167.0,56.0,Sweden,1960,Roma,Gymnastics Men's Individual All-Around,---
+28.0,167.0,56.0,Sweden,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+30.0,185.0,85.0,Sweden,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+24.0,169.0,64.0,Soviet Union,1964,Tokyo,Gymnastics Men's Individual All-Around,Silver
+28.0,169.0,64.0,Soviet Union,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+22.0,156.0,54.0,Chinese Taipei,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+20.0,165.0,65.0,Puerto Rico,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+24.0,165.0,65.0,Puerto Rico,2000,Sydney,Gymnastics Men's Individual All-Around,---
+22.0,170.0,68.0,Australia,1972,Munich,Gymnastics Men's Individual All-Around,---
+26.0,170.0,68.0,Australia,1976,Montreal,Gymnastics Men's Individual All-Around,---
+27.0,175.0,72.0,Switzerland,1976,Montreal,Gymnastics Men's Individual All-Around,---
+21.0,170.0,71.0,Luxembourg,1928,Amsterdam,Gymnastics Men's Individual All-Around,---
+29.0,170.0,71.0,Luxembourg,1936,Berlin,Gymnastics Men's Individual All-Around,---
+28.0,167.0,67.0,Canada,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+22.0,181.0,74.0,France,1988,Seoul,Gymnastics Men's Individual All-Around,---
+27.0,162.0,62.0,Cuba,2000,Sydney,Gymnastics Men's Individual All-Around,---
+31.0,162.0,62.0,Cuba,2004,Athina,Gymnastics Men's Individual All-Around,---
+20.0,158.0,53.0,China,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+24.0,158.0,53.0,China,1988,Seoul,Gymnastics Men's Individual All-Around,---
+18.0,165.0,55.0,Bulgaria,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+23.0,174.0,65.0,Italy,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+20.0,166.0,61.0,Ecuador,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+19.0,168.0,67.0,Bulgaria,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+23.0,168.0,67.0,Bulgaria,2000,Sydney,Gymnastics Men's Individual All-Around,---
+27.0,175.0,76.0,Israel,1976,Montreal,Gymnastics Men's Individual All-Around,---
+24.0,172.0,68.0,Italy,1972,Munich,Gymnastics Men's Individual All-Around,---
+26.0,160.0,65.0,Germany,1960,Roma,Gymnastics Men's Individual All-Around,---
+30.0,160.0,65.0,Germany,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+20.0,162.0,59.0,United States,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+24.0,162.0,59.0,United States,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+21.0,162.0,58.0,Soviet Union,1988,Seoul,Gymnastics Men's Individual All-Around,Silver
+23.0,168.0,65.0,East Germany,1976,Montreal,Gymnastics Men's Individual All-Around,---
+27.0,168.0,65.0,East Germany,1980,Moskva,Gymnastics Men's Individual All-Around,---
+24.0,173.0,64.0,Australia,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+18.0,165.0,60.0,Hungary,1972,Munich,Gymnastics Men's Individual All-Around,---
+22.0,165.0,60.0,Hungary,1976,Montreal,Gymnastics Men's Individual All-Around,---
+26.0,165.0,60.0,Hungary,1980,Moskva,Gymnastics Men's Individual All-Around,---
+20.0,171.0,63.0,Soviet Union,1980,Moskva,Gymnastics Men's Individual All-Around,---
+25.0,168.0,62.0,Soviet Union,1972,Munich,Gymnastics Men's Individual All-Around,---
+23.0,169.0,70.0,Finland,1956,Melbourne,Gymnastics Men's Individual All-Around,---
+21.0,160.0,52.0,Greece,2004,Athina,Gymnastics Men's Individual All-Around,---
+25.0,160.0,52.0,Greece,2008,Beijing,Gymnastics Men's Individual All-Around,---
+23.0,169.0,63.0,Soviet Union,1976,Montreal,Gymnastics Men's Individual All-Around,---
+19.0,167.0,60.0,France,2000,Sydney,Gymnastics Men's Individual All-Around,---
+23.0,167.0,60.0,France,2004,Athina,Gymnastics Men's Individual All-Around,---
+22.0,169.0,65.0,Brazil,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+18.0,167.0,58.0,Soviet Union,1976,Montreal,Gymnastics Men's Individual All-Around,---
+22.0,167.0,58.0,Soviet Union,1980,Moskva,Gymnastics Men's Individual All-Around,---
+23.0,168.0,65.0,Yugoslavia,1960,Roma,Gymnastics Men's Individual All-Around,---
+31.0,168.0,66.0,Belgium,1960,Roma,Gymnastics Men's Individual All-Around,---
+20.0,164.0,62.0,Spain,2004,Athina,Gymnastics Men's Individual All-Around,---
+24.0,164.0,62.0,Spain,2008,Beijing,Gymnastics Men's Individual All-Around,---
+21.0,163.0,65.0,France,1948,London,Gymnastics Men's Individual All-Around,---
+25.0,163.0,65.0,France,1952,Helsinki,Gymnastics Men's Individual All-Around,---
+30.0,163.0,65.0,France,1956,Melbourne,Gymnastics Men's Individual All-Around,---
+34.0,163.0,65.0,France,1960,Roma,Gymnastics Men's Individual All-Around,---
+22.0,158.0,53.0,Japan,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+21.0,178.0,68.0,France,1988,Seoul,Gymnastics Men's Individual All-Around,---
+24.0,175.0,77.0,Great Britain,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+26.0,172.0,71.0,United States,2000,Sydney,Gymnastics Men's Individual All-Around,---
+23.0,167.0,67.0,United States,2004,Athina,Gymnastics Men's Individual All-Around,---
+22.0,168.0,65.0,Great Britain,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+26.0,164.0,59.0,Switzerland,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+19.0,172.0,59.0,Greece,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+23.0,172.0,59.0,Greece,2000,Sydney,Gymnastics Men's Individual All-Around,---
+24.0,171.0,68.0,Mexico,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+28.0,171.0,68.0,Mexico,1972,Munich,Gymnastics Men's Individual All-Around,---
+19.0,163.0,60.0,Italy,1960,Roma,Gymnastics Men's Individual All-Around,---
+23.0,163.0,60.0,Italy,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+27.0,163.0,60.0,Italy,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+26.0,171.0,67.0,Hungary,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+25.0,155.0,55.0,Australia,1988,Seoul,Gymnastics Men's Individual All-Around,---
+22.0,180.0,67.0,Hungary,1960,Roma,Gymnastics Men's Individual All-Around,---
+19.0,168.0,60.0,Ukraine,2000,Sydney,Gymnastics Men's Individual All-Around,---
+23.0,168.0,60.0,Ukraine,2004,Athina,Gymnastics Men's Individual All-Around,---
+25.0,157.0,55.0,Romania,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+22.0,164.0,60.0,Czechoslovakia,1980,Moskva,Gymnastics Men's Individual All-Around,---
+22.0,165.0,59.0,Soviet Union,1972,Munich,Gymnastics Men's Individual All-Around,---
+23.0,165.0,64.0,United States,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+19.0,173.0,70.0,Italy,1972,Munich,Gymnastics Men's Individual All-Around,---
+23.0,173.0,70.0,Italy,1976,Montreal,Gymnastics Men's Individual All-Around,---
+23.0,176.0,75.0,Soviet Union,1960,Roma,Gymnastics Men's Individual All-Around,---
+19.0,167.0,66.0,United States,1988,Seoul,Gymnastics Men's Individual All-Around,---
+23.0,167.0,66.0,United States,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+21.0,166.0,62.0,Unified Team,1992,Barcelona,Gymnastics Men's Individual All-Around,Silver
+25.0,166.0,62.0,Ukraine,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+22.0,170.0,64.0,United States,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+21.0,178.0,69.0,Canada,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+25.0,178.0,69.0,Canada,1972,Munich,Gymnastics Men's Individual All-Around,---
+21.0,161.0,62.0,Japan,1960,Roma,Gymnastics Men's Individual All-Around,---
+25.0,161.0,62.0,Japan,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+23.0,162.0,58.0,Japan,1988,Seoul,Gymnastics Men's Individual All-Around,---
+24.0,172.0,62.0,Japan,2004,Athina,Gymnastics Men's Individual All-Around,---
+22.0,171.0,66.0,Czechoslovakia,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+23.0,163.0,56.0,Hungary,1972,Munich,Gymnastics Men's Individual All-Around,---
+27.0,163.0,56.0,Hungary,1976,Montreal,Gymnastics Men's Individual All-Around,---
+26.0,170.0,67.0,Brazil,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+23.0,168.0,85.0,Italy,1976,Montreal,Gymnastics Men's Individual All-Around,---
+24.0,164.0,63.0,Spain,1988,Seoul,Gymnastics Men's Individual All-Around,---
+20.0,165.0,59.0,Canada,1960,Roma,Gymnastics Men's Individual All-Around,---
+22.0,165.0,71.0,Italy,2004,Athina,Gymnastics Men's Individual All-Around,---
+26.0,165.0,71.0,Italy,2008,Beijing,Gymnastics Men's Individual All-Around,---
+30.0,165.0,71.0,Italy,2012,London,Gymnastics Men's Individual All-Around,---
+26.0,170.0,63.0,Czechoslovakia,1972,Munich,Gymnastics Men's Individual All-Around,---
+21.0,170.0,64.0,Italy,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+27.0,170.0,66.0,Japan,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+22.0,168.0,65.0,Great Britain,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+26.0,168.0,65.0,Great Britain,1988,Seoul,Gymnastics Men's Individual All-Around,---
+23.0,165.0,59.0,West Germany,1972,Munich,Gymnastics Men's Individual All-Around,---
+25.0,172.0,66.0,France,2004,Athina,Gymnastics Men's Individual All-Around,---
+20.0,180.0,59.0,France,1976,Montreal,Gymnastics Men's Individual All-Around,---
+24.0,180.0,59.0,France,1980,Moskva,Gymnastics Men's Individual All-Around,---
+18.0,164.0,60.0,Israel,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+22.0,170.0,64.0,Czechoslovakia,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+26.0,170.0,64.0,Czechoslovakia,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+30.0,170.0,64.0,Czechoslovakia,1972,Munich,Gymnastics Men's Individual All-Around,---
+22.0,165.0,62.0,Great Britain,1960,Roma,Gymnastics Men's Individual All-Around,---
+26.0,165.0,62.0,Great Britain,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+25.0,175.0,66.0,Switzerland,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+22.0,166.0,54.0,Switzerland,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+24.0,174.0,67.0,Switzerland,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+18.0,171.0,69.0,Spain,2008,Beijing,Gymnastics Men's Individual All-Around,---
+22.0,171.0,69.0,Spain,2012,London,Gymnastics Men's Individual All-Around,---
+23.0,170.0,63.0,Romania,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+23.0,167.0,58.0,Ukraine,2004,Athina,Gymnastics Men's Individual All-Around,---
+30.0,167.0,65.0,Germany,1960,Roma,Gymnastics Men's Individual All-Around,---
+19.0,166.0,67.0,Russia,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+20.0,171.0,61.0,Ecuador,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+21.0,163.0,58.0,Japan,2004,Athina,Gymnastics Men's Individual All-Around,---
+25.0,165.0,64.0,Japan,2008,Beijing,Gymnastics Men's Individual All-Around,---
+25.0,163.0,59.0,Japan,1968,Mexico City,Gymnastics Men's Individual All-Around,Bronze
+29.0,163.0,59.0,Japan,1972,Munich,Gymnastics Men's Individual All-Around,Bronze
+20.0,168.0,64.0,South Korea,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+20.0,150.0,54.0,Cuba,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+21.0,180.0,70.0,Great Britain,1976,Montreal,Gymnastics Men's Individual All-Around,---
+21.0,160.0,60.0,Romania,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+25.0,166.0,66.0,Czechoslovakia,1972,Munich,Gymnastics Men's Individual All-Around,---
+29.0,166.0,66.0,Czechoslovakia,1976,Montreal,Gymnastics Men's Individual All-Around,---
+20.0,174.0,75.0,Russia,1996,Atlanta,Gymnastics Men's Individual All-Around,Silver
+24.0,174.0,75.0,Russia,2000,Sydney,Gymnastics Men's Individual All-Around,Gold
+28.0,174.0,75.0,Russia,2004,Athina,Gymnastics Men's Individual All-Around,---
+22.0,172.0,63.0,Czechoslovakia,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+26.0,172.0,63.0,Czechoslovakia,1972,Munich,Gymnastics Men's Individual All-Around,---
+30.0,172.0,63.0,Czechoslovakia,1976,Montreal,Gymnastics Men's Individual All-Around,---
+19.0,165.0,65.0,Malaysia,2004,Athina,Gymnastics Men's Individual All-Around,---
+20.0,165.0,55.0,Germany,2008,Beijing,Gymnastics Men's Individual All-Around,---
+24.0,165.0,55.0,Germany,2012,London,Gymnastics Men's Individual All-Around,Silver
+28.0,165.0,55.0,Germany,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+21.0,168.0,57.0,France,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+25.0,171.0,67.0,Denmark,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+24.0,163.0,60.0,Germany,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+28.0,163.0,60.0,Germany,2000,Sydney,Gymnastics Men's Individual All-Around,---
+19.0,175.0,65.0,East Germany,1976,Montreal,Gymnastics Men's Individual All-Around,---
+23.0,175.0,65.0,East Germany,1980,Moskva,Gymnastics Men's Individual All-Around,---
+18.0,163.0,58.0,Japan,1988,Seoul,Gymnastics Men's Individual All-Around,---
+22.0,163.0,58.0,Japan,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+21.0,170.0,63.5,Finland,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+25.0,170.0,63.5,Finland,1972,Munich,Gymnastics Men's Individual All-Around,---
+20.0,160.0,60.0,Canada,1988,Seoul,Gymnastics Men's Individual All-Around,---
+24.0,160.0,60.0,Canada,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+28.0,160.0,60.0,Canada,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+21.0,171.0,64.0,Germany,2000,Sydney,Gymnastics Men's Individual All-Around,---
+25.0,160.0,57.0,Great Britain,1972,Munich,Gymnastics Men's Individual All-Around,---
+18.0,161.0,58.0,Soviet Union,1988,Seoul,Gymnastics Men's Individual All-Around,---
+25.0,167.0,65.0,Canada,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+20.0,168.0,58.0,Finland,1928,Amsterdam,Gymnastics Men's Individual All-Around,---
+24.0,168.0,58.0,Finland,1932,Los Angeles,Gymnastics Men's Individual All-Around,---
+28.0,168.0,58.0,Finland,1936,Berlin,Gymnastics Men's Individual All-Around,---
+22.0,172.0,63.0,Australia,1980,Moskva,Gymnastics Men's Individual All-Around,---
+25.0,173.0,66.0,Germany,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+24.0,156.0,54.0,Japan,1972,Munich,Gymnastics Men's Individual All-Around,---
+22.0,161.0,57.0,Japan,2008,Beijing,Gymnastics Men's Individual All-Around,---
+29.0,168.0,67.0,Finland,1960,Roma,Gymnastics Men's Individual All-Around,---
+23.0,160.0,56.0,Canada,2008,Beijing,Gymnastics Men's Individual All-Around,---
+20.0,160.0,58.0,Japan,1952,Helsinki,Gymnastics Men's Individual All-Around,---
+25.0,160.0,58.0,Japan,1956,Melbourne,Gymnastics Men's Individual All-Around,Silver
+29.0,160.0,58.0,Japan,1960,Roma,Gymnastics Men's Individual All-Around,Silver
+33.0,160.0,58.0,Japan,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+19.0,171.0,67.0,Romania,1972,Munich,Gymnastics Men's Individual All-Around,---
+23.0,171.0,67.0,Romania,1976,Montreal,Gymnastics Men's Individual All-Around,---
+27.0,171.0,67.0,Romania,1980,Moskva,Gymnastics Men's Individual All-Around,---
+25.0,173.0,61.0,United States,1960,Roma,Gymnastics Men's Individual All-Around,---
+22.0,170.0,66.0,Romania,1952,Helsinki,Gymnastics Men's Individual All-Around,---
+34.0,170.0,66.0,Romania,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+23.0,173.0,61.0,United States,1960,Roma,Gymnastics Men's Individual All-Around,---
+19.0,165.0,73.0,United States,2012,London,Gymnastics Men's Individual All-Around,---
+23.0,170.0,65.0,Romania,2000,Sydney,Gymnastics Men's Individual All-Around,---
+27.0,165.0,61.0,Cuba,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+20.0,163.0,56.0,North Korea,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+24.0,163.0,56.0,North Korea,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+28.0,163.0,56.0,North Korea,2000,Sydney,Gymnastics Men's Individual All-Around,---
+23.0,169.0,68.0,East Germany,1972,Munich,Gymnastics Men's Individual All-Around,---
+23.0,176.0,70.0,Luxembourg,2008,Beijing,Gymnastics Men's Individual All-Around,---
+27.0,168.0,64.0,Great Britain,1960,Roma,Gymnastics Men's Individual All-Around,---
+31.0,168.0,64.0,Great Britain,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+21.0,184.0,74.0,Hungary,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+28.0,177.0,69.0,Hungary,1988,Seoul,Gymnastics Men's Individual All-Around,---
+23.0,166.0,61.0,South Korea,1988,Seoul,Gymnastics Men's Individual All-Around,---
+21.0,164.0,58.0,South Korea,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+23.0,152.0,49.0,Philippines,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+22.0,177.0,72.0,South Africa,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+24.0,173.0,65.0,Romania,1972,Munich,Gymnastics Men's Individual All-Around,---
+19.0,166.0,60.0,Belarus,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+23.0,166.0,60.0,Belarus,2000,Sydney,Gymnastics Men's Individual All-Around,---
+24.0,173.0,64.0,Azerbaijan,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+24.0,160.0,60.0,Philippines,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+23.0,168.0,64.0,Czechoslovakia,1960,Roma,Gymnastics Men's Individual All-Around,---
+27.0,168.0,64.0,Czechoslovakia,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+23.0,168.0,64.0,France,1988,Seoul,Gymnastics Men's Individual All-Around,---
+21.0,175.0,71.0,Germany,1900,Paris,Gymnastics Men's Individual All-Around,---
+25.0,175.0,71.0,Germany,1904,St. Louis,Gymnastics Men's Individual All-Around,---
+22.0,167.0,62.0,Ukraine,2000,Sydney,Gymnastics Men's Individual All-Around,---
+23.0,170.0,67.0,Romania,2000,Sydney,Gymnastics Men's Individual All-Around,---
+21.0,177.0,71.0,Canada,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+25.0,177.0,71.0,Canada,1988,Seoul,Gymnastics Men's Individual All-Around,---
+20.0,167.0,61.0,Bulgaria,1980,Moskva,Gymnastics Men's Individual All-Around,---
+20.0,167.0,61.0,Bulgaria,1980,Moskva,Gymnastics Men's Individual All-Around,---
+23.0,167.0,65.0,Slovenia,2000,Sydney,Gymnastics Men's Individual All-Around,---
+31.0,167.0,65.0,Slovenia,2008,Beijing,Gymnastics Men's Individual All-Around,---
+21.0,173.0,65.0,Romania,1972,Munich,Gymnastics Men's Individual All-Around,---
+24.0,166.0,67.0,Yugoslavia,1960,Roma,Gymnastics Men's Individual All-Around,---
+28.0,166.0,67.0,Yugoslavia,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+23.0,169.0,58.0,Germany,2000,Sydney,Gymnastics Men's Individual All-Around,---
+27.0,169.0,58.0,Germany,2004,Athina,Gymnastics Men's Individual All-Around,---
+22.0,178.0,76.0,New Zealand,2000,Sydney,Gymnastics Men's Individual All-Around,---
+25.0,170.0,66.0,Switzerland,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+24.0,170.0,68.0,Poland,1976,Montreal,Gymnastics Men's Individual All-Around,---
+20.0,158.0,52.0,Mexico,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+24.0,158.0,52.0,Mexico,1988,Seoul,Gymnastics Men's Individual All-Around,---
+18.0,170.0,60.0,Portugal,1988,Seoul,Gymnastics Men's Individual All-Around,---
+22.0,169.0,65.0,Romania,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+26.0,169.0,65.0,Romania,1988,Seoul,Gymnastics Men's Individual All-Around,---
+22.0,173.0,68.0,Brazil,1988,Seoul,Gymnastics Men's Individual All-Around,---
+22.0,163.0,57.0,United States,1936,Berlin,Gymnastics Men's Individual All-Around,---
+22.0,175.0,75.0,Argentina,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+21.0,168.0,66.0,Russia,2008,Beijing,Gymnastics Men's Individual All-Around,---
+19.0,161.0,56.0,Russia,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+23.0,161.0,56.0,Russia,2000,Sydney,Gymnastics Men's Individual All-Around,---
+21.0,168.0,58.0,Romania,2004,Athina,Gymnastics Men's Individual All-Around,---
+25.0,168.0,58.0,Romania,2008,Beijing,Gymnastics Men's Individual All-Around,---
+29.0,168.0,69.0,Soviet Union,1960,Roma,Gymnastics Men's Individual All-Around,---
+22.0,176.0,66.0,Poland,1980,Moskva,Gymnastics Men's Individual All-Around,---
+26.0,173.0,67.0,Romania,2004,Athina,Gymnastics Men's Individual All-Around,---
+23.0,174.0,61.0,France,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+28.0,174.0,61.0,France,2000,Sydney,Gymnastics Men's Individual All-Around,---
+23.0,169.0,70.0,Italy,2004,Athina,Gymnastics Men's Individual All-Around,---
+27.0,169.0,70.0,Italy,2008,Beijing,Gymnastics Men's Individual All-Around,---
+31.0,169.0,70.0,Italy,2012,London,Gymnastics Men's Individual All-Around,---
+20.0,168.0,66.0,Italy,1988,Seoul,Gymnastics Men's Individual All-Around,---
+24.0,168.0,66.0,Italy,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+28.0,168.0,66.0,Italy,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+20.0,172.0,65.0,Bulgaria,1960,Roma,Gymnastics Men's Individual All-Around,---
+24.0,172.0,65.0,Bulgaria,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+19.0,166.0,62.0,Cuba,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+21.0,168.0,63.0,Great Britain,2012,London,Gymnastics Men's Individual All-Around,---
+23.0,167.0,57.0,Bulgaria,1980,Moskva,Gymnastics Men's Individual All-Around,---
+26.0,170.0,62.0,Bulgaria,1972,Munich,Gymnastics Men's Individual All-Around,---
+24.0,170.0,62.0,Finland,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+28.0,166.0,67.0,Poland,1960,Roma,Gymnastics Men's Individual All-Around,---
+21.0,176.0,66.0,Cuba,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+25.0,176.0,66.0,Cuba,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+20.0,154.0,54.0,Cuba,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+24.0,154.0,54.0,Cuba,1972,Munich,Gymnastics Men's Individual All-Around,---
+25.0,172.0,67.0,Finland,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+29.0,172.0,67.0,Finland,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+22.0,168.0,61.0,Canada,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+26.0,164.0,61.0,Switzerland,2000,Sydney,Gymnastics Men's Individual All-Around,---
+23.0,170.0,72.0,West Germany,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+27.0,169.0,61.0,Ecuador,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+22.0,158.0,57.0,North Korea,2004,Athina,Gymnastics Men's Individual All-Around,---
+21.0,173.0,65.0,Brazil,1980,Moskva,Gymnastics Men's Individual All-Around,---
+19.0,169.0,67.0,Netherlands,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+18.0,170.0,68.0,United States,1988,Seoul,Gymnastics Men's Individual All-Around,---
+23.0,163.0,55.0,West Germany,1972,Munich,Gymnastics Men's Individual All-Around,---
+27.0,163.0,55.0,West Germany,1976,Montreal,Gymnastics Men's Individual All-Around,---
+21.0,168.0,68.0,Puerto Rico,2008,Beijing,Gymnastics Men's Individual All-Around,---
+21.0,163.0,62.0,Romania,1988,Seoul,Gymnastics Men's Individual All-Around,---
+25.0,163.0,62.0,Romania,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+19.0,165.0,64.0,Australia,2000,Sydney,Gymnastics Men's Individual All-Around,---
+23.0,165.0,64.0,Australia,2004,Athina,Gymnastics Men's Individual All-Around,---
+22.0,153.0,63.0,Cuba,1980,Moskva,Gymnastics Men's Individual All-Around,---
+23.0,161.0,57.0,France,2008,Beijing,Gymnastics Men's Individual All-Around,---
+22.0,169.0,61.0,Brazil,2004,Athina,Gymnastics Men's Individual All-Around,---
+18.0,174.0,65.0,Spain,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+22.0,174.0,65.0,Spain,1988,Seoul,Gymnastics Men's Individual All-Around,---
+26.0,174.0,65.0,Spain,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+20.0,166.0,70.0,Cuba,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+24.0,166.0,70.0,Cuba,1972,Munich,Gymnastics Men's Individual All-Around,---
+31.0,168.0,66.0,Luxembourg,1928,Amsterdam,Gymnastics Men's Individual All-Around,---
+25.0,170.0,75.0,United States,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+22.0,171.0,73.0,United States,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+26.0,171.0,73.0,United States,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+30.0,171.0,73.0,United States,2000,Sydney,Gymnastics Men's Individual All-Around,---
+19.0,171.0,68.0,Switzerland,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+23.0,171.0,68.0,Switzerland,1972,Munich,Gymnastics Men's Individual All-Around,---
+27.0,171.0,68.0,Switzerland,1976,Montreal,Gymnastics Men's Individual All-Around,---
+22.0,172.0,69.0,West Germany,1976,Montreal,Gymnastics Men's Individual All-Around,---
+30.0,172.0,69.0,West Germany,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+24.0,175.0,67.0,Poland,1960,Roma,Gymnastics Men's Individual All-Around,---
+28.0,175.0,67.0,Poland,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+32.0,175.0,67.0,Poland,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+24.0,163.0,57.0,Italy,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+26.0,167.0,59.0,Switzerland,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+24.0,170.0,65.0,Canada,1988,Seoul,Gymnastics Men's Individual All-Around,---
+22.0,170.0,64.0,Spain,1988,Seoul,Gymnastics Men's Individual All-Around,---
+25.0,170.0,64.0,Spain,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+21.0,164.0,61.0,Belarus,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+25.0,164.0,61.0,Belarus,2000,Sydney,Gymnastics Men's Individual All-Around,---
+17.0,164.0,59.0,Bulgaria,1976,Montreal,Gymnastics Men's Individual All-Around,---
+21.0,172.0,68.0,Russia,2008,Beijing,Gymnastics Men's Individual All-Around,---
+20.0,166.0,62.0,East Germany,1972,Munich,Gymnastics Men's Individual All-Around,---
+21.0,173.0,63.0,France,2008,Beijing,Gymnastics Men's Individual All-Around,---
+28.0,155.0,59.0,Russia,2004,Athina,Gymnastics Men's Individual All-Around,---
+21.0,167.0,63.0,Cuba,1972,Munich,Gymnastics Men's Individual All-Around,---
+24.0,170.0,66.0,Japan,2000,Sydney,Gymnastics Men's Individual All-Around,---
+21.0,163.0,56.0,Japan,2008,Beijing,Gymnastics Men's Individual All-Around,---
+17.0,167.0,64.0,United States,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+25.0,167.0,64.0,United States,1972,Munich,Gymnastics Men's Individual All-Around,---
+20.0,165.0,60.0,Italy,1988,Seoul,Gymnastics Men's Individual All-Around,---
+24.0,165.0,60.0,Italy,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+23.0,170.0,70.0,Spain,2008,Beijing,Gymnastics Men's Individual All-Around,---
+24.0,169.0,64.0,Spain,1972,Munich,Gymnastics Men's Individual All-Around,---
+21.0,169.0,62.0,Romania,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+21.0,170.0,63.0,Romania,1988,Seoul,Gymnastics Men's Individual All-Around,---
+25.0,170.0,63.0,Romania,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+22.0,162.0,64.0,Finland,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+25.0,172.0,65.0,Latvia,2004,Athina,Gymnastics Men's Individual All-Around,---
+21.0,164.0,62.0,Armenia,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+20.0,161.0,64.0,Brazil,2012,London,Gymnastics Men's Individual All-Around,---
+24.0,161.0,64.0,Brazil,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+19.0,170.0,62.0,Japan,1988,Seoul,Gymnastics Men's Individual All-Around,---
+27.0,170.0,62.0,Japan,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+20.0,166.0,60.0,Belarus,2004,Athina,Gymnastics Men's Individual All-Around,---
+24.0,166.0,60.0,Belarus,2008,Beijing,Gymnastics Men's Individual All-Around,---
+24.0,167.0,63.0,Belarus,2008,Beijing,Gymnastics Men's Individual All-Around,---
+20.0,172.0,64.0,Finland,1928,Amsterdam,Gymnastics Men's Individual All-Around,---
+24.0,172.0,64.0,Finland,1932,Los Angeles,Gymnastics Men's Individual All-Around,Bronze
+28.0,172.0,64.0,Finland,1936,Berlin,Gymnastics Men's Individual All-Around,---
+40.0,172.0,64.0,Finland,1948,London,Gymnastics Men's Individual All-Around,---
+44.0,172.0,64.0,Finland,1952,Helsinki,Gymnastics Men's Individual All-Around,---
+23.0,174.0,66.0,Switzerland,2004,Athina,Gymnastics Men's Individual All-Around,---
+27.0,174.0,66.0,Switzerland,2008,Beijing,Gymnastics Men's Individual All-Around,---
+27.0,157.0,55.0,Hungary,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+23.0,165.0,58.0,Switzerland,1952,Helsinki,Gymnastics Men's Individual All-Around,---
+31.0,165.0,58.0,Switzerland,1960,Roma,Gymnastics Men's Individual All-Around,---
+24.0,172.0,68.0,Switzerland,2004,Athina,Gymnastics Men's Individual All-Around,---
+20.0,173.0,73.0,Romania,2004,Athina,Gymnastics Men's Individual All-Around,---
+24.0,173.0,73.0,Romania,2008,Beijing,Gymnastics Men's Individual All-Around,---
+24.0,178.0,63.0,Ukraine,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+24.0,160.0,56.0,South Korea,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+24.0,171.0,71.0,Soviet Union,1956,Melbourne,Gymnastics Men's Individual All-Around,---
+28.0,171.0,71.0,Soviet Union,1960,Roma,Gymnastics Men's Individual All-Around,Gold
+32.0,171.0,71.0,Soviet Union,1964,Tokyo,Gymnastics Men's Individual All-Around,Silver
+21.0,163.0,61.0,Unified Team,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+25.0,163.0,61.0,Ukraine,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+21.0,182.0,77.0,Israel,2008,Beijing,Gymnastics Men's Individual All-Around,---
+25.0,182.0,77.0,Israel,2012,London,Gymnastics Men's Individual All-Around,---
+20.0,169.0,68.0,Unified Team,1992,Barcelona,Gymnastics Men's Individual All-Around,Gold
+24.0,169.0,68.0,Belarus,1996,Atlanta,Gymnastics Men's Individual All-Around,Bronze
+20.0,168.0,59.0,Soviet Union,1972,Munich,Gymnastics Men's Individual All-Around,---
+21.0,165.0,62.0,China,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+18.0,164.0,61.0,Canada,2000,Sydney,Gymnastics Men's Individual All-Around,---
+22.0,164.0,61.0,Canada,2004,Athina,Gymnastics Men's Individual All-Around,---
+26.0,164.0,61.0,Canada,2008,Beijing,Gymnastics Men's Individual All-Around,---
+30.0,157.0,56.0,North Korea,1972,Munich,Gymnastics Men's Individual All-Around,---
+22.0,167.0,62.0,Belarus,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+26.0,167.0,62.0,Belarus,2000,Sydney,Gymnastics Men's Individual All-Around,---
+27.0,176.0,75.0,United States,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+27.0,176.0,68.0,Canada,1972,Munich,Gymnastics Men's Individual All-Around,---
+21.0,170.0,67.0,West Germany,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+25.0,170.0,67.0,West Germany,1988,Seoul,Gymnastics Men's Individual All-Around,---
+24.0,172.0,70.0,United States,1952,Helsinki,Gymnastics Men's Individual All-Around,---
+28.0,172.0,70.0,United States,1956,Melbourne,Gymnastics Men's Individual All-Around,---
+24.0,167.0,70.0,Australia,2008,Beijing,Gymnastics Men's Individual All-Around,---
+19.0,167.0,62.0,Belarus,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+23.0,167.0,62.0,Belarus,2000,Sydney,Gymnastics Men's Individual All-Around,---
+24.0,168.0,61.0,Norway,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+24.0,161.0,60.0,Czechoslovakia,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+19.0,184.0,76.0,Great Britain,2008,Beijing,Gymnastics Men's Individual All-Around,---
+33.0,173.0,68.0,Poland,1952,Helsinki,Gymnastics Men's Individual All-Around,---
+22.0,170.0,64.0,Poland,1952,Helsinki,Gymnastics Men's Individual All-Around,---
+22.0,168.0,62.0,Norway,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+27.0,168.0,62.0,Norway,2000,Sydney,Gymnastics Men's Individual All-Around,---
+24.0,174.0,72.0,Spain,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+27.0,161.0,61.0,North Korea,1980,Moskva,Gymnastics Men's Individual All-Around,---
+21.0,165.0,66.0,South Korea,1988,Seoul,Gymnastics Men's Individual All-Around,---
+26.0,169.0,69.0,Hungary,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+29.0,169.0,69.0,Yugoslavia,1972,Munich,Gymnastics Men's Individual All-Around,---
+26.0,164.0,57.0,Japan,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+18.0,155.0,59.0,Italy,1972,Munich,Gymnastics Men's Individual All-Around,---
+24.0,169.0,63.0,West Germany,1972,Munich,Gymnastics Men's Individual All-Around,---
+26.0,164.0,61.0,Germany,2008,Beijing,Gymnastics Men's Individual All-Around,---
+24.0,170.0,64.0,United States,2008,Beijing,Gymnastics Men's Individual All-Around,---
+26.0,161.0,61.0,Yugoslavia,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+30.0,161.0,61.0,Yugoslavia,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+23.0,167.0,62.0,Romania,2008,Beijing,Gymnastics Men's Individual All-Around,---
+24.0,172.0,66.0,Czechoslovakia,1972,Munich,Gymnastics Men's Individual All-Around,---
+26.0,168.0,56.0,Great Britain,1952,Helsinki,Gymnastics Men's Individual All-Around,---
+35.0,168.0,56.0,Great Britain,1960,Roma,Gymnastics Men's Individual All-Around,---
+24.0,171.0,65.0,Czechoslovakia,1960,Roma,Gymnastics Men's Individual All-Around,---
+21.0,159.0,60.0,Luxembourg,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+22.0,162.0,60.0,Bulgaria,2000,Sydney,Gymnastics Men's Individual All-Around,---
+26.0,164.0,58.0,West Germany,1976,Montreal,Gymnastics Men's Individual All-Around,---
+18.0,160.0,55.0,Ukraine,2012,London,Gymnastics Men's Individual All-Around,---
+22.0,160.0,55.0,Azerbaijan,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+20.0,167.0,67.0,Luxembourg,1948,London,Gymnastics Men's Individual All-Around,---
+24.0,167.0,67.0,Luxembourg,1952,Helsinki,Gymnastics Men's Individual All-Around,---
+28.0,167.0,67.0,Luxembourg,1956,Melbourne,Gymnastics Men's Individual All-Around,---
+32.0,167.0,67.0,Luxembourg,1960,Roma,Gymnastics Men's Individual All-Around,---
+36.0,167.0,67.0,Luxembourg,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+22.0,176.0,68.0,Norway,1960,Roma,Gymnastics Men's Individual All-Around,---
+26.0,176.0,68.0,Norway,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+20.0,170.0,70.0,Bulgaria,1952,Helsinki,Gymnastics Men's Individual All-Around,---
+25.0,170.0,70.0,Bulgaria,1956,Melbourne,Gymnastics Men's Individual All-Around,---
+28.0,170.0,70.0,Bulgaria,1960,Roma,Gymnastics Men's Individual All-Around,---
+25.0,174.0,72.0,Poland,1972,Munich,Gymnastics Men's Individual All-Around,---
+29.0,163.0,65.0,Great Britain,1956,Melbourne,Gymnastics Men's Individual All-Around,---
+33.0,163.0,65.0,Great Britain,1960,Roma,Gymnastics Men's Individual All-Around,---
+18.0,178.0,75.0,Cuba,1980,Moskva,Gymnastics Men's Individual All-Around,---
+20.0,170.0,67.0,Cuba,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+24.0,170.0,67.0,Cuba,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+22.0,169.0,66.0,Romania,2000,Sydney,Gymnastics Men's Individual All-Around,---
+26.0,169.0,66.0,Romania,2004,Athina,Gymnastics Men's Individual All-Around,---
+25.0,164.0,63.0,Finland,1956,Melbourne,Gymnastics Men's Individual All-Around,---
+21.0,171.0,62.0,Hungary,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+25.0,171.0,62.0,Hungary,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+29.0,171.0,62.0,Hungary,2000,Sydney,Gymnastics Men's Individual All-Around,---
+24.0,178.0,73.0,United States,1988,Seoul,Gymnastics Men's Individual All-Around,---
+20.0,167.0,62.0,France,1980,Moskva,Gymnastics Men's Individual All-Around,---
+24.0,167.0,62.0,France,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+23.0,164.0,60.0,Ukraine,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+28.0,164.0,60.0,Ukraine,2000,Sydney,Gymnastics Men's Individual All-Around,---
+27.0,160.0,54.0,Poland,1952,Helsinki,Gymnastics Men's Individual All-Around,---
+22.0,164.0,56.0,Poland,1972,Munich,Gymnastics Men's Individual All-Around,---
+26.0,164.0,56.0,Poland,1976,Montreal,Gymnastics Men's Individual All-Around,---
+30.0,164.0,56.0,Poland,1980,Moskva,Gymnastics Men's Individual All-Around,---
+22.0,168.0,65.0,Romania,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+23.0,172.0,65.0,Romania,1980,Moskva,Gymnastics Men's Individual All-Around,---
+20.0,170.0,56.0,Czechoslovakia,1976,Montreal,Gymnastics Men's Individual All-Around,---
+24.0,170.0,56.0,Czechoslovakia,1980,Moskva,Gymnastics Men's Individual All-Around,---
+32.0,160.0,56.0,Japan,1952,Helsinki,Gymnastics Men's Individual All-Around,---
+37.0,160.0,56.0,Japan,1956,Melbourne,Gymnastics Men's Individual All-Around,---
+40.0,160.0,56.0,Japan,1960,Roma,Gymnastics Men's Individual All-Around,---
+23.0,163.0,59.0,Greece,2000,Sydney,Gymnastics Men's Individual All-Around,---
+27.0,163.0,59.0,Greece,2004,Athina,Gymnastics Men's Individual All-Around,---
+26.0,163.0,64.0,United States,2008,Beijing,Gymnastics Men's Individual All-Around,---
+24.0,163.0,59.0,Japan,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+23.0,169.0,58.0,Czechoslovakia,1976,Montreal,Gymnastics Men's Individual All-Around,---
+21.0,170.0,60.0,Bulgaria,1988,Seoul,Gymnastics Men's Individual All-Around,---
+20.0,166.0,61.0,France,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+19.0,156.0,48.0,China,2004,Athina,Gymnastics Men's Individual All-Around,---
+21.0,176.0,70.0,West Germany,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+23.0,180.0,79.0,Great Britain,2012,London,Gymnastics Men's Individual All-Around,---
+20.0,165.0,58.0,United States,1976,Montreal,Gymnastics Men's Individual All-Around,---
+24.0,162.0,61.0,Great Britain,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+31.0,169.0,69.0,Switzerland,1960,Roma,Gymnastics Men's Individual All-Around,---
+26.0,172.0,63.0,Denmark,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+21.0,183.0,73.0,United States,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+20.0,171.0,67.0,Sweden,1952,Helsinki,Gymnastics Men's Individual All-Around,---
+24.0,171.0,67.0,Sweden,1956,Melbourne,Gymnastics Men's Individual All-Around,---
+28.0,171.0,67.0,Sweden,1960,Roma,Gymnastics Men's Individual All-Around,---
+32.0,171.0,67.0,Sweden,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+22.0,170.0,57.0,East Germany,1972,Munich,Gymnastics Men's Individual All-Around,---
+22.0,175.0,66.0,France,1908,London,Gymnastics Men's Individual All-Around,---
+34.0,175.0,66.0,France,1920,Antwerpen,Gymnastics Men's Individual All-Around,---
+23.0,167.0,63.0,Hungary,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+19.0,169.0,61.0,Soviet Union,1976,Montreal,Gymnastics Men's Individual All-Around,---
+23.0,156.0,52.0,East Germany,1988,Seoul,Gymnastics Men's Individual All-Around,---
+27.0,156.0,52.0,Germany,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+20.0,170.0,70.0,Soviet Union,1956,Melbourne,Gymnastics Men's Individual All-Around,Bronze
+24.0,170.0,70.0,Soviet Union,1960,Roma,Gymnastics Men's Individual All-Around,Bronze
+28.0,170.0,70.0,Soviet Union,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+22.0,169.0,62.0,Soviet Union,1980,Moskva,Gymnastics Men's Individual All-Around,---
+22.0,168.0,67.0,Poland,1976,Montreal,Gymnastics Men's Individual All-Around,---
+25.0,172.0,65.0,Germany,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+20.0,158.0,54.0,Romania,1988,Seoul,Gymnastics Men's Individual All-Around,---
+28.0,158.0,54.0,Germany,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+32.0,158.0,54.0,Germany,2000,Sydney,Gymnastics Men's Individual All-Around,---
+27.0,164.0,55.0,Bulgaria,1976,Montreal,Gymnastics Men's Individual All-Around,---
+17.0,165.0,56.0,Bulgaria,1976,Montreal,Gymnastics Men's Individual All-Around,---
+28.0,172.0,68.0,Romania,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+33.0,165.0,59.0,United States,1956,Melbourne,Gymnastics Men's Individual All-Around,---
+23.0,166.0,58.0,Japan,2004,Athina,Gymnastics Men's Individual All-Around,---
+27.0,166.0,58.0,Japan,2008,Beijing,Gymnastics Men's Individual All-Around,---
+25.0,171.0,63.0,France,2012,London,Gymnastics Men's Individual All-Around,---
+23.0,166.0,61.0,China,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+24.0,170.0,63.0,United States,1960,Roma,Gymnastics Men's Individual All-Around,---
+21.0,174.0,65.0,Hungary,1988,Seoul,Gymnastics Men's Individual All-Around,---
+22.0,165.0,60.0,France,1980,Moskva,Gymnastics Men's Individual All-Around,---
+21.0,162.0,58.0,France,1960,Roma,Gymnastics Men's Individual All-Around,---
+21.0,161.0,62.0,United States,2000,Sydney,Gymnastics Men's Individual All-Around,---
+23.0,183.0,78.0,Australia,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+20.0,165.0,60.0,Italy,1988,Seoul,Gymnastics Men's Individual All-Around,---
+25.0,169.0,63.0,Latvia,2012,London,Gymnastics Men's Individual All-Around,---
+28.0,168.0,66.0,Czechoslovakia,1960,Roma,Gymnastics Men's Individual All-Around,---
+26.0,164.0,59.0,Soviet Union,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+21.0,175.0,65.0,Belarus,2008,Beijing,Gymnastics Men's Individual All-Around,---
+23.0,179.0,73.0,Germany,2000,Sydney,Gymnastics Men's Individual All-Around,---
+20.0,167.0,66.0,Japan,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+24.0,167.0,66.0,Japan,1972,Munich,Gymnastics Men's Individual All-Around,---
+28.0,167.0,66.0,Japan,1976,Montreal,Gymnastics Men's Individual All-Around,Bronze
+19.0,166.0,64.0,Japan,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+23.0,166.0,64.0,Japan,2000,Sydney,Gymnastics Men's Individual All-Around,---
+27.0,166.0,64.0,Japan,2004,Athina,Gymnastics Men's Individual All-Around,---
+22.0,158.0,52.0,Japan,1960,Roma,Gymnastics Men's Individual All-Around,---
+26.0,158.0,52.0,Japan,1964,Tokyo,Gymnastics Men's Individual All-Around,Silver
+21.0,168.0,87.0,Lithuania,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+28.0,157.0,54.0,Great Britain,1908,London,Gymnastics Men's Individual All-Around,Silver
+19.0,160.0,54.0,Japan,2008,Beijing,Gymnastics Men's Individual All-Around,Silver
+23.0,160.0,54.0,Japan,2012,London,Gymnastics Men's Individual All-Around,Gold
+27.0,160.0,54.0,Japan,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,Gold
+21.0,157.0,55.0,Japan,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+22.0,170.0,68.0,Croatia,2008,Beijing,Gymnastics Men's Individual All-Around,---
+24.0,169.0,70.0,Spain,1972,Munich,Gymnastics Men's Individual All-Around,---
+22.0,157.0,54.0,Poland,1976,Montreal,Gymnastics Men's Individual All-Around,---
+26.0,160.0,57.0,Chinese Taipei,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+18.0,162.0,61.0,Finland,1928,Amsterdam,Gymnastics Men's Individual All-Around,---
+22.0,162.0,61.0,Finland,1932,Los Angeles,Gymnastics Men's Individual All-Around,---
+26.0,162.0,61.0,Finland,1936,Berlin,Gymnastics Men's Individual All-Around,---
+20.0,163.0,57.0,Romania,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+24.0,163.0,57.0,Romania,2000,Sydney,Gymnastics Men's Individual All-Around,---
+28.0,163.0,57.0,Romania,2004,Athina,Gymnastics Men's Individual All-Around,---
+19.0,170.0,68.0,Mexico,1960,Roma,Gymnastics Men's Individual All-Around,---
+27.0,170.0,68.0,Mexico,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+24.0,166.0,65.0,Mexico,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+22.0,178.0,70.0,Hungary,1980,Moskva,Gymnastics Men's Individual All-Around,---
+21.0,167.0,62.0,Belgium,2008,Beijing,Gymnastics Men's Individual All-Around,---
+27.0,169.0,72.0,Great Britain,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+26.0,165.0,70.0,Hungary,1960,Roma,Gymnastics Men's Individual All-Around,---
+30.0,165.0,70.0,Hungary,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+21.0,164.0,61.0,Puerto Rico,2004,Athina,Gymnastics Men's Individual All-Around,---
+20.0,168.0,65.0,France,2000,Sydney,Gymnastics Men's Individual All-Around,---
+20.0,164.0,59.0,Russia,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+22.0,170.0,65.0,France,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+21.0,167.0,64.0,United States,1956,Melbourne,Gymnastics Men's Individual All-Around,---
+18.0,168.0,61.0,Belgium,2012,London,Gymnastics Men's Individual All-Around,---
+18.0,161.0,55.0,Ukraine,2012,London,Gymnastics Men's Individual All-Around,---
+22.0,161.0,55.0,Ukraine,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,Silver
+22.0,164.0,62.0,Bulgaria,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+26.0,164.0,62.0,Bulgaria,2000,Sydney,Gymnastics Men's Individual All-Around,---
+23.0,167.0,70.0,Italy,1960,Roma,Gymnastics Men's Individual All-Around,---
+28.0,167.0,70.0,Italy,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+23.0,165.0,60.0,United States,1984,Los Angeles,Gymnastics Men's Individual All-Around,Silver
+25.0,169.0,65.0,Yugoslavia,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+22.0,165.0,62.0,Latvia,2000,Sydney,Gymnastics Men's Individual All-Around,---
+26.0,165.0,62.0,Latvia,2004,Athina,Gymnastics Men's Individual All-Around,---
+18.0,161.0,54.0,Mexico,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+24.0,178.0,65.0,Finland,1952,Helsinki,Gymnastics Men's Individual All-Around,---
+22.0,165.0,60.0,Spain,2000,Sydney,Gymnastics Men's Individual All-Around,---
+23.0,167.0,63.0,Switzerland,1976,Montreal,Gymnastics Men's Individual All-Around,---
+23.0,158.0,55.0,Ukraine,2008,Beijing,Gymnastics Men's Individual All-Around,---
+23.0,170.0,65.0,Soviet Union,1968,Mexico City,Gymnastics Men's Individual All-Around,Silver
+27.0,170.0,65.0,Soviet Union,1972,Munich,Gymnastics Men's Individual All-Around,---
+19.0,164.0,68.0,Unified Team,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+23.0,164.0,68.0,Russia,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+20.0,173.0,71.0,Yugoslavia,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+24.0,173.0,71.0,Yugoslavia,1972,Munich,Gymnastics Men's Individual All-Around,---
+23.0,185.0,82.0,Germany,1906,Athina,Gymnastics Men's Individual All-Around,---
+23.0,167.0,66.0,United States,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+19.0,163.0,55.0,Germany,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+23.0,163.0,55.0,Germany,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+29.0,170.0,68.0,Netherlands,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+21.0,164.0,56.0,China,1988,Seoul,Gymnastics Men's Individual All-Around,---
+24.0,160.0,52.0,Chinese Taipei,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+23.0,159.0,58.0,Switzerland,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+27.0,159.0,58.0,Switzerland,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+25.0,161.0,60.0,Germany,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+29.0,161.0,60.0,East Germany,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+18.0,160.0,62.0,East Germany,1988,Seoul,Gymnastics Men's Individual All-Around,---
+22.0,160.0,62.0,Germany,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+26.0,160.0,62.0,Germany,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+30.0,160.0,62.0,Germany,2000,Sydney,Gymnastics Men's Individual All-Around,---
+28.0,172.0,74.0,Canada,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+23.0,167.0,64.0,United States,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+23.0,167.0,56.0,Great Britain,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,Bronze
+20.0,182.0,67.0,Norway,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+19.0,168.0,67.0,Sweden,1952,Helsinki,Gymnastics Men's Individual All-Around,---
+23.0,168.0,67.0,Sweden,1956,Melbourne,Gymnastics Men's Individual All-Around,---
+27.0,168.0,67.0,Sweden,1960,Roma,Gymnastics Men's Individual All-Around,---
+24.0,166.0,64.0,Great Britain,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+28.0,166.0,64.0,Great Britain,1972,Munich,Gymnastics Men's Individual All-Around,---
+21.0,163.0,62.0,United States,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+26.0,163.0,62.0,United States,2000,Sydney,Gymnastics Men's Individual All-Around,---
+30.0,163.0,62.0,United States,2004,Athina,Gymnastics Men's Individual All-Around,---
+20.0,166.0,60.0,Great Britain,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+22.0,168.0,65.0,Great Britain,1976,Montreal,Gymnastics Men's Individual All-Around,---
+26.0,168.0,65.0,Great Britain,1980,Moskva,Gymnastics Men's Individual All-Around,---
+22.0,162.0,64.0,Great Britain,1980,Moskva,Gymnastics Men's Individual All-Around,---
+26.0,162.0,64.0,Great Britain,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+22.0,171.0,70.0,West Germany,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+26.0,171.0,70.0,West Germany,1988,Seoul,Gymnastics Men's Individual All-Around,---
+24.0,173.0,63.0,Sweden,1960,Roma,Gymnastics Men's Individual All-Around,---
+19.0,170.0,61.0,Canada,2004,Athina,Gymnastics Men's Individual All-Around,---
+23.0,170.0,61.0,Canada,2008,Beijing,Gymnastics Men's Individual All-Around,---
+25.0,165.0,60.0,Poland,1980,Moskva,Gymnastics Men's Individual All-Around,---
+24.0,174.0,61.0,Switzerland,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+21.0,163.0,55.0,China,2000,Sydney,Gymnastics Men's Individual All-Around,---
+19.0,163.0,52.0,China,2004,Athina,Gymnastics Men's Individual All-Around,---
+23.0,163.0,52.0,China,2008,Beijing,Gymnastics Men's Individual All-Around,---
+18.0,171.0,64.0,China,2000,Sydney,Gymnastics Men's Individual All-Around,---
+22.0,171.0,64.0,China,2004,Athina,Gymnastics Men's Individual All-Around,---
+21.0,160.0,53.0,China,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+25.0,160.0,53.0,China,1988,Seoul,Gymnastics Men's Individual All-Around,---
+24.0,167.0,59.0,Japan,1988,Seoul,Gymnastics Men's Individual All-Around,---
+23.0,159.0,58.0,Japan,2012,London,Gymnastics Men's Individual All-Around,---
+25.0,165.0,60.0,Japan,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+26.0,162.0,57.0,Japan,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+26.0,157.0,54.0,Chinese Taipei,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+22.0,169.0,62.0,Bulgaria,2004,Athina,Gymnastics Men's Individual All-Around,---
+24.0,167.0,63.0,South Korea,2004,Athina,Gymnastics Men's Individual All-Around,Bronze
+28.0,167.0,63.0,South Korea,2008,Beijing,Gymnastics Men's Individual All-Around,---
+20.0,160.0,54.0,China,2000,Sydney,Gymnastics Men's Individual All-Around,Silver
+24.0,160.0,54.0,China,2004,Athina,Gymnastics Men's Individual All-Around,---
+28.0,160.0,54.0,China,2008,Beijing,Gymnastics Men's Individual All-Around,Gold
+21.0,165.0,64.0,South Korea,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+25.0,165.0,64.0,South Korea,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+29.0,165.0,64.0,South Korea,2000,Sydney,Gymnastics Men's Individual All-Around,---
+24.0,170.0,64.0,Kazakhstan,2004,Athina,Gymnastics Men's Individual All-Around,---
+26.0,172.0,65.0,Japan,2004,Athina,Gymnastics Men's Individual All-Around,---
+21.0,173.0,68.0,Bulgaria,1980,Moskva,Gymnastics Men's Individual All-Around,---
+19.0,168.0,59.0,Bulgaria,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+24.0,168.0,59.0,Bulgaria,2000,Sydney,Gymnastics Men's Individual All-Around,---
+27.0,160.0,55.0,United States,2004,Athina,Gymnastics Men's Individual All-Around,---
+24.0,165.0,56.0,United States,1976,Montreal,Gymnastics Men's Individual All-Around,---
+19.0,163.0,62.0,Bulgaria,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+23.0,163.0,62.0,Bulgaria,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+27.0,163.0,62.0,Bulgaria,2000,Sydney,Gymnastics Men's Individual All-Around,---
+31.0,163.0,62.0,Bulgaria,2004,Athina,Gymnastics Men's Individual All-Around,---
+35.0,163.0,62.0,Bulgaria,2008,Beijing,Gymnastics Men's Individual All-Around,---
+19.0,155.0,57.0,South Korea,1992,Barcelona,Gymnastics Men's Individual All-Around,---
+24.0,165.0,59.0,South Korea,2008,Beijing,Gymnastics Men's Individual All-Around,---
+21.0,165.0,63.0,Switzerland,2016,Rio de Janeiro,Gymnastics Men's Individual All-Around,---
+19.0,166.0,56.0,Mongolia,1964,Tokyo,Gymnastics Men's Individual All-Around,---
+23.0,166.0,56.0,Mongolia,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+25.0,176.0,67.0,Poland,1976,Montreal,Gymnastics Men's Individual All-Around,---
+20.0,159.0,53.0,Switzerland,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+24.0,159.0,53.0,Switzerland,1988,Seoul,Gymnastics Men's Individual All-Around,---
+18.0,165.0,53.0,China,1996,Atlanta,Gymnastics Men's Individual All-Around,---
+22.0,158.0,52.0,China,2000,Sydney,Gymnastics Men's Individual All-Around,---
+25.0,180.0,68.0,Bulgaria,1968,Mexico City,Gymnastics Men's Individual All-Around,---
+29.0,180.0,68.0,Bulgaria,1972,Munich,Gymnastics Men's Individual All-Around,---
+22.0,173.0,69.0,Netherlands,2008,Beijing,Gymnastics Men's Individual All-Around,---
+22.0,168.0,61.0,San Marino,1984,Los Angeles,Gymnastics Men's Individual All-Around,---
+20.0,158.0,55.0,China,2008,Beijing,Gymnastics Men's Individual All-Around,---
+19.0,162.0,61.0,Czechoslovakia,1976,Montreal,Gymnastics Men's Individual All-Around,---
+23.0,162.0,61.0,Czechoslovakia,1980,Moskva,Gymnastics Men's Individual All-Around,---
+21.0,164.0,59.0,Ukraine,2000,Sydney,Gymnastics Men's Individual All-Around,---
+25.0,164.0,59.0,Ukraine,2004,Athina,Gymnastics Men's Individual All-Around,---
+20.0,167.0,63.0,Italy,1976,Montreal,Gymnastics Men's Individual All-Around,---

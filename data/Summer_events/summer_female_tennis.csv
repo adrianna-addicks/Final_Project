@@ -1,0 +1,488 @@
+Age,Height,Weight,Team,Year,City,Event,Medal
+24.0,190.0,85.0,Uzbekistan,2008,Beijing,Tennis Women's Singles,---
+26.0,175.0,64.0,Estonia,2008,Beijing,Tennis Women's Singles,---
+20.0,169.0,60.0,Belgium,1992,Barcelona,Tennis Women's Singles,---
+24.0,169.0,60.0,Belgium,1996,Atlanta,Tennis Women's Singles,---
+28.0,169.0,60.0,Belgium,2000,Sydney,Tennis Women's Singles,---
+24.0,176.0,69.0,Sweden,2008,Beijing,Tennis Women's Singles,---
+28.0,176.0,69.0,Sweden,2012,London,Tennis Women's Singles,---
+24.0,168.0,58.0,Japan,2000,Sydney,Tennis Women's Singles,---
+28.0,168.0,58.0,Japan,2004,Athina,Tennis Women's Singles,---
+19.0,183.0,60.0,Belarus,2008,Beijing,Tennis Women's Singles,---
+22.0,183.0,60.0,Belarus,2012,London,Tennis Women's Singles,Bronze
+19.0,179.0,68.0,Hungary,2012,London,Tennis Women's Singles,---
+23.0,179.0,68.0,Hungary,2016,Rio de Janeiro,Tennis Women's Singles,---
+19.0,170.0,62.0,Switzerland,2008,Beijing,Tennis Women's Singles,---
+27.0,170.0,62.0,Switzerland,2016,Rio de Janeiro,Tennis Women's Singles,---
+28.0,175.0,70.0,Great Britain,2012,London,Tennis Women's Singles,---
+28.0,174.0,64.0,Austria,2008,Beijing,Tennis Women's Singles,---
+16.0,176.0,60.0,Belarus,1996,Atlanta,Tennis Women's Singles,---
+20.0,176.0,60.0,Belarus,2000,Sydney,Tennis Women's Singles,---
+22.0,185.0,75.0,Germany,2012,London,Tennis Women's Singles,---
+20.0,168.0,54.0,Canada,1988,Seoul,Tennis Women's Singles,---
+17.0,165.0,55.0,Indonesia,1988,Seoul,Tennis Women's Singles,---
+21.0,165.0,55.0,Indonesia,1992,Barcelona,Tennis Women's Singles,---
+25.0,165.0,55.0,Indonesia,1996,Atlanta,Tennis Women's Singles,---
+22.0,170.0,59.0,Germany,2016,Rio de Janeiro,Tennis Women's Singles,---
+17.0,171.0,52.0,Czech Republic,2000,Sydney,Tennis Women's Singles,---
+21.0,181.0,67.0,Romania,2012,London,Tennis Women's Singles,---
+25.0,181.0,67.0,Romania,2016,Rio de Janeiro,Tennis Women's Singles,---
+21.0,170.0,56.0,Czech Republic,2004,Athina,Tennis Women's Singles,---
+25.0,170.0,56.0,Czech Republic,2008,Beijing,Tennis Women's Singles,---
+22.0,169.0,63.0,Israel,1988,Seoul,Tennis Women's Singles,---
+24.0,182.0,69.0,Netherlands,2016,Rio de Janeiro,Tennis Women's Singles,---
+21.0,167.0,55.0,Zimbabwe,2000,Sydney,Tennis Women's Singles,---
+25.0,167.0,55.0,Zimbabwe,2004,Athina,Tennis Women's Singles,---
+29.0,167.0,55.0,Zimbabwe,2008,Beijing,Tennis Women's Singles,---
+21.0,170.0,65.0,Latvia,1992,Barcelona,Tennis Women's Singles,---
+23.0,168.0,59.0,Ukraine,2008,Beijing,Tennis Women's Singles,---
+21.0,175.0,60.0,Ukraine,2008,Beijing,Tennis Women's Singles,---
+25.0,175.0,60.0,Ukraine,2012,London,Tennis Women's Singles,---
+26.0,178.0,63.0,Netherlands,2000,Sydney,Tennis Women's Singles,---
+22.0,178.0,58.0,Canada,2016,Rio de Janeiro,Tennis Women's Singles,---
+27.0,170.0,59.0,Puerto Rico,2004,Athina,Tennis Women's Singles,---
+26.0,172.0,58.0,Turkey,2016,Rio de Janeiro,Tennis Women's Singles,---
+30.0,177.0,58.0,Belgium,2000,Sydney,Tennis Women's Singles,---
+22.0,165.0,56.0,Italy,2004,Athina,Tennis Women's Singles,---
+16.0,173.0,61.0,United States,1992,Barcelona,Tennis Women's Singles,Gold
+19.0,172.0,70.0,Switzerland,2004,Athina,Tennis Women's Singles,---
+23.0,170.0,59.0,Italy,1988,Seoul,Tennis Women's Singles,---
+27.0,170.0,59.0,Italy,1992,Barcelona,Tennis Women's Singles,---
+20.0,163.0,66.0,Paraguay,2012,London,Tennis Women's Singles,---
+24.0,163.0,66.0,Paraguay,2016,Rio de Janeiro,Tennis Women's Singles,---
+27.0,172.0,64.0,Czech Republic,2012,London,Tennis Women's Singles,---
+18.0,170.0,60.0,Chinese Taipei,2008,Beijing,Tennis Women's Singles,---
+21.0,165.0,60.0,China,1992,Barcelona,Tennis Women's Singles,---
+25.0,165.0,60.0,China,1996,Atlanta,Tennis Women's Singles,---
+21.0,170.0,62.0,South Korea,1996,Atlanta,Tennis Women's Singles,---
+18.0,175.0,63.0,Romania,2008,Beijing,Tennis Women's Singles,---
+22.0,175.0,63.0,Romania,2012,London,Tennis Women's Singles,---
+29.0,175.0,72.0,Belgium,2012,London,Tennis Women's Singles,---
+20.0,157.0,53.0,South Africa,1992,Barcelona,Tennis Women's Singles,---
+24.0,157.0,53.0,South Africa,1996,Atlanta,Tennis Women's Singles,---
+28.0,157.0,53.0,South Africa,2000,Sydney,Tennis Women's Singles,---
+22.0,172.0,68.0,New Zealand,1988,Seoul,Tennis Women's Singles,---
+18.0,173.0,60.0,France,2008,Beijing,Tennis Women's Singles,---
+22.0,173.0,60.0,France,2012,London,Tennis Women's Singles,---
+26.0,173.0,60.0,France,2016,Rio de Janeiro,Tennis Women's Singles,---
+25.0,172.0,61.0,Belgium,1996,Atlanta,Tennis Women's Singles,---
+34.0,160.0,56.0,United States,2008,Beijing,Tennis Women's Singles,---
+21.0,173.0,56.0,Romania,1996,Atlanta,Tennis Women's Singles,---
+23.0,172.0,63.0,Hungary,1996,Atlanta,Tennis Women's Singles,---
+21.0,178.0,62.0,Hungary,2004,Athina,Tennis Women's Singles,---
+17.0,183.0,72.0,Greece,2000,Sydney,Tennis Women's Singles,---
+21.0,183.0,72.0,Greece,2004,Athina,Tennis Women's Singles,---
+25.0,183.0,72.0,Greece,2008,Beijing,Tennis Women's Singles,---
+21.0,164.0,52.0,Japan,1992,Barcelona,Tennis Women's Singles,---
+25.0,164.0,52.0,Japan,1996,Atlanta,Tennis Women's Singles,---
+20.0,191.0,79.0,United States,1996,Atlanta,Tennis Women's Singles,Gold
+24.0,191.0,79.0,United States,2000,Sydney,Tennis Women's Singles,---
+24.0,160.0,53.0,Paraguay,2000,Sydney,Tennis Women's Singles,---
+21.0,177.0,77.0,South Africa,1992,Barcelona,Tennis Women's Singles,---
+25.0,177.0,77.0,South Africa,1996,Atlanta,Tennis Women's Singles,---
+21.0,177.0,59.0,France,2000,Sydney,Tennis Women's Singles,---
+25.0,177.0,59.0,France,2004,Athina,Tennis Women's Singles,---
+23.0,167.0,69.0,Australia,2008,Beijing,Tennis Women's Singles,---
+18.0,180.0,64.0,Russia,2000,Sydney,Tennis Women's Singles,Silver
+22.0,180.0,64.0,Russia,2004,Athina,Tennis Women's Singles,---
+26.0,180.0,64.0,Russia,2008,Beijing,Tennis Women's Singles,Gold
+21.0,169.0,59.0,France,1988,Seoul,Tennis Women's Singles,---
+28.0,172.0,64.0,Argentina,2004,Athina,Tennis Women's Singles,---
+25.0,159.0,55.0,Japan,2016,Rio de Janeiro,Tennis Women's Singles,---
+17.0,175.0,57.0,Australia,2000,Sydney,Tennis Women's Singles,---
+22.0,176.0,60.0,Poland,2008,Beijing,Tennis Women's Singles,---
+23.0,170.0,58.0,Romania,1996,Atlanta,Tennis Women's Singles,---
+27.0,170.0,58.0,Romania,2000,Sydney,Tennis Women's Singles,---
+19.0,170.0,56.0,Argentina,2004,Athina,Tennis Women's Singles,---
+23.0,170.0,56.0,Argentina,2008,Beijing,Tennis Women's Singles,---
+22.0,169.0,61.0,Colombia,2012,London,Tennis Women's Singles,---
+26.0,169.0,61.0,Colombia,2016,Rio de Janeiro,Tennis Women's Singles,---
+21.0,160.0,55.0,Japan,1992,Barcelona,Tennis Women's Singles,---
+20.0,174.0,65.0,New Zealand,2008,Beijing,Tennis Women's Singles,---
+24.0,174.0,65.0,New Zealand,2012,London,Tennis Women's Singles,---
+21.0,164.0,58.0,Italy,2008,Beijing,Tennis Women's Singles,---
+25.0,164.0,58.0,Italy,2012,London,Tennis Women's Singles,---
+29.0,164.0,58.0,Italy,2016,Rio de Janeiro,Tennis Women's Singles,---
+20.0,170.0,60.0,Mexico,1988,Seoul,Tennis Women's Singles,---
+17.0,150.0,60.0,Haiti,2000,Sydney,Tennis Women's Singles,---
+33.0,167.0,57.0,United States,1988,Seoul,Tennis Women's Singles,---
+24.0,171.0,62.0,Italy,1996,Atlanta,Tennis Women's Singles,---
+28.0,171.0,62.0,Italy,2000,Sydney,Tennis Women's Singles,---
+32.0,171.0,62.0,Italy,2004,Athina,Tennis Women's Singles,---
+20.0,176.0,63.0,United States,1992,Barcelona,Tennis Women's Singles,Bronze
+24.0,176.0,63.0,United States,1996,Atlanta,Tennis Women's Singles,---
+30.0,165.0,55.0,Belgium,2016,Rio de Janeiro,Tennis Women's Singles,---
+19.0,162.0,56.0,Argentina,1988,Seoul,Tennis Women's Singles,---
+24.0,171.0,60.0,Switzerland,2000,Sydney,Tennis Women's Singles,---
+23.0,175.0,65.0,Italy,2000,Sydney,Tennis Women's Singles,---
+27.0,175.0,65.0,Italy,2004,Athina,Tennis Women's Singles,---
+22.0,177.0,61.0,France,2016,Rio de Janeiro,Tennis Women's Singles,---
+24.0,162.0,58.0,United States,1988,Seoul,Tennis Women's Singles,Bronze
+28.0,162.0,58.0,United States,1992,Barcelona,Tennis Women's Singles,---
+18.0,160.0,54.0,Mexico,1992,Barcelona,Tennis Women's Singles,---
+22.0,160.0,54.0,Mexico,1996,Atlanta,Tennis Women's Singles,---
+22.0,166.0,61.0,Australia,2016,Rio de Janeiro,Tennis Women's Singles,---
+24.0,168.0,52.0,Czech Republic,2000,Sydney,Tennis Women's Singles,---
+23.0,170.0,62.0,Yugoslavia,1988,Seoul,Tennis Women's Singles,---
+24.0,190.0,85.0,Great Britain,1988,Seoul,Tennis Women's Singles,---
+28.0,190.0,85.0,Great Britain,1992,Barcelona,Tennis Women's Singles,---
+23.0,180.0,69.0,Germany,2012,London,Tennis Women's Singles,---
+23.0,169.0,58.0,Argentina,1996,Atlanta,Tennis Women's Singles,---
+19.0,180.0,65.0,Belarus,2008,Beijing,Tennis Women's Singles,---
+19.0,175.0,59.0,West Germany,1988,Seoul,Tennis Women's Singles,Gold
+23.0,175.0,59.0,Germany,1992,Barcelona,Tennis Women's Singles,Silver
+21.0,176.0,68.0,Italy,1996,Atlanta,Tennis Women's Singles,---
+25.0,176.0,68.0,Italy,2000,Sydney,Tennis Women's Singles,---
+17.0,184.0,66.0,Poland,1996,Atlanta,Tennis Women's Singles,---
+22.0,170.0,60.0,Slovakia,1996,Atlanta,Tennis Women's Singles,---
+27.0,170.0,60.0,Slovakia,2000,Sydney,Tennis Women's Singles,---
+21.0,171.0,57.0,France,1992,Barcelona,Tennis Women's Singles,---
+30.0,171.0,57.0,France,2000,Sydney,Tennis Women's Singles,---
+20.0,170.0,61.0,Romania,2012,London,Tennis Women's Singles,---
+28.0,173.0,64.0,West Germany,1988,Seoul,Tennis Women's Singles,---
+21.0,181.0,62.0,Slovakia,2004,Athina,Tennis Women's Singles,---
+25.0,181.0,62.0,Slovakia,2008,Beijing,Tennis Women's Singles,---
+29.0,181.0,62.0,Slovakia,2012,London,Tennis Women's Singles,---
+22.0,167.0,60.0,Belgium,2004,Athina,Tennis Women's Singles,Gold
+21.0,183.0,71.0,Slovenia,2012,London,Tennis Women's Singles,---
+25.0,183.0,71.0,Slovenia,2016,Rio de Janeiro,Tennis Women's Singles,---
+22.0,180.0,65.0,Mexico,1988,Seoul,Tennis Women's Singles,---
+23.0,178.0,68.0,Canada,1988,Seoul,Tennis Women's Singles,---
+21.0,163.0,57.0,Japan,2016,Rio de Janeiro,Tennis Women's Singles,---
+15.0,170.0,59.0,Switzerland,1996,Atlanta,Tennis Women's Singles,---
+24.0,167.0,57.0,Netherlands,2000,Sydney,Tennis Women's Singles,---
+31.0,177.0,72.0,Czech Republic,2016,Rio de Janeiro,Tennis Women's Singles,---
+25.0,165.0,60.0,Czech Republic,2000,Sydney,Tennis Women's Singles,---
+26.0,170.0,57.0,Chinese Taipei,2012,London,Tennis Women's Singles,---
+18.0,173.0,58.0,Germany,1992,Barcelona,Tennis Women's Singles,---
+22.0,173.0,58.0,Germany,1996,Atlanta,Tennis Women's Singles,---
+26.0,163.0,58.0,Canada,1992,Barcelona,Tennis Women's Singles,---
+30.0,163.0,58.0,Canada,1996,Atlanta,Tennis Women's Singles,---
+23.0,164.0,53.0,Japan,1988,Seoul,Tennis Women's Singles,---
+24.0,184.0,69.0,Serbia,2012,London,Tennis Women's Singles,---
+28.0,184.0,69.0,Serbia,2016,Rio de Janeiro,Tennis Women's Singles,---
+17.0,167.0,66.0,Tunisia,2012,London,Tennis Women's Singles,---
+21.0,167.0,66.0,Tunisia,2016,Rio de Janeiro,Tennis Women's Singles,---
+19.0,177.0,59.0,Serbia and Montenegro,2004,Athina,Tennis Women's Singles,---
+23.0,177.0,59.0,Serbia,2008,Beijing,Tennis Women's Singles,---
+27.0,177.0,59.0,Serbia,2012,London,Tennis Women's Singles,---
+25.0,177.0,64.0,Great Britain,1992,Barcelona,Tennis Women's Singles,---
+24.0,154.0,54.0,Canada,2000,Sydney,Tennis Women's Singles,---
+25.0,167.0,55.0,South Korea,2004,Athina,Tennis Women's Singles,---
+24.0,179.0,65.0,Bosnia and Herzegovina,2004,Athina,Tennis Women's Singles,---
+23.0,180.0,68.0,Germany,2000,Sydney,Tennis Women's Singles,---
+19.0,181.0,75.0,Estonia,2004,Athina,Tennis Women's Singles,---
+23.0,181.0,75.0,Estonia,2008,Beijing,Tennis Women's Singles,---
+19.0,170.0,62.0,Russia,2016,Rio de Janeiro,Tennis Women's Singles,---
+18.0,165.0,62.0,Canada,1988,Seoul,Tennis Women's Singles,---
+28.0,174.0,63.0,Great Britain,2012,London,Tennis Women's Singles,---
+24.0,173.0,68.0,Germany,2012,London,Tennis Women's Singles,---
+28.0,173.0,68.0,Germany,2016,Rio de Janeiro,Tennis Women's Singles,Silver
+21.0,178.0,68.0,United States,2016,Rio de Janeiro,Tennis Women's Singles,---
+19.0,172.0,60.0,South Korea,1988,Seoul,Tennis Women's Singles,---
+23.0,172.0,60.0,South Korea,1992,Barcelona,Tennis Women's Singles,---
+25.0,174.0,60.0,Russia,2012,London,Tennis Women's Singles,---
+29.0,180.0,72.0,Italy,2016,Rio de Janeiro,Tennis Women's Singles,---
+24.0,184.0,68.0,West Germany,1988,Seoul,Tennis Women's Singles,---
+18.0,174.0,65.0,Croatia,2016,Rio de Janeiro,Tennis Women's Singles,---
+25.0,183.0,70.0,Great Britain,2016,Rio de Janeiro,Tennis Women's Singles,---
+23.0,168.0,54.0,Ukraine,2008,Beijing,Tennis Women's Singles,---
+23.0,168.0,59.0,Croatia,2004,Athina,Tennis Women's Singles,---
+22.0,166.0,51.0,Czech Republic,2004,Athina,Tennis Women's Singles,---
+26.0,166.0,51.0,Czech Republic,2008,Beijing,Tennis Women's Singles,---
+30.0,166.0,51.0,Czech Republic,2012,London,Tennis Women's Singles,---
+15.0,173.0,56.0,Russia,1996,Atlanta,Tennis Women's Singles,---
+21.0,169.0,67.0,Montenegro,2016,Rio de Janeiro,Tennis Women's Singles,---
+20.0,165.0,55.0,Luxembourg,1996,Atlanta,Tennis Women's Singles,---
+24.0,165.0,55.0,Luxembourg,2000,Sydney,Tennis Women's Singles,---
+28.0,165.0,55.0,Luxembourg,2004,Athina,Tennis Women's Singles,---
+22.0,179.0,59.0,South Africa,1996,Atlanta,Tennis Women's Singles,---
+23.0,167.0,53.0,Serbia,2016,Rio de Janeiro,Tennis Women's Singles,---
+20.0,181.0,66.0,Slovakia,2004,Athina,Tennis Women's Singles,---
+22.0,175.0,66.0,Hungary,2000,Sydney,Tennis Women's Singles,---
+19.0,174.0,73.0,Russia,2004,Athina,Tennis Women's Singles,---
+23.0,174.0,73.0,Russia,2008,Beijing,Tennis Women's Singles,---
+31.0,174.0,73.0,Russia,2016,Rio de Janeiro,Tennis Women's Singles,---
+22.0,183.0,70.0,Czech Republic,2012,London,Tennis Women's Singles,---
+26.0,183.0,70.0,Czech Republic,2016,Rio de Janeiro,Tennis Women's Singles,Bronze
+21.0,170.0,64.0,Argentina,1992,Barcelona,Tennis Women's Singles,---
+25.0,170.0,64.0,Argentina,1996,Atlanta,Tennis Women's Singles,---
+29.0,170.0,64.0,Argentina,2000,Sydney,Tennis Women's Singles,---
+27.0,174.0,66.0,Sweden,2016,Rio de Janeiro,Tennis Women's Singles,---
+21.0,170.0,60.0,South Korea,1988,Seoul,Tennis Women's Singles,---
+26.0,180.0,72.0,United States,2012,London,Tennis Women's Singles,---
+19.0,166.0,62.0,China,1992,Barcelona,Tennis Women's Singles,---
+18.0,172.0,67.0,China,2000,Sydney,Tennis Women's Singles,---
+26.0,172.0,67.0,China,2008,Beijing,Tennis Women's Singles,---
+30.0,172.0,67.0,China,2012,London,Tennis Women's Singles,---
+20.0,174.0,60.0,Russia,1996,Atlanta,Tennis Women's Singles,---
+25.0,174.0,60.0,Russia,2000,Sydney,Tennis Women's Singles,---
+25.0,165.0,57.0,Sweden,1988,Seoul,Tennis Women's Singles,---
+29.0,165.0,57.0,Sweden,1992,Barcelona,Tennis Women's Singles,---
+24.0,171.0,59.0,Poland,2016,Rio de Janeiro,Tennis Women's Singles,---
+22.0,178.0,70.0,Germany,2012,London,Tennis Women's Singles,---
+28.0,156.0,53.0,Spain,2008,Beijing,Tennis Women's Singles,---
+18.0,176.0,60.0,Croatia,1996,Atlanta,Tennis Women's Singles,---
+23.0,176.0,60.0,Croatia,2000,Sydney,Tennis Women's Singles,---
+28.0,176.0,65.0,Russia,2016,Rio de Janeiro,Tennis Women's Singles,---
+23.0,179.0,65.0,Russia,1996,Atlanta,Tennis Women's Singles,---
+19.0,167.0,55.0,Bulgaria,1988,Seoul,Tennis Women's Singles,---
+23.0,167.0,55.0,Bulgaria,1992,Barcelona,Tennis Women's Singles,---
+17.0,168.0,59.0,Bulgaria,1992,Barcelona,Tennis Women's Singles,---
+21.0,168.0,59.0,Bulgaria,1996,Atlanta,Tennis Women's Singles,---
+29.0,168.0,59.0,Bulgaria,2004,Athina,Tennis Women's Singles,---
+21.0,173.0,58.0,Bulgaria,1988,Seoul,Tennis Women's Singles,Bronze
+25.0,173.0,58.0,Switzerland,1992,Barcelona,Tennis Women's Singles,---
+22.0,179.0,66.0,Hungary,2000,Sydney,Tennis Women's Singles,---
+26.0,179.0,66.0,Hungary,2004,Athina,Tennis Women's Singles,---
+24.0,176.0,70.0,Unified Team,1992,Barcelona,Tennis Women's Singles,---
+20.0,178.0,64.0,Hungary,2000,Sydney,Tennis Women's Singles,---
+20.0,170.0,59.0,Spain,1992,Barcelona,Tennis Women's Singles,---
+24.0,170.0,59.0,Spain,1996,Atlanta,Tennis Women's Singles,---
+28.0,170.0,59.0,Spain,2000,Sydney,Tennis Women's Singles,---
+32.0,170.0,59.0,Spain,2004,Athina,Tennis Women's Singles,---
+25.0,176.0,68.0,Spain,2008,Beijing,Tennis Women's Singles,---
+29.0,176.0,68.0,Spain,2012,London,Tennis Women's Singles,---
+24.0,175.0,62.0,Slovenia,2004,Athina,Tennis Women's Singles,---
+21.0,175.0,69.0,France,2000,Sydney,Tennis Women's Singles,---
+25.0,175.0,69.0,France,2004,Athina,Tennis Women's Singles,Silver
+20.0,170.0,58.0,United States,2012,London,Tennis Women's Singles,---
+20.0,174.0,61.0,Australia,1992,Barcelona,Tennis Women's Singles,---
+24.0,174.0,61.0,Australia,1996,Atlanta,Tennis Women's Singles,---
+22.0,169.0,59.0,Spain,2004,Athina,Tennis Women's Singles,---
+26.0,169.0,59.0,Spain,2008,Beijing,Tennis Women's Singles,---
+29.0,169.0,59.0,Spain,2012,London,Tennis Women's Singles,---
+20.0,164.0,54.0,Soviet Union,1988,Seoul,Tennis Women's Singles,---
+24.0,164.0,54.0,Unified Team,1992,Barcelona,Tennis Women's Singles,---
+25.0,165.0,55.0,Australia,1988,Seoul,Tennis Women's Singles,---
+19.0,170.0,55.0,Brazil,1988,Seoul,Tennis Women's Singles,---
+21.0,173.0,57.0,India,2008,Beijing,Tennis Women's Singles,---
+24.0,175.0,60.0,Romania,2016,Rio de Janeiro,Tennis Women's Singles,---
+23.0,184.0,60.0,France,2016,Rio de Janeiro,Tennis Women's Singles,---
+19.0,182.0,78.0,Australia,2000,Sydney,Tennis Women's Singles,---
+23.0,182.0,78.0,Australia,2004,Athina,Tennis Women's Singles,Bronze
+27.0,182.0,78.0,Australia,2008,Beijing,Tennis Women's Singles,---
+24.0,167.0,57.0,Japan,2004,Athina,Tennis Women's Singles,---
+18.0,165.0,56.0,Japan,2008,Beijing,Tennis Women's Singles,---
+22.0,182.0,73.0,Spain,2016,Rio de Janeiro,Tennis Women's Singles,---
+17.0,167.0,59.0,Zimbabwe,1988,Seoul,Tennis Women's Singles,---
+25.0,179.0,68.0,Netherlands,1992,Barcelona,Tennis Women's Singles,---
+19.0,176.0,59.0,Russia,2000,Sydney,Tennis Women's Singles,---
+23.0,176.0,59.0,Russia,2004,Athina,Tennis Women's Singles,---
+21.0,177.0,60.0,Slovakia,2000,Sydney,Tennis Women's Singles,---
+19.0,160.0,55.0,Slovakia,2008,Beijing,Tennis Women's Singles,---
+23.0,160.0,55.0,Slovakia,2012,London,Tennis Women's Singles,---
+22.0,175.0,65.0,Canada,1996,Atlanta,Tennis Women's Singles,---
+28.0,168.0,63.0,Romania,2016,Rio de Janeiro,Tennis Women's Singles,---
+19.0,175.0,63.0,Czechoslovakia,1988,Seoul,Tennis Women's Singles,---
+23.0,175.0,63.0,Czechoslovakia,1992,Barcelona,Tennis Women's Singles,---
+27.0,175.0,63.0,Czech Republic,1996,Atlanta,Tennis Women's Singles,Bronze
+23.0,173.0,60.0,Poland,1992,Barcelona,Tennis Women's Singles,---
+26.0,167.0,56.0,Japan,2004,Athina,Tennis Women's Singles,---
+35.0,172.0,58.0,Israel,2008,Beijing,Tennis Women's Singles,---
+23.0,160.0,48.0,Japan,1988,Seoul,Tennis Women's Singles,---
+18.0,165.0,56.0,Poland,1996,Atlanta,Tennis Women's Singles,---
+28.0,169.0,65.0,Netherlands,2000,Sydney,Tennis Women's Singles,---
+19.0,177.0,68.0,Latvia,2016,Rio de Janeiro,Tennis Women's Singles,---
+20.0,166.0,50.0,Bulgaria,1992,Barcelona,Tennis Women's Singles,---
+19.0,173.0,55.0,Greece,1992,Barcelona,Tennis Women's Singles,---
+23.0,173.0,55.0,Greece,1996,Atlanta,Tennis Women's Singles,---
+21.0,165.0,53.0,South Korea,1996,Atlanta,Tennis Women's Singles,---
+22.0,175.0,65.0,France,2008,Beijing,Tennis Women's Singles,---
+21.0,165.0,62.0,Austria,2012,London,Tennis Women's Singles,---
+18.0,177.0,62.0,Austria,1988,Seoul,Tennis Women's Singles,---
+21.0,177.0,62.0,Austria,1992,Barcelona,Tennis Women's Singles,---
+25.0,177.0,72.0,Russia,2016,Rio de Janeiro,Tennis Women's Singles,---
+22.0,178.0,74.0,Argentina,1988,Seoul,Tennis Women's Singles,---
+26.0,178.0,74.0,Argentina,1992,Barcelona,Tennis Women's Singles,---
+21.0,170.0,60.0,Israel,2008,Beijing,Tennis Women's Singles,---
+25.0,170.0,60.0,Israel,2012,London,Tennis Women's Singles,---
+22.0,173.0,61.0,China,2008,Beijing,Tennis Women's Singles,---
+26.0,173.0,61.0,China,2012,London,Tennis Women's Singles,---
+30.0,173.0,61.0,China,2016,Rio de Janeiro,Tennis Women's Singles,---
+26.0,172.0,58.0,Italy,2008,Beijing,Tennis Women's Singles,---
+30.0,172.0,58.0,Italy,2012,London,Tennis Women's Singles,---
+21.0,173.0,59.0,Ukraine,2004,Athina,Tennis Women's Singles,---
+25.0,173.0,59.0,Ukraine,2008,Beijing,Tennis Women's Singles,---
+28.0,167.0,62.0,Brazil,2016,Rio de Janeiro,Tennis Women's Singles,---
+28.0,180.0,69.0,Germany,2016,Rio de Janeiro,Tennis Women's Singles,---
+22.0,178.0,65.0,Russia,2004,Athina,Tennis Women's Singles,---
+30.0,178.0,65.0,Russia,2012,London,Tennis Women's Singles,---
+17.0,180.0,64.0,France,1992,Barcelona,Tennis Women's Singles,---
+21.0,180.0,64.0,France,1996,Atlanta,Tennis Women's Singles,---
+29.0,180.0,64.0,France,2004,Athina,Tennis Women's Singles,---
+20.0,180.0,66.0,Bulgaria,2008,Beijing,Tennis Women's Singles,---
+24.0,180.0,66.0,Bulgaria,2012,London,Tennis Women's Singles,---
+28.0,180.0,66.0,Bulgaria,2016,Rio de Janeiro,Tennis Women's Singles,---
+19.0,172.0,65.0,Slovenia,2000,Sydney,Tennis Women's Singles,---
+23.0,172.0,65.0,Slovenia,2004,Athina,Tennis Women's Singles,---
+23.0,177.0,65.0,Austria,2000,Sydney,Tennis Women's Singles,---
+19.0,162.0,55.0,Indonesia,2000,Sydney,Tennis Women's Singles,---
+27.0,163.0,54.0,Australia,2000,Sydney,Tennis Women's Singles,---
+31.0,163.0,54.0,Australia,2004,Athina,Tennis Women's Singles,---
+22.0,176.0,61.0,Australia,1992,Barcelona,Tennis Women's Singles,---
+26.0,176.0,61.0,Australia,1996,Atlanta,Tennis Women's Singles,---
+22.0,170.0,64.0,Puerto Rico,2016,Rio de Janeiro,Tennis Women's Singles,Gold
+19.0,172.0,56.0,Poland,2008,Beijing,Tennis Women's Singles,---
+23.0,172.0,56.0,Poland,2012,London,Tennis Women's Singles,---
+27.0,172.0,56.0,Poland,2016,Rio de Janeiro,Tennis Women's Singles,---
+21.0,178.0,57.0,Poland,2012,London,Tennis Women's Singles,---
+20.0,182.0,67.0,Czechoslovakia,1988,Seoul,Tennis Women's Singles,---
+15.0,165.0,55.0,Madagascar,1992,Barcelona,Tennis Women's Singles,---
+19.0,165.0,55.0,Madagascar,1996,Atlanta,Tennis Women's Singles,---
+27.0,165.0,55.0,Madagascar,2004,Athina,Tennis Women's Singles,---
+14.0,173.0,52.0,Madagascar,1992,Barcelona,Tennis Women's Singles,---
+31.0,165.0,55.0,United States,2004,Athina,Tennis Women's Singles,---
+25.0,173.0,64.0,France,2008,Beijing,Tennis Women's Singles,---
+22.0,173.0,56.0,Italy,1988,Seoul,Tennis Women's Singles,---
+26.0,173.0,56.0,Italy,1992,Barcelona,Tennis Women's Singles,---
+20.0,174.0,60.0,Austria,1992,Barcelona,Tennis Women's Singles,---
+19.0,173.0,65.0,Germany,1992,Barcelona,Tennis Women's Singles,---
+18.0,180.0,62.0,Great Britain,2012,London,Tennis Women's Singles,---
+22.0,164.0,60.0,Spain,1996,Atlanta,Tennis Women's Singles,---
+28.0,167.0,61.0,United States,2004,Athina,Tennis Women's Singles,---
+18.0,175.0,64.0,Argentina,1988,Seoul,Tennis Women's Singles,Silver
+26.0,175.0,64.0,Argentina,1996,Atlanta,Tennis Women's Singles,---
+21.0,177.0,65.0,Czech Republic,2008,Beijing,Tennis Women's Singles,---
+25.0,177.0,65.0,Czech Republic,2012,London,Tennis Women's Singles,---
+29.0,177.0,65.0,Czech Republic,2016,Rio de Janeiro,Tennis Women's Singles,---
+22.0,182.0,70.0,Russia,2008,Beijing,Tennis Women's Singles,Silver
+17.0,173.0,60.0,Argentina,2000,Sydney,Tennis Women's Singles,---
+26.0,171.0,59.0,Spain,2004,Athina,Tennis Women's Singles,---
+16.0,169.0,56.0,Spain,1988,Seoul,Tennis Women's Singles,---
+20.0,169.0,56.0,Spain,1992,Barcelona,Tennis Women's Singles,Bronze
+24.0,169.0,56.0,Spain,1996,Atlanta,Tennis Women's Singles,Silver
+28.0,169.0,56.0,Spain,2000,Sydney,Tennis Women's Singles,---
+27.0,183.0,63.0,Italy,2008,Beijing,Tennis Women's Singles,---
+22.0,169.0,61.0,Soviet Union,1988,Seoul,Tennis Women's Singles,---
+26.0,169.0,61.0,Latvia,1992,Barcelona,Tennis Women's Singles,---
+19.0,167.0,58.0,Japan,1992,Barcelona,Tennis Women's Singles,---
+23.0,167.0,58.0,Japan,1996,Atlanta,Tennis Women's Singles,---
+20.0,169.0,62.0,Luxembourg,2004,Athina,Tennis Women's Singles,---
+24.0,176.0,70.0,Austria,2000,Sydney,Tennis Women's Singles,---
+22.0,170.0,65.0,Denmark,1988,Seoul,Tennis Women's Singles,---
+24.0,166.0,64.0,Italy,2004,Athina,Tennis Women's Singles,---
+28.0,166.0,64.0,Italy,2008,Beijing,Tennis Women's Singles,---
+32.0,166.0,64.0,Italy,2012,London,Tennis Women's Singles,---
+21.0,176.0,63.0,Slovakia,2016,Rio de Janeiro,Tennis Women's Singles,---
+17.0,168.0,56.0,Switzerland,1996,Atlanta,Tennis Women's Singles,---
+25.0,168.0,56.0,Switzerland,2004,Athina,Tennis Women's Singles,---
+29.0,168.0,56.0,Switzerland,2008,Beijing,Tennis Women's Singles,---
+21.0,189.0,77.0,Netherlands,1992,Barcelona,Tennis Women's Singles,---
+25.0,189.0,77.0,Netherlands,1996,Atlanta,Tennis Women's Singles,---
+22.0,179.0,70.0,United States,1996,Atlanta,Tennis Women's Singles,---
+26.0,179.0,70.0,United States,2000,Sydney,Tennis Women's Singles,Bronze
+27.0,170.0,58.0,Venezuela,2008,Beijing,Tennis Women's Singles,---
+21.0,167.0,65.0,Spain,2000,Sydney,Tennis Women's Singles,---
+25.0,167.0,65.0,Spain,2004,Athina,Tennis Women's Singles,---
+20.0,160.0,58.0,Italy,1996,Atlanta,Tennis Women's Singles,---
+19.0,166.0,55.0,Tunisia,1996,Atlanta,Tennis Women's Singles,---
+31.0,166.0,55.0,Tunisia,2008,Beijing,Tennis Women's Singles,---
+25.0,188.0,59.0,Russia,2012,London,Tennis Women's Singles,Silver
+26.0,183.0,70.0,United States,1988,Seoul,Tennis Women's Singles,---
+24.0,180.0,68.0,Kazakhstan,2012,London,Tennis Women's Singles,---
+28.0,180.0,68.0,Kazakhstan,2016,Rio de Janeiro,Tennis Women's Singles,---
+28.0,168.0,62.0,Germany,2016,Rio de Janeiro,Tennis Women's Singles,---
+26.0,175.0,65.0,Canada,1992,Barcelona,Tennis Women's Singles,---
+28.0,159.0,52.0,Israel,2004,Athina,Tennis Women's Singles,---
+20.0,175.0,62.0,Great Britain,1992,Barcelona,Tennis Women's Singles,---
+25.0,166.0,58.0,Australia,1988,Seoul,Tennis Women's Singles,---
+24.0,169.0,61.0,Spain,2012,London,Tennis Women's Singles,---
+18.0,185.0,75.0,Romania,1992,Barcelona,Tennis Women's Singles,---
+19.0,175.0,60.0,Croatia,2004,Athina,Tennis Women's Singles,---
+19.0,180.0,62.0,Slovenia,2000,Sydney,Tennis Women's Singles,---
+23.0,180.0,62.0,Slovenia,2004,Athina,Tennis Women's Singles,---
+23.0,173.0,65.0,United States,2016,Rio de Janeiro,Tennis Women's Singles,---
+20.0,175.0,68.0,Australia,2004,Athina,Tennis Women's Singles,---
+24.0,175.0,68.0,Australia,2008,Beijing,Tennis Women's Singles,---
+28.0,175.0,68.0,Australia,2012,London,Tennis Women's Singles,---
+32.0,175.0,68.0,Australia,2016,Rio de Janeiro,Tennis Women's Singles,---
+18.0,164.0,60.0,Czech Republic,2004,Athina,Tennis Women's Singles,---
+30.0,164.0,60.0,Czech Republic,2016,Rio de Janeiro,Tennis Women's Singles,---
+25.0,178.0,65.0,Australia,1996,Atlanta,Tennis Women's Singles,---
+23.0,172.0,63.0,Slovakia,1996,Atlanta,Tennis Women's Singles,---
+19.0,162.0,62.0,Spain,2008,Beijing,Tennis Women's Singles,---
+23.0,162.0,62.0,Spain,2012,London,Tennis Women's Singles,---
+27.0,162.0,62.0,Spain,2016,Rio de Janeiro,Tennis Women's Singles,---
+24.0,170.0,64.0,Argentina,2000,Sydney,Tennis Women's Singles,---
+28.0,170.0,64.0,Argentina,2004,Athina,Tennis Women's Singles,---
+23.0,170.0,56.0,Slovakia,2004,Athina,Tennis Women's Singles,---
+21.0,161.0,56.0,Japan,1996,Atlanta,Tennis Women's Singles,---
+25.0,161.0,56.0,Japan,2000,Sydney,Tennis Women's Singles,---
+29.0,161.0,56.0,Japan,2004,Athina,Tennis Women's Singles,---
+33.0,161.0,56.0,Japan,2008,Beijing,Tennis Women's Singles,---
+29.0,168.0,60.0,France,1988,Seoul,Tennis Women's Singles,---
+23.0,188.0,68.0,Czechoslovakia,1988,Seoul,Tennis Women's Singles,---
+27.0,188.0,68.0,Czechoslovakia,1992,Barcelona,Tennis Women's Singles,---
+31.0,188.0,68.0,Czech Republic,1996,Atlanta,Tennis Women's Singles,---
+21.0,174.0,60.0,Ukraine,2016,Rio de Janeiro,Tennis Women's Singles,---
+19.0,172.0,62.0,Hungary,2008,Beijing,Tennis Women's Singles,---
+23.0,172.0,62.0,Hungary,2012,London,Tennis Women's Singles,---
+22.0,171.0,62.0,Georgia,2012,London,Tennis Women's Singles,---
+22.0,173.0,58.0,Croatia,2000,Sydney,Tennis Women's Singles,---
+23.0,165.0,60.0,Thailand,2000,Sydney,Tennis Women's Singles,---
+27.0,165.0,60.0,Thailand,2004,Athina,Tennis Women's Singles,---
+31.0,165.0,60.0,Thailand,2008,Beijing,Tennis Women's Singles,---
+23.0,169.0,60.0,Argentina,1992,Barcelona,Tennis Women's Singles,---
+20.0,165.0,54.0,France,1988,Seoul,Tennis Women's Singles,---
+24.0,165.0,54.0,France,1992,Barcelona,Tennis Women's Singles,---
+28.0,165.0,54.0,France,1996,Atlanta,Tennis Women's Singles,---
+30.0,180.0,64.0,Hungary,1996,Atlanta,Tennis Women's Singles,---
+32.0,176.0,68.0,France,2004,Athina,Tennis Women's Singles,---
+20.0,170.0,58.0,Greece,1988,Seoul,Tennis Women's Singles,---
+18.0,172.0,63.0,Uzbekistan,2000,Sydney,Tennis Women's Singles,---
+35.0,163.0,55.0,Australia,1988,Seoul,Tennis Women's Singles,---
+19.0,183.0,69.0,Czech Republic,2008,Beijing,Tennis Women's Singles,---
+23.0,171.0,56.0,Belgium,1996,Atlanta,Tennis Women's Singles,---
+27.0,171.0,56.0,Belgium,2000,Sydney,Tennis Women's Singles,---
+22.0,175.0,62.0,Switzerland,2000,Sydney,Tennis Women's Singles,---
+26.0,168.0,64.0,Venezuela,2000,Sydney,Tennis Women's Singles,---
+30.0,168.0,64.0,Venezuela,2004,Athina,Tennis Women's Singles,---
+29.0,164.0,58.0,Italy,2012,London,Tennis Women's Singles,---
+33.0,164.0,58.0,Italy,2016,Rio de Janeiro,Tennis Women's Singles,---
+22.0,165.0,63.0,Liechtenstein,2012,London,Tennis Women's Singles,---
+26.0,165.0,63.0,Liechtenstein,2016,Rio de Janeiro,Tennis Women's Singles,---
+27.0,184.0,70.0,Kazakhstan,2012,London,Tennis Women's Singles,---
+24.0,172.0,60.0,China,2016,Rio de Janeiro,Tennis Women's Singles,---
+22.0,170.0,57.0,Chinese Taipei,1996,Atlanta,Tennis Women's Singles,---
+22.0,176.0,67.0,Austria,2000,Sydney,Tennis Women's Singles,---
+20.0,168.0,64.0,Great Britain,2012,London,Tennis Women's Singles,---
+24.0,168.0,64.0,Great Britain,2016,Rio de Janeiro,Tennis Women's Singles,---
+22.0,182.0,68.0,Belgium,2012,London,Tennis Women's Singles,---
+26.0,182.0,68.0,Belgium,2016,Rio de Janeiro,Tennis Women's Singles,---
+19.0,176.0,65.0,Indonesia,2004,Athina,Tennis Women's Singles,---
+26.0,170.0,65.0,Austria,1992,Barcelona,Tennis Women's Singles,---
+30.0,170.0,65.0,Austria,1996,Atlanta,Tennis Women's Singles,---
+26.0,175.0,70.0,United States,2008,Beijing,Tennis Women's Singles,---
+30.0,175.0,70.0,United States,2012,London,Tennis Women's Singles,Gold
+34.0,175.0,70.0,United States,2016,Rio de Janeiro,Tennis Women's Singles,---
+20.0,185.0,75.0,United States,2000,Sydney,Tennis Women's Singles,Gold
+24.0,185.0,75.0,United States,2004,Athina,Tennis Women's Singles,---
+28.0,185.0,75.0,United States,2008,Beijing,Tennis Women's Singles,---
+32.0,185.0,75.0,United States,2012,London,Tennis Women's Singles,---
+36.0,185.0,75.0,United States,2016,Rio de Janeiro,Tennis Women's Singles,---
+20.0,175.0,65.0,Great Britain,1988,Seoul,Tennis Women's Singles,---
+28.0,175.0,65.0,Great Britain,1996,Atlanta,Tennis Women's Singles,---
+18.0,179.0,58.0,Denmark,2008,Beijing,Tennis Women's Singles,---
+22.0,179.0,58.0,Denmark,2012,London,Tennis Women's Singles,---
+26.0,179.0,58.0,Denmark,2016,Rio de Janeiro,Tennis Women's Singles,---
+24.0,175.0,63.0,Canada,2012,London,Tennis Women's Singles,---
+23.0,171.0,55.0,China,2008,Beijing,Tennis Women's Singles,---
+22.0,168.0,60.0,China,1996,Atlanta,Tennis Women's Singles,---
+26.0,168.0,60.0,China,2000,Sydney,Tennis Women's Singles,---
+22.0,165.0,53.0,Switzerland,1992,Barcelona,Tennis Women's Singles,---
+27.0,177.0,66.0,China,2016,Rio de Janeiro,Tennis Women's Singles,---
+21.0,164.0,57.0,China,2004,Athina,Tennis Women's Singles,---
+25.0,164.0,57.0,China,2008,Beijing,Tennis Women's Singles,---
+29.0,164.0,57.0,China,2012,London,Tennis Women's Singles,---
+22.0,170.0,62.0,China,2016,Rio de Janeiro,Tennis Women's Singles,---
+21.0,169.0,60.0,Czechoslovakia,1992,Barcelona,Tennis Women's Singles,---
+25.0,169.0,60.0,Slovakia,1996,Atlanta,Tennis Women's Singles,---
+21.0,171.0,65.0,Colombia,2000,Sydney,Tennis Women's Singles,---
+25.0,171.0,65.0,Colombia,2004,Athina,Tennis Women's Singles,---
+17.0,172.0,60.0,Soviet Union,1988,Seoul,Tennis Women's Singles,---
+21.0,172.0,60.0,Unified Team,1992,Barcelona,Tennis Women's Singles,---
+25.0,172.0,60.0,Belarus,1996,Atlanta,Tennis Women's Singles,---
+29.0,172.0,60.0,Belarus,2000,Sydney,Tennis Women's Singles,---
+23.0,172.0,59.0,Russia,2008,Beijing,Tennis Women's Singles,Bronze
+27.0,172.0,59.0,Russia,2012,London,Tennis Women's Singles,---
